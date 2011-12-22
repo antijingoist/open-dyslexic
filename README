@@ -1,9 +1,11 @@
 font to help readability, and help dyslexic readability.
 
 Rules:
-- add weight bottoms
 - similar letters must look different
+- make the letters have some weight to them.
 - Try not to look like a handwritten or comic sans font. To some extent, this may be unavoidable, but differing degrees of readability can be a trade-off
 - Intent to be used as 'the' on screen UI font is in my head also.
 
 Basing off of Bitstream Vera Sans because of the license. 
+
+If you are looking for the source file, it is the .ttf file. 
