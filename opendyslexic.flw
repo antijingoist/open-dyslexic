@@ -1,8 +1,0 @@
-fl.Open(r"/Users/abelardogonzalez/Documents/github/open-dyslexic/opendyslexic-bold.vfb")
-fl.SetFontWindow(-1,  Rect(220, 171, 1123, 715), 0)
-fl.Open(r"/Users/abelardogonzalez/Documents/github/open-dyslexic/opendyslexic-italic-bold.vfb")
-fl.SetFontWindow(-1,  Rect(231, 192, 1134, 736), 0)
-fl.Open(r"/Users/abelardogonzalez/Documents/github/open-dyslexic/opendyslexic-italic.vfb")
-fl.SetFontWindow(-1,  Rect(262, 111, 1165, 655), 0)
-fl.Open(r"/Users/abelardogonzalez/Documents/github/open-dyslexic/opendyslexic.vfb")
-fl.SetFontWindow(-1,  Rect(360, 91, 1263, 635), 0)
