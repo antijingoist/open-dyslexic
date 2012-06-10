@@ -281,6 +281,12 @@ value = (
     c6467,
     c6468,
     c6469
+);},
+{
+name = openTypeOS2Type;
+value = (
+    3,
+    8
 );}
 );
 date = "2012-06-02 17:01:17 +0000";
@@ -16406,6 +16412,9 @@ ydieresis = 124;
 yen = 113;
 zcaron = 97;
 };
+r = {
+f = 100;
+};
 summation = {
 AE = "-68";
 Cacute = 77;
@@ -16729,9 +16738,6 @@ uni2215 = 313;
 yacute = 66;
 ydieresis = 66;
 yen = 213;
-};
-r = {
-f = 100;
 };
 };
 };
