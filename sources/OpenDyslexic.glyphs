@@ -6,7 +6,7 @@ code = "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Agrave Aacute Acircu
 name = Uppercase;
 }
 );
-copyright = "Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)";
+copyright = "OpenDyslexic(open-dyslexic) by Abelardo Gonzalez is licensed under a Creative Commons Attribution 3.0 Unported License.\012Based on a work at dyslexicfonts.com.\012Permissions beyond the scope of this license may be available at http://dyslexicfonts.com/license.php.";
 customParameters = (
 {
 name = glyphOrder;
