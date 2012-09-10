@@ -333,6 +333,13 @@ name = cpsp;
 );
 fontMaster = (
 {
+alignmentZones = (
+"{1539, 16}",
+"{1455, 26}",
+"{1108, 7}",
+"{0, -31}",
+"{-404, -46}"
+);
 ascender = 1539;
 capHeight = 1455;
 customParameters = (
@@ -350,8 +357,20 @@ value = "-213";
 }
 );
 descender = "-404";
+horizontalStems = (
+261,
+123,
+176,
+223
+);
 id = "013FA67F-D7C9-4F04-AAC6-32032829ED9A";
 italicAngle = 12.0002;
+verticalStems = (
+916,
+155,
+1291,
+1370
+);
 weight = Bold;
 weightValue = 700;
 widthValue = 5;

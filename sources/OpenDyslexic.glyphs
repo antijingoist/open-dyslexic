@@ -339,6 +339,13 @@ name = cpsp;
 );
 fontMaster = (
 {
+alignmentZones = (
+"{1556, 16}",
+"{1493, 28}",
+"{1120, 28}",
+"{0, -31}",
+"{-426, -46}"
+);
 ascender = 1556;
 capHeight = 1493;
 customParameters = (
@@ -361,6 +368,12 @@ userData = {
 GSOffsetHorizontal = 15;
 GSOffsetVertical = 10;
 };
+verticalStems = (
+1282,
+201,
+1028,
+1382
+);
 weightValue = 400;
 widthValue = 5;
 xHeight = 1120;
