@@ -1,5 +1,13 @@
+README
+======
+
+![Facebook example](https://github.com/antijingoist/open-dyslexic/raw/master/screenshots/facebook-dyslexic.png)
+
+![ZDNet example](https://github.com/antijingoist/open-dyslexic/raw/master/screenshots/zdnetarticle.PNG)
+
 Download latest version of the font on github by clicking the TTF in the tree, and view it RAW.
-The latest version may not always be the best version. If you want a stable version, check http://dyslexicfonts.com/downloads.php or http://dafont.com/open-dyslexic.font for a stable. 
+
+The latest version may not always be the best version. If you want a stable version, check http://dyslexicfonts.com/downloads.php or http://dafont.com/open-dyslexic.font for a stable.
 
 If you are upgrading your copy of this font, you may want to remove previous version first. 
 Also, the naming convention will now be "opendyslexic" and "opendyslexic-[style]."
@@ -11,6 +19,7 @@ See what it looks like in the screenshots on http://dyslexicfonts.com
 font to help readability, and help dyslexic readability.
 
 Rules:
+
 - similar letters must look different
 - make the letters have some weight to them.
 - Try not to look like a handwritten or comic sans font. To some extent, this may be unavoidable, but differing degrees of readability can be a trade-off
@@ -18,6 +27,7 @@ Rules:
 I am not posting a separate version of it in the downloads section again until version 1.0.
 
 Thanks to everyone that donated during the Glyphs app fundraising:
+
 - Cheryl Marshall
 - Anonymous (MG). <-- look at that, anonymous supports this. :D 
 - Eric Bailey
@@ -28,10 +38,14 @@ You guys are super cool! Thanks!
 
 It is based on Bitstream Vera Sans because of the nice license it has. 
 
-If you are looking for the source file, it is the .ttf file. Also, I am not packaging this as an EXE file. 
-You should not have downloaded this a an exe. You may get spyware. :( If you were compelled to pay for this font, ask for a refund. This font is provided at no charge. Donations are cool though. :)
+If you are looking for the source file, it is the .ttf file. Also, I am not packaging this as an EXE file.
+
+You should not have downloaded this as an exe. You may get spyware. :( If you were compelled to pay for this font, ask for a refund. This font is provided at no charge. Donations are cool though. :)
+
 Places I've officially uploaded the latest stable versions to are dafont.com and http://dyslexicfonts.com
 
+License
+-------
 The license for this font is: 
 
 OpenDyslexic(open-dyslexic) by Abelardo Gonzalez is licensed under a Creative Commons Attribution 3.0 Unported License.
