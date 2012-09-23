@@ -18,6 +18,10 @@ See what it looks like in the screenshots on http://dyslexicfonts.com
 
 font to help readability, and help dyslexic readability.
 
+Your brain can sometimes do funny things to letters. OpenDyslexic tries to help prevent some of these things from happening. Letters have heavy weighted bottoms to add a kind of "gravity" to each letter, helping to keep your brain from rotating them around in ways that can make them look like other letters. Consistently weighted bottoms can also help reenforce the line of text. The unique shapes of each letter can help prevent flipping and swapping.
+
+OpenDyslexic also takes a different approach to italic styles. It is generally recommended that italics be avoided in reading material for dyslexia. However, instead of taking the normal approach of "slant x% for italic," OpenDyslexic's italic style has been crafted to allow for it's use for emphasis while maintaining readability.
+
 Rules:
 
 - similar letters must look different
