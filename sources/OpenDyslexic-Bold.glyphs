@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-1234567890pyfgcrlaoOeuidhtnsqjkxbmwvz
+"AEIOU\012aeiout"
 );
 classes = (
 {
@@ -362,28 +362,40 @@ value = "-213";
 );
 descender = "-426";
 horizontalStems = (
-1468,
-336,
-0,
-1213,
-1519,
-413,
-1287,
--28
+335,
+301,
+370,
+206,
+441,
+365,
+329,
+282,
+371,
+373,
+330
 );
 id = "D5D14868-B3D8-4E08-9530-062F6179E82D";
 userData = {
 GSCornerRadius = 30;
 };
 verticalStems = (
-240,
-267,
-575,
-836,
-1144
+342,
+362,
+268,
+307,
+278,
+279,
+269,
+246,
+247,
+257,
+255,
+218,
+274,
+257
 );
 weight = Bold;
-weightValue = 700;
+weightValue = 799;
 widthValue = 5;
 xHeight = 1120;
 }
