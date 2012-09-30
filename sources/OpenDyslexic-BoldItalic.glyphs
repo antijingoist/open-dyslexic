@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"aoeuit\012AOEUIT"
+);
 classes = (
 {
 automatic = 1;
@@ -358,21 +361,48 @@ value = "-213";
 );
 descender = "-404";
 horizontalStems = (
-261,
-123,
-176,
-223
+243,
+150,
+380,
+180,
+179,
+312,
+306,
+164,
+141,
+147,
+281,
+315,
+111,
+168,
+273,
+318,
+156,
+274
 );
 id = "013FA67F-D7C9-4F04-AAC6-32032829ED9A";
 italicAngle = 12.0002;
 verticalStems = (
-916,
-155,
-1291,
-1370
+252,
+247,
+197,
+211,
+200,
+220,
+217,
+304,
+292,
+201,
+176,
+218,
+165,
+199,
+196,
+190,
+290
 );
 weight = Bold;
-weightValue = 700;
+weightValue = 800;
 widthValue = 5;
 xHeight = 1108;
 }
