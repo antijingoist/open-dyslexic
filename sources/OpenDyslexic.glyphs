@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+AEOILCDP
+);
 classes = (
 {
 automatic = 1;
@@ -364,12 +367,11 @@ value = "-213";
 );
 descender = "-426";
 horizontalStems = (
-987,
-298,
-1520,
-1440,
--29,
-341
+137,
+384,
+310,
+170,
+184
 );
 id = "6B6936E6-7670-4A82-900D-EAF583C971AF";
 userData = {
@@ -377,15 +379,11 @@ GSOffsetHorizontal = 15;
 GSOffsetVertical = 10;
 };
 verticalStems = (
-183,
-396,
-1023,
-1215,
-261,
-446,
-534,
-1146,
-1263
+213,
+273,
+202,
+242,
+212
 );
 weightValue = 400;
 widthValue = 5;
