@@ -363,16 +363,29 @@ value = "-213";
 }
 );
 descender = "-426";
+horizontalStems = (
+987,
+298,
+1520,
+1440,
+-29,
+341
+);
 id = "6B6936E6-7670-4A82-900D-EAF583C971AF";
 userData = {
 GSOffsetHorizontal = 15;
 GSOffsetVertical = 10;
 };
 verticalStems = (
-1282,
-201,
-1028,
-1382
+183,
+396,
+1023,
+1215,
+261,
+446,
+534,
+1146,
+1263
 );
 weightValue = 400;
 widthValue = 5;
