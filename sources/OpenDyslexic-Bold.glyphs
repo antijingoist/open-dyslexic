@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+1234567890pyfgcrlaoOeuidhtnsqjkxbmwvz
+);
 classes = (
 {
 automatic = 1;
@@ -303,7 +306,7 @@ name = Languagesystems;
 features = (
 {
 automatic = 1;
-code = "feature frac;\012feature ordn;\012feature sups;";
+code = "feature sups;\012feature frac;\012feature ordn;";
 name = aalt;
 },
 {
@@ -358,16 +361,26 @@ value = "-213";
 }
 );
 descender = "-426";
+horizontalStems = (
+1468,
+336,
+0,
+1213,
+1519,
+413,
+1287,
+-28
+);
 id = "D5D14868-B3D8-4E08-9530-062F6179E82D";
 userData = {
 GSCornerRadius = 30;
 };
 verticalStems = (
-1271,
-113,
-247,
-1034,
-1410
+240,
+267,
+575,
+836,
+1144
 );
 weight = Bold;
 weightValue = 700;
