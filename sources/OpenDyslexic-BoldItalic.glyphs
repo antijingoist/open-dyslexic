@@ -1,6 +1,7 @@
 {
 DisplayStrings = (
-"aoeuit\012AOEUIT"
+/.notdef,
+" "
 );
 classes = (
 {
@@ -495,12 +496,12 @@ unicode = 0000;
 },
 {
 glyphname = space;
-lastChange = "2012-06-10 13:56:22 +0000";
+lastChange = "2012-10-07 21:15:41 +0000";
 layers = (
 {
 layerId = "013FA67F-D7C9-4F04-AAC6-32032829ED9A";
 name = Bold;
-width = 651;
+width = 1330;
 }
 );
 unicode = 0020;
