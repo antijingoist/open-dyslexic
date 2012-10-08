@@ -1,8 +1,4 @@
 {
-DisplayStrings = (
-/.notdef,
-" "
-);
 classes = (
 {
 automatic = 1;
@@ -3600,13 +3596,13 @@ unicode = 0060;
 },
 {
 glyphname = a;
-lastChange = "2012-06-02 17:01:23 +0000";
+lastChange = "2012-10-07 22:53:18 +0000";
 layers = (
 {
 anchors = (
 {
 name = ogonek;
-position = "{1235, 10}";
+position = "{802, -27}";
 },
 {
 name = top;
@@ -3631,7 +3627,7 @@ nodes = (
 "439 326 CURVE SMOOTH",
 "477 315 OFFCURVE",
 "526 309 OFFCURVE",
-"585 309 CURVE SMOOTH",
+"585 309 CURVE",
 "736 309 OFFCURVE",
 "786 333 OFFCURVE",
 "786 533 CURVE SMOOTH",
@@ -3673,14 +3669,14 @@ nodes = (
 );
 }
 );
-width = 1372;
+width = 1300;
 }
 );
 unicode = 0061;
 },
 {
 glyphname = b;
-lastChange = "2012-06-02 17:01:23 +0000";
+lastChange = "2012-10-07 22:47:52 +0000";
 layers = (
 {
 layerId = "D5D14868-B3D8-4E08-9530-062F6179E82D";
@@ -3735,7 +3731,7 @@ nodes = (
 );
 }
 );
-width = 1314;
+width = 1580;
 }
 );
 unicode = 0062;
@@ -3871,17 +3867,17 @@ unicode = 0064;
 },
 {
 glyphname = e;
-lastChange = "2012-06-02 17:01:23 +0000";
+lastChange = "2012-10-07 22:53:11 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{684, 0}";
+position = "{724, -27}";
 },
 {
 name = ogonek;
-position = "{1230, 10}";
+position = "{976, -16}";
 },
 {
 name = top;
@@ -4296,21 +4292,21 @@ unicode = 006B;
 },
 {
 glyphname = l;
-lastChange = "2012-06-02 17:01:23 +0000";
+lastChange = "2012-10-07 22:53:36 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{355, 0}";
+position = "{346, 0}";
 },
 {
 name = top;
-position = "{355, 1120}";
+position = "{465, 1556}";
 },
 {
 name = topright;
-position = "{689, 1120}";
+position = "{680, 1120}";
 }
 );
 layerId = "D5D14868-B3D8-4E08-9530-062F6179E82D";
@@ -4319,16 +4315,16 @@ paths = (
 {
 closed = 1;
 nodes = (
-"279 1527 LINE",
-"516 1527 LINE",
-"516 287 LINE",
-"632 287 LINE",
-"632 0 LINE",
-"259 0 LINE"
+"270 1527 LINE",
+"507 1527 LINE",
+"507 287 LINE",
+"623 287 LINE",
+"623 0 LINE",
+"250 0 LINE"
 );
 }
 );
-width = 709;
+width = 873;
 }
 );
 unicode = 006C;
@@ -4809,17 +4805,17 @@ unicode = 0073;
 },
 {
 glyphname = t;
-lastChange = "2012-06-02 17:01:23 +0000";
+lastChange = "2012-10-07 22:46:30 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{420, 0}";
+position = "{451, 0}";
 },
 {
 name = center;
-position = "{420, 560}";
+position = "{451, 560}";
 }
 );
 layerId = "D5D14868-B3D8-4E08-9530-062F6179E82D";
@@ -4828,46 +4824,46 @@ paths = (
 {
 closed = 1;
 nodes = (
-"462 1379 LINE",
-"453 1120 LINE",
-"693 1120 LINE",
-"693 912 LINE",
-"452 912 LINE",
-"442 493 LINE SMOOTH",
-"442 418 OFFCURVE",
-"450 372 OFFCURVE",
-"467 356 CURVE",
-"482 339 OFFCURVE",
-"521 330 OFFCURVE",
-"582 330 CURVE SMOOTH",
-"796 330 LINE",
-"796 0 LINE",
-"582 0 LINE SMOOTH",
-"298 0 OFFCURVE",
-"186 98 OFFCURVE",
-"186 382 CURVE SMOOTH",
-"195 912 LINE",
-"69 912 LINE",
-"69 1120 LINE",
-"196 1120 LINE",
-"205 1379 LINE"
+"493 1379 LINE",
+"484 1120 LINE",
+"724 1120 LINE",
+"724 912 LINE",
+"483 912 LINE",
+"473 493 LINE SMOOTH",
+"473 418 OFFCURVE",
+"481 372 OFFCURVE",
+"498 356 CURVE",
+"513 339 OFFCURVE",
+"552 330 OFFCURVE",
+"613 330 CURVE SMOOTH",
+"827 330 LINE",
+"827 0 LINE",
+"613 0 LINE SMOOTH",
+"329 0 OFFCURVE",
+"217 98 OFFCURVE",
+"217 382 CURVE SMOOTH",
+"226 912 LINE",
+"100 912 LINE",
+"100 1120 LINE",
+"227 1120 LINE",
+"236 1379 LINE"
 );
 }
 );
-width = 839;
+width = 927;
 }
 );
 unicode = 0074;
 },
 {
 glyphname = u;
-lastChange = "2012-06-02 17:01:23 +0000";
+lastChange = "2012-10-07 23:10:33 +0000";
 layers = (
 {
 anchors = (
 {
 name = ogonek;
-position = "{1349, 10}";
+position = "{948, -2}";
 },
 {
 name = top;
@@ -4906,7 +4902,7 @@ nodes = (
 );
 }
 );
-width = 1499;
+width = 1476;
 }
 );
 unicode = 0075;
@@ -8064,7 +8060,7 @@ unicode = 00CF;
 },
 {
 glyphname = Eth;
-lastChange = "2012-06-02 17:01:23 +0000";
+lastChange = "2012-10-08 00:18:01 +0000";
 layers = (
 {
 layerId = "D5D14868-B3D8-4E08-9530-062F6179E82D";
@@ -8102,9 +8098,9 @@ nodes = (
 "899 877 LINE",
 "899 664 LINE",
 "580 664 LINE",
-"580 233 LINE",
-"772 233 LINE SMOOTH",
-"1141 233 OFFCURVE",
+"580 337 LINE",
+"772 337 LINE SMOOTH",
+"1141 337 OFFCURVE",
 "1300 388 OFFCURVE",
 "1300 748 CURVE SMOOTH",
 "1300 1104 OFFCURVE",
@@ -15547,6 +15543,10 @@ zcaron = 107;
 R = {
 G = "-85";
 };
+a = {
+l = "-90";
+u = "-100";
+};
 acute = {
 AE = "-563";
 Aacute = "-319";
@@ -15664,6 +15664,9 @@ twosuperior = "-50";
 uni2215 = "-464";
 yacute = "-553";
 ydieresis = "-80";
+};
+b = {
+l = "-100";
 };
 dieresis = {
 AE = "-415";
@@ -15847,6 +15850,9 @@ yacute = "-76";
 ydieresis = "-76";
 zcaron = 55;
 };
+i = {
+b = "-100";
+};
 infinity = {
 AE = "-72";
 Ecircumflex = "-76";
@@ -15925,6 +15931,9 @@ uni2215 = 217;
 yacute = "-93";
 ydieresis = "-93";
 zcaron = "-57";
+};
+l = {
+t = "-90";
 };
 lessequal = {
 AE = 135;

@@ -2332,7 +2332,7 @@ unicode = 0048;
 },
 {
 glyphname = I;
-lastChange = "2012-10-07 19:32:53 +0000";
+lastChange = "2012-10-07 23:01:09 +0000";
 layers = (
 {
 anchors = (
@@ -3248,13 +3248,13 @@ unicode = 0060;
 },
 {
 glyphname = a;
-lastChange = "2012-10-06 19:54:04 +0000";
+lastChange = "2012-10-07 23:01:22 +0000";
 layers = (
 {
 anchors = (
 {
 name = ogonek;
-position = "{1223, 10}";
+position = "{735, -29}";
 },
 {
 name = top;
@@ -3487,7 +3487,7 @@ unicode = 0064;
 },
 {
 glyphname = e;
-lastChange = "2012-05-25 03:39:46 +0000";
+lastChange = "2012-10-07 23:01:00 +0000";
 layers = (
 {
 anchors = (
@@ -3497,7 +3497,7 @@ position = "{689, 0}";
 },
 {
 name = ogonek;
-position = "{1240, 10}";
+position = "{891, -14}";
 },
 {
 name = top;
@@ -4301,13 +4301,13 @@ unicode = 0073;
 },
 {
 glyphname = t;
-lastChange = "2012-10-06 19:55:58 +0000";
+lastChange = "2012-10-07 23:01:16 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{421, 0}";
+position = "{514, 0}";
 },
 {
 name = center;
