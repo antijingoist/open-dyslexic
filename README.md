@@ -5,7 +5,7 @@ README
 
 ![ZDNet example](https://github.com/antijingoist/open-dyslexic/raw/master/screenshots/zdnetarticle.PNG)
 
-Download latest version of the font on github by clicking the TTF in the tree, and view it RAW.
+Download latest version of the font by clicking [here](https://github.com/antijingoist/open-dyslexic/raw/master/opendyslexic.ttf).
 
 The latest version may not always be the best version. If you want a stable version, check http://dyslexicfonts.com/downloads.php or http://dafont.com/open-dyslexic.font for a stable.
 
