@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-vaslexic
+"This page exists to test a variety of formatting options that can potentially increase readability. It uses the public domain text from A Dream of Armageddon, by HG Wells.\012The font used on this page is \"Open-Dyslexic.\" It is an open-source font created by Abelardo Gonzalez to increase readability for dyslexic readers. This font is used on the page by using @font-face, supported by most modern browsers. If the text looks normal to you, try switching to the latest versions of Internet Explorer (9 or 10), Opera, WebKit based browser(Chrome, Safari, etc.), or Firefox. This font should display fine on any iPhone, and most Android devices.\012\012This will help test speed of the javascript, and readability. If you have any comments, please send them to accessibility @ abbiecod.es."
 );
 classes = (
 {
@@ -1062,7 +1062,7 @@ unicode = 002F;
 {
 color = 6;
 glyphname = zero;
-lastChange = "2012-10-21 18:29:47 -0400";
+lastChange = "2012-10-22 20:52:28 -0400";
 layers = (
 {
 layerId = "6B6936E6-7670-4A82-900D-EAF583C971AF";
@@ -1894,7 +1894,7 @@ unicode = 0040;
 {
 color = 4;
 glyphname = A;
-lastChange = "2012-10-21 18:29:17 -0400";
+lastChange = "2012-10-22 18:56:04 -0400";
 layers = (
 {
 anchors = (
@@ -3306,7 +3306,7 @@ unicode = 0061;
 {
 color = 5;
 glyphname = b;
-lastChange = "2012-10-21 18:29:28 -0400";
+lastChange = "2012-10-22 20:53:10 -0400";
 layers = (
 {
 layerId = "6B6936E6-7670-4A82-900D-EAF583C971AF";
@@ -3360,7 +3360,7 @@ unicode = 0062;
 {
 color = 5;
 glyphname = c;
-lastChange = "2012-10-21 18:29:28 -0400";
+lastChange = "2012-10-22 20:51:16 -0400";
 layers = (
 {
 anchors = (
@@ -3476,7 +3476,7 @@ unicode = 0064;
 {
 color = 5;
 glyphname = e;
-lastChange = "2012-10-21 18:29:28 -0400";
+lastChange = "2012-10-22 20:48:21 -0400";
 layers = (
 {
 anchors = (
@@ -3742,7 +3742,7 @@ unicode = 0069;
 {
 color = 5;
 glyphname = j;
-lastChange = "2012-10-21 18:29:28 -0400";
+lastChange = "2012-10-22 18:57:09 -0400";
 layers = (
 {
 layerId = "6B6936E6-7670-4A82-900D-EAF583C971AF";
@@ -3820,7 +3820,7 @@ unicode = 006B;
 {
 color = 5;
 glyphname = l;
-lastChange = "2012-10-21 18:29:28 -0400";
+lastChange = "2012-10-22 20:54:40 -0400";
 layers = (
 {
 anchors = (
@@ -3969,7 +3969,7 @@ unicode = 006E;
 {
 color = 5;
 glyphname = o;
-lastChange = "2012-10-21 18:29:28 -0400";
+lastChange = "2012-10-22 20:45:56 -0400";
 layers = (
 {
 anchors = (
@@ -4024,7 +4024,7 @@ unicode = 006F;
 {
 color = 5;
 glyphname = p;
-lastChange = "2012-10-21 18:29:28 -0400";
+lastChange = "2012-10-22 20:52:36 -0400";
 layers = (
 {
 hints = (
@@ -4199,7 +4199,7 @@ unicode = 0071;
 {
 color = 5;
 glyphname = r;
-lastChange = "2012-10-21 18:29:28 -0400";
+lastChange = "2012-10-22 20:52:44 -0400";
 layers = (
 {
 anchors = (
@@ -4322,7 +4322,7 @@ unicode = 0073;
 {
 color = 5;
 glyphname = t;
-lastChange = "2012-10-21 18:29:28 -0400";
+lastChange = "2012-10-22 20:51:05 -0400";
 layers = (
 {
 anchors = (
@@ -4488,7 +4488,7 @@ unicode = 0077;
 {
 color = 5;
 glyphname = x;
-lastChange = "2012-10-21 18:29:28 -0400";
+lastChange = "2012-10-22 20:43:11 -0400";
 layers = (
 {
 layerId = "6B6936E6-7670-4A82-900D-EAF583C971AF";
@@ -4520,7 +4520,7 @@ unicode = 0078;
 {
 color = 5;
 glyphname = y;
-lastChange = "2012-10-21 18:29:28 -0400";
+lastChange = "2012-10-22 20:50:52 -0400";
 layers = (
 {
 anchors = (
@@ -11219,8 +11219,10 @@ integral = "-199";
 multiply = "-86";
 perthousand = 113;
 product = 102;
+quotedblbase = "-150";
 quotedblright = 166;
 quoteleft = 92;
+quotesinglbase = "-150";
 radical = 165;
 scaron = 147;
 scedilla = 147;
@@ -11234,8 +11236,6 @@ yacute = 134;
 ydieresis = 134;
 yen = 186;
 zcaron = 107;
-quotedblbase = "-150";
-quotesinglbase = "-150";
 };
 P = {
 A = "-73";
@@ -11271,11 +11271,11 @@ hyphen = "-291";
 o = "-201";
 period = "-357";
 r = "-205";
+s = "-150";
 semicolon = "-109";
 u = "-185";
 w = "-105";
 y = "-147";
-s = "-150";
 };
 U = {
 A = "-131";
@@ -11324,14 +11324,19 @@ e = "-171";
 hyphen = "-275";
 o = "-177";
 period = "-359";
+s = "-150";
 semicolon = "-65";
 u = "-141";
+};
+Yacute = {
+s = "-150";
+};
+Ydieresis = {
 s = "-150";
 };
 a = {
 c = "-40";
 l = 30;
-p = "-193";
 t = "-20";
 u = "-90";
 v = "-117";
@@ -11425,19 +11430,18 @@ t = 160;
 };
 b = {
 d = "-100";
-l = 40;
 n = 100;
 period = "-45";
 q = 100;
+y = "-122";
 };
 c = {
 a = "-130";
 comma = "-101";
-h = "-195";
 k = "-195";
 l = "-181";
 n = "-10";
-period = "-217";
+period = "-50";
 y = "-165";
 };
 d = {
@@ -11518,7 +11522,6 @@ sfthyphen = 350;
 yacute = "-405";
 };
 e = {
-b = "-151";
 comma = "-69";
 g = "-59";
 n = "-76";
@@ -11543,9 +11546,13 @@ h = 90;
 k = 90;
 n = 80;
 period = "-211";
+o = "-100";
 };
 five = {
 zero = 60;
+};
+fraction = {
+s = "-150";
 };
 g = {
 a = "-113";
@@ -11553,11 +11560,9 @@ comma = "-97";
 f = 90;
 g = "-101";
 i = "-155";
-j = 120;
-o = "-107";
+j = "-100";
 period = "-209";
 r = "-16";
-y = "-123";
 };
 greaterequal = {
 Yacute = "-168";
@@ -11599,7 +11604,6 @@ a = 70;
 i = {
 j = "-80";
 l = 72;
-t = 90;
 };
 infinity = {
 AE = "-72";
@@ -11676,6 +11680,9 @@ yacute = "-93";
 ydieresis = "-93";
 zcaron = "-57";
 };
+integral = {
+s = "-100";
+};
 j = {
 f = 90;
 };
@@ -11684,11 +11691,9 @@ e = "-75";
 o = "-55";
 };
 l = {
-d = 110;
-i = 72;
+e = "-100";
 k = 60;
 t = 90;
-e = "-100";
 };
 lessequal = {
 acute = 350;
@@ -11851,32 +11856,14 @@ summation = "-229";
 tilde = 350;
 trademark = "-341";
 };
-o = {
-comma = "-111";
-f = "-100";
-g = "-53";
-l = "-80";
-period = "-177";
-r = "-50";
-u = "-70";
-v = "-81";
-w = "-133";
-x = "-131";
-y = "-135";
-s = "-50";
-};
 odieresis = {
 t = 140;
 };
-one = {
-zero = 50;
-};
 p = {
+A = "-150";
 d = 100;
-e = 20;
-o = 70;
 period = "-43";
-t = 30;
+t = "-50";
 };
 partialdiff = {
 Cacute = 162;
@@ -12007,7 +11994,6 @@ t = "-55";
 v = "-55";
 };
 r = {
-a = 110;
 comma = "-161";
 d = "-150";
 e = "-140";
@@ -12015,7 +12001,9 @@ f = 140;
 g = 70;
 hyphen = "-125";
 period = "-225";
-t = 190;
+o = "-60";
+c = "-101";
+y = "-120";
 };
 s = {
 comma = "-61";
@@ -12071,9 +12059,9 @@ yen = 215;
 };
 t = {
 a = 50;
-e = 100;
 p = 80;
-r = 110;
+t = "-50";
+c = "-30";
 };
 trademark = {
 AE = "-434";
@@ -12207,7 +12195,6 @@ o = "-135";
 };
 x = {
 e = "-119";
-i = "-100";
 };
 y = {
 comma = "-181";
@@ -12216,21 +12203,9 @@ s = "-100";
 };
 yen = {
 daggerdbl = 165;
+fraction = "-150";
 integral = "-235";
 multiply = "-185";
-fraction = "-150";
-};
-Yacute = {
-s = "-150";
-};
-Ydieresis = {
-s = "-150";
-};
-integral = {
-s = "-100";
-};
-fraction = {
-s = "-150";
 };
 };
 };
