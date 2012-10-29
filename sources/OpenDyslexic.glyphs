@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"This page exists to test a variety of formatting options that can potentially increase readability. It uses the public domain text from A Dream of Armageddon, by HG Wells.\012The font used on this page is \"Open-Dyslexic.\" It is an open-source font created by Abelardo Gonzalez to increase readability for dyslexic readers. This font is used on the page by using @font-face, supported by most modern browsers. If the text looks normal to you, try switching to the latest versions of Internet Explorer (9 or 10), Opera, WebKit based browser(Chrome, Safari, etc.), or Firefox. This font should display fine on any iPhone, and most Android devices.\012\012This will help test speed of the javascript, and readability. If you have any comments, please send them to accessibility @ abbiecod.es."
-);
 classes = (
 {
 automatic = 1;
@@ -3233,7 +3230,7 @@ unicode = 0060;
 {
 color = 5;
 glyphname = a;
-lastChange = "2012-10-21 18:29:28 -0400";
+lastChange = "2012-10-27 17:29:46 -0400";
 layers = (
 {
 anchors = (
@@ -3301,12 +3298,13 @@ nodes = (
 width = 1246;
 }
 );
+leftKerningGroup = Round;
 unicode = 0061;
 },
 {
 color = 5;
 glyphname = b;
-lastChange = "2012-10-22 20:53:10 -0400";
+lastChange = "2012-10-27 17:29:14 -0400";
 layers = (
 {
 layerId = "6B6936E6-7670-4A82-900D-EAF583C971AF";
@@ -3355,12 +3353,13 @@ nodes = (
 width = 1302;
 }
 );
+rightKerningGroup = RoundRight;
 unicode = 0062;
 },
 {
 color = 5;
 glyphname = c;
-lastChange = "2012-10-22 20:51:16 -0400";
+lastChange = "2012-10-27 17:27:20 -0400";
 layers = (
 {
 anchors = (
@@ -3411,12 +3410,13 @@ nodes = (
 width = 1186;
 }
 );
+leftKerningGroup = Round;
 unicode = 0063;
 },
 {
 color = 5;
 glyphname = d;
-lastChange = "2012-10-21 18:29:28 -0400";
+lastChange = "2012-10-27 17:30:10 -0400";
 layers = (
 {
 anchors = (
@@ -3471,12 +3471,13 @@ nodes = (
 width = 1321;
 }
 );
+leftKerningGroup = Round;
 unicode = 0064;
 },
 {
 color = 5;
 glyphname = e;
-lastChange = "2012-10-22 20:48:21 -0400";
+lastChange = "2012-10-27 17:27:20 -0400";
 layers = (
 {
 anchors = (
@@ -3538,6 +3539,7 @@ nodes = (
 width = 1328;
 }
 );
+leftKerningGroup = Round;
 unicode = 0065;
 },
 {
@@ -3969,7 +3971,7 @@ unicode = 006E;
 {
 color = 5;
 glyphname = o;
-lastChange = "2012-10-22 20:45:56 -0400";
+lastChange = "2012-10-27 17:29:42 -0400";
 layers = (
 {
 anchors = (
@@ -4019,12 +4021,14 @@ nodes = (
 width = 1328;
 }
 );
+leftKerningGroup = Round;
+rightKerningGroup = RoundRight;
 unicode = 006F;
 },
 {
 color = 5;
 glyphname = p;
-lastChange = "2012-10-22 20:52:36 -0400";
+lastChange = "2012-10-27 17:30:32 -0400";
 layers = (
 {
 hints = (
@@ -4090,12 +4094,13 @@ nodes = (
 width = 1360;
 }
 );
+rightKerningGroup = RoundRight;
 unicode = 0070;
 },
 {
 color = 5;
 glyphname = q;
-lastChange = "2012-10-21 18:29:28 -0400";
+lastChange = "2012-10-27 17:30:44 -0400";
 layers = (
 {
 associatedMasterId = "6B6936E6-7670-4A82-900D-EAF583C971AF";
@@ -4194,6 +4199,7 @@ nodes = (
 width = 1488;
 }
 );
+leftKerningGroup = Round;
 unicode = 0071;
 },
 {
@@ -4488,7 +4494,7 @@ unicode = 0077;
 {
 color = 5;
 glyphname = x;
-lastChange = "2012-10-22 20:43:11 -0400";
+lastChange = "2012-10-27 17:29:34 -0400";
 layers = (
 {
 layerId = "6B6936E6-7670-4A82-900D-EAF583C971AF";
@@ -4515,6 +4521,7 @@ nodes = (
 width = 1426;
 }
 );
+leftKerningGroup = Round;
 unicode = 0078;
 },
 {
@@ -11529,8 +11536,8 @@ p = "-153";
 period = "-183";
 v = "-73";
 w = "-127";
-y = "-141";
 x = "-100";
+y = "-141";
 };
 eacute = {
 T = 70;
@@ -11545,8 +11552,8 @@ e = 50;
 h = 90;
 k = 90;
 n = 80;
-period = "-211";
 o = "-100";
+period = "-211";
 };
 five = {
 zero = 60;
@@ -11994,15 +12001,15 @@ t = "-55";
 v = "-55";
 };
 r = {
+c = "-101";
 comma = "-161";
 d = "-150";
 e = "-140";
 f = 140;
 g = 70;
 hyphen = "-125";
-period = "-225";
 o = "-60";
-c = "-101";
+period = "-225";
 y = "-120";
 };
 s = {
@@ -12059,9 +12066,9 @@ yen = 215;
 };
 t = {
 a = 50;
+c = "-30";
 p = 80;
 t = "-50";
-c = "-30";
 };
 trademark = {
 AE = "-434";
@@ -12195,6 +12202,7 @@ o = "-135";
 };
 x = {
 e = "-119";
+"@MMK_R_Round" = "-100";
 };
 y = {
 comma = "-181";
@@ -12206,6 +12214,12 @@ daggerdbl = 165;
 fraction = "-150";
 integral = "-235";
 multiply = "-185";
+};
+o = {
+x = "-150";
+};
+"@MMK_L_RoundRight" = {
+"@MMK_R_Round" = "-100";
 };
 };
 };
