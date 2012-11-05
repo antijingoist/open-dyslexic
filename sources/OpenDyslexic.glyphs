@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"luv. law. my. luv, law, my,"
+);
 classes = (
 {
 automatic = 1;
@@ -429,12 +432,12 @@ unicode = 0000;
 },
 {
 glyphname = space;
-lastChange = "2012-10-21 14:45:39 -0400";
+lastChange = "2012-11-04 21:54:06 -0500";
 layers = (
 {
 layerId = "6B6936E6-7670-4A82-900D-EAF583C971AF";
 name = Regular;
-width = 1330;
+width = 800;
 }
 );
 unicode = 0020;

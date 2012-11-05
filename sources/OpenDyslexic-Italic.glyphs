@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"luv. law. my. luv, law, my,"
+);
 classes = (
 {
 automatic = 1;
@@ -477,12 +480,12 @@ unicode = 0000;
 },
 {
 glyphname = space;
-lastChange = "2012-11-04 19:06:29 -0500";
+lastChange = "2012-11-04 21:53:55 -0500";
 layers = (
 {
 layerId = "16808965-E153-4B2B-ADB3-00196C646C32";
 name = "Regular Italic";
-width = 1330;
+width = 800;
 }
 );
 unicode = 0020;
@@ -1682,7 +1685,7 @@ unicode = 002D;
 },
 {
 glyphname = period;
-lastChange = "2012-10-22 20:59:19 -0400";
+lastChange = "2012-11-04 21:43:02 -0500";
 layers = (
 {
 layerId = "16808965-E153-4B2B-ADB3-00196C646C32";

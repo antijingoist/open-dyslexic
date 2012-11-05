@@ -1,6 +1,7 @@
 {
 DisplayStrings = (
-"I don't know if I can do it Arnold? How can I? I think I can. I think I\012 can. I think I can. "
+"I don't know if I can do it Arnold? How can I? I think I can. I think I\012 can. I think I can. ",
+"luv. law. my. luv, law, my, "
 );
 classes = (
 {
@@ -496,12 +497,12 @@ unicode = 0000;
 },
 {
 glyphname = space;
-lastChange = "2012-11-04 19:07:37 -0500";
+lastChange = "2012-11-04 21:54:26 -0500";
 layers = (
 {
 layerId = "013FA67F-D7C9-4F04-AAC6-32032829ED9A";
 name = "Bold Italic";
-width = 1330;
+width = 800;
 }
 );
 unicode = 0020;
