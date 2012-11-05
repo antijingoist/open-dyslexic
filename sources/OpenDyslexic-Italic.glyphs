@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"I don't know if I can do it Arnold? How can I? I think I can. I thinAWI can. I think I can. "
+);
 classes = (
 {
 automatic = 1;
@@ -6,7 +9,7 @@ code = "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Agrave Aacute Acircu
 name = Uppercase;
 }
 );
-copyright = "OpenDyslexic(open-dyslexic) by Abelardo Gonzalez is licensed under a Creative Commons Attribution 3.0 Unported License.\012Based on a work at dyslexicfonts.com.\012Permissions beyond the scope of this license may be available at http://dyslexicfonts.com/license.php.";
+copyright = "Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved. Bitstream Vera is a trademark of Bitstream, Inc.\012\012Permission is hereby granted, free of charge, to any person obtaining a copy of the fonts accompanying this license (\U201CFonts\U201D) and associated documentation files (the \U201CFont Software\U201D), to reproduce and distribute the Font Software, including without limitation the rights to use, copy, merge, publish, distribute, and/or sell copies of the Font Software, and to permit persons to whom the Font Software is furnished to do so, subject to the following conditions: \012\012The above copyright and trademark notices and this permission notice shall be included in all copies of one or more of the Font Software typefaces.\012\012The Font Software may be modified, altered, or added to, and in particular the designs of glyphs or characters in the Fonts may be modified and additional glyphs or characters may be added to the Fonts, only if the fonts are renamed to names not containing either the words \U201CBitstream\U201D or the word \U201CVera\U201D.\012\012This License becomes null and void to the extent applicable to Fonts or Font Software that has been modified and is distributed under the \U201CBitstream Vera\U201D names. \012\012The Font Software may be sold as part of a larger software package but no copy of one or more of the Font Software typefaces may be sold by itself. \012\012THE FONT SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL BITSTREAM OR THE GNOME FOUNDATION BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE. \012\012Except as contained in this notice, the names of Gnome, the Gnome Foundation, and Bitstream Inc., shall not be used in advertising or otherwise to promote the sale, use or other dealings in this Font Software without prior written authorization from the Gnome Foundation or Bitstream Inc., respectively. For further information, contact: fonts at gnome dot org. ";
 customParameters = (
 {
 name = glyphOrder;
@@ -478,12 +481,12 @@ unicode = 0000;
 },
 {
 glyphname = space;
-lastChange = "2012-10-22 20:59:19 -0400";
+lastChange = "2012-11-04 19:06:29 -0500";
 layers = (
 {
 layerId = "16808965-E153-4B2B-ADB3-00196C646C32";
 name = "Regular Italic";
-width = 1630;
+width = 1330;
 }
 );
 unicode = 0020;
@@ -28689,10 +28692,10 @@ K = {
 C = "-205";
 O = "-221";
 e = "-205";
+i = "-120";
 o = "-219";
 u = "-279";
 y = "-184";
-i = "-120";
 };
 L = {
 T = "-174";
@@ -29107,8 +29110,8 @@ v = "-141";
 };
 s = {
 b = "-90";
-w = "-176";
 t = "-50";
+w = "-176";
 };
 t = {
 y = "-150";
