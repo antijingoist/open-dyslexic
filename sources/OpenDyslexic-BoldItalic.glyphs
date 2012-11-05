@@ -1,4 +1,8 @@
 {
+DisplayStrings = (
+"I don't know if I can do it Arnold? How can I? I think I can. I think I\012 can. I think I can. ",
+"luv. law. my. luv, law, my, "
+);
 classes = (
 {
 automatic = 1;
@@ -6,7 +10,7 @@ code = "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Agrave Aacute Acircu
 name = Uppercase;
 }
 );
-copyright = "OpenDyslexic(open-dyslexic) by Abelardo Gonzalez is licensed under a Creative Commons Attribution 3.0 Unported License.\012Based on a work at dyslexicfonts.com.\012Permissions beyond the scope of this license may be available at http://dyslexicfonts.com/license.php.";
+copyright = "Copyright \U00A9 2012 by Abelardo Gonzalez. Licensed under the Bitstream License.";
 customParameters = (
 {
 name = glyphOrder;
@@ -285,8 +289,7 @@ value = (
 {
 name = openTypeOS2Type;
 value = (
-    3,
-    8
+    3
 );
 }
 );
@@ -494,12 +497,12 @@ unicode = 0000;
 },
 {
 glyphname = space;
-lastChange = "2012-10-21 18:34:47 -0400";
+lastChange = "2012-11-04 21:54:26 -0500";
 layers = (
 {
 layerId = "013FA67F-D7C9-4F04-AAC6-32032829ED9A";
 name = "Bold Italic";
-width = 1930;
+width = 800;
 }
 );
 unicode = 0020;
@@ -13161,7 +13164,7 @@ unicode = 00B4;
 },
 {
 glyphname = mu;
-lastChange = "2012-10-21 18:34:44 -0400";
+lastChange = "2012-11-04 19:37:38 -0500";
 layers = (
 {
 layerId = "013FA67F-D7C9-4F04-AAC6-32032829ED9A";
@@ -13277,7 +13280,7 @@ nodes = (
 width = 1508;
 }
 );
-unicode = 03BC;
+unicode = 00B5;
 },
 {
 glyphname = paragraph;
@@ -31258,7 +31261,7 @@ unicode = 2122;
 },
 {
 glyphname = Omega;
-lastChange = "2012-10-21 18:34:44 -0400";
+lastChange = "2012-11-04 19:28:39 -0500";
 layers = (
 {
 anchors = (
@@ -31393,7 +31396,7 @@ nodes = (
 width = 1745;
 }
 );
-unicode = 03A9;
+unicode = 2126;
 },
 {
 glyphname = partialdiff;
@@ -31528,7 +31531,7 @@ unicode = 2202;
 },
 {
 glyphname = Delta;
-lastChange = "2012-10-21 18:34:44 -0400";
+lastChange = "2012-11-04 19:28:07 -0500";
 layers = (
 {
 layerId = "013FA67F-D7C9-4F04-AAC6-32032829ED9A";
@@ -31614,7 +31617,7 @@ nodes = (
 width = 1684;
 }
 );
-unicode = 0394;
+unicode = 2206;
 },
 {
 glyphname = product;

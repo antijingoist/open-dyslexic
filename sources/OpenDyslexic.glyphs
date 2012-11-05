@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"luv. law. my. luv, law, my,"
+);
 classes = (
 {
 automatic = 1;
@@ -6,7 +9,7 @@ code = "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Agrave Aacute Acircu
 name = Uppercase;
 }
 );
-copyright = "OpenDyslexic(open-dyslexic) by Abelardo Gonzalez is licensed under a Creative Commons Attribution 3.0 Unported License\012Based on a work at dyslexicfonts.com.\012Permissions beyond the scope of this license may be available at http://dyslexicfonts.com/license.php.";
+copyright = "Copyright \U00A9 2012 by Abelardo Gonzalez. Licensed under the Bitstream License.";
 customParameters = (
 {
 name = glyphOrder;
@@ -429,12 +432,12 @@ unicode = 0000;
 },
 {
 glyphname = space;
-lastChange = "2012-10-21 14:45:39 -0400";
+lastChange = "2012-11-04 21:54:06 -0500";
 layers = (
 {
 layerId = "6B6936E6-7670-4A82-900D-EAF583C971AF";
 name = Regular;
-width = 1330;
+width = 800;
 }
 );
 unicode = 0020;
@@ -3744,7 +3747,7 @@ unicode = 0069;
 {
 color = 5;
 glyphname = j;
-lastChange = "2012-10-22 18:57:09 -0400";
+lastChange = "2012-11-04 17:27:17 -0500";
 layers = (
 {
 layerId = "6B6936E6-7670-4A82-900D-EAF583C971AF";
@@ -3753,31 +3756,31 @@ paths = (
 {
 closed = 1;
 nodes = (
-"467 1115 LINE",
-"641 1112 LINE",
-"601 -28 LINE SMOOTH",
-"596 -313 OFFCURVE",
-"491 -449 OFFCURVE",
-"250 -458 CURVE",
-"150 -456 LINE",
-"155 -180 LINE",
-"234 -181 LINE",
-"374 -170 OFFCURVE",
-"408 -139 OFFCURVE",
-"419 95 CURVE SMOOTH"
+"367 1115 LINE",
+"541 1112 LINE",
+"501 -28 LINE SMOOTH",
+"496 -313 OFFCURVE",
+"391 -449 OFFCURVE",
+"150 -458 CURVE",
+"50 -456 LINE",
+"55 -180 LINE",
+"134 -181 LINE",
+"274 -170 OFFCURVE",
+"308 -139 OFFCURVE",
+"319 95 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"510 1556 LINE",
-"674 1556 LINE",
-"684 1323 LINE",
-"500 1323 LINE"
+"410 1556 LINE",
+"574 1556 LINE",
+"584 1323 LINE",
+"400 1323 LINE"
 );
 }
 );
-width = 834;
+width = 734;
 }
 );
 unicode = 006A;
@@ -5870,7 +5873,7 @@ unicode = 00B4;
 },
 {
 glyphname = mu;
-lastChange = "2012-10-21 14:33:56 -0400";
+lastChange = "2012-11-04 19:28:51 -0500";
 layers = (
 {
 layerId = "6B6936E6-7670-4A82-900D-EAF583C971AF";
@@ -5924,7 +5927,7 @@ nodes = (
 width = 1429;
 }
 );
-unicode = 03BC;
+unicode = 00B5;
 },
 {
 glyphname = paragraph;
@@ -10021,7 +10024,7 @@ unicode = 2122;
 },
 {
 glyphname = Omega;
-lastChange = "2012-10-21 14:39:38 -0400";
+lastChange = "2012-11-04 19:27:00 -0500";
 layers = (
 {
 anchors = (
@@ -10074,7 +10077,7 @@ nodes = (
 width = 1709;
 }
 );
-unicode = 03A9;
+unicode = 2126;
 },
 {
 glyphname = partialdiff;
@@ -10147,7 +10150,7 @@ unicode = 2202;
 },
 {
 glyphname = Delta;
-lastChange = "2012-10-21 14:39:46 -0400";
+lastChange = "2012-11-04 19:29:22 -0500";
 layers = (
 {
 layerId = "6B6936E6-7670-4A82-900D-EAF583C971AF";
@@ -10174,7 +10177,7 @@ nodes = (
 width = 1682;
 }
 );
-unicode = 0394;
+unicode = 2206;
 },
 {
 glyphname = product;
@@ -11078,6 +11081,9 @@ name = Regular;
 );
 kerning = {
 "6B6936E6-7670-4A82-900D-EAF583C971AF" = {
+"@MMK_L_RoundRight" = {
+"@MMK_R_Round" = "-100";
+};
 A = {
 C = "-100";
 G = "-100";
@@ -11567,7 +11573,7 @@ comma = "-97";
 f = 90;
 g = "-101";
 i = "-155";
-j = "-100";
+j = 0;
 period = "-209";
 r = "-16";
 };
@@ -11609,7 +11615,7 @@ h = {
 a = 70;
 };
 i = {
-j = "-80";
+j = 0;
 l = 72;
 };
 infinity = {
@@ -11691,7 +11697,7 @@ integral = {
 s = "-100";
 };
 j = {
-f = 90;
+f = 0;
 };
 k = {
 e = "-75";
@@ -11862,6 +11868,9 @@ ring = "-505";
 summation = "-229";
 tilde = 350;
 trademark = "-341";
+};
+o = {
+x = "-150";
 };
 odieresis = {
 t = 140;
@@ -12201,8 +12210,8 @@ e = "-99";
 o = "-135";
 };
 x = {
-e = "-119";
 "@MMK_R_Round" = "-100";
+e = "-119";
 };
 y = {
 comma = "-181";
@@ -12214,12 +12223,6 @@ daggerdbl = 165;
 fraction = "-150";
 integral = "-235";
 multiply = "-185";
-};
-o = {
-x = "-150";
-};
-"@MMK_L_RoundRight" = {
-"@MMK_R_Round" = "-100";
 };
 };
 };

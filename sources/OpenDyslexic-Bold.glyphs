@@ -1,4 +1,8 @@
 {
+DisplayStrings = (
+"I don't know if I can do it Arnold? How can I? I think I can. I think I can. I think I can. ",
+"luv. law. my. luv, law, my, "
+);
 classes = (
 {
 automatic = 1;
@@ -6,7 +10,7 @@ code = "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Agrave Aacute Acircu
 name = Uppercase;
 }
 );
-copyright = "OpenDyslexic(open-dyslexic) by Abelardo Gonzalez is licensed under a Creative Commons Attribution 3.0 Unported License.\012Based on a work at dyslexicfonts.com.\012Permissions beyond the scope of this license may be available at http://dyslexicfonts.com/license.php.";
+copyright = "Copyright \U00A9 2012 by Abelardo Gonzalez. Licensed under the Bitstream License.";
 customParameters = (
 {
 name = glyphOrder;
@@ -286,8 +290,7 @@ value = (
 {
 name = openTypeOS2Type;
 value = (
-    3,
-    8
+    3
 );
 }
 );
@@ -445,12 +448,12 @@ unicode = 0000;
 },
 {
 glyphname = space;
-lastChange = "2012-10-21 18:31:30 -0400";
+lastChange = "2012-11-04 21:54:18 -0500";
 layers = (
 {
 layerId = "D5D14868-B3D8-4E08-9530-062F6179E82D";
 name = Bold;
-width = 1780;
+width = 800;
 }
 );
 unicode = 0020;
@@ -1128,7 +1131,7 @@ unicode = 002D;
 },
 {
 glyphname = period;
-lastChange = "2012-10-21 18:31:24 -0400";
+lastChange = "2012-11-04 21:54:59 -0500";
 layers = (
 {
 layerId = "D5D14868-B3D8-4E08-9530-062F6179E82D";
@@ -1137,14 +1140,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"150 376 LINE",
-"503 376 LINE",
-"503 0 LINE",
-"150 0 LINE"
+"100 376 LINE",
+"453 376 LINE",
+"453 0 LINE",
+"100 0 LINE"
 );
 }
 );
-width = 653;
+width = 603;
 }
 );
 unicode = 002E;
@@ -6578,7 +6581,7 @@ unicode = 00B4;
 },
 {
 glyphname = mu;
-lastChange = "2012-10-21 18:31:24 -0400";
+lastChange = "2012-11-04 19:29:55 -0500";
 layers = (
 {
 layerId = "D5D14868-B3D8-4E08-9530-062F6179E82D";
@@ -6647,7 +6650,7 @@ nodes = (
 width = 1428;
 }
 );
-unicode = 03BC;
+unicode = 00B5;
 },
 {
 glyphname = paragraph;
@@ -14119,7 +14122,7 @@ unicode = 2122;
 },
 {
 glyphname = Omega;
-lastChange = "2012-10-21 18:31:24 -0400";
+lastChange = "2012-11-04 19:28:47 -0500";
 layers = (
 {
 anchors = (
@@ -14189,7 +14192,7 @@ nodes = (
 width = 1713;
 }
 );
-unicode = 03A9;
+unicode = 2126;
 },
 {
 glyphname = partialdiff;
@@ -14277,7 +14280,7 @@ unicode = 2202;
 },
 {
 glyphname = Delta;
-lastChange = "2012-10-21 18:31:24 -0400";
+lastChange = "2012-11-04 19:29:16 -0500";
 layers = (
 {
 layerId = "D5D14868-B3D8-4E08-9530-062F6179E82D";
@@ -14315,7 +14318,7 @@ nodes = (
 width = 1700;
 }
 );
-unicode = 0394;
+unicode = 2206;
 },
 {
 glyphname = product;

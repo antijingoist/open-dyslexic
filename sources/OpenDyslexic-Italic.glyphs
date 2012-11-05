@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"luv. law. my. luv, law, my,"
+);
 classes = (
 {
 automatic = 1;
@@ -6,7 +9,7 @@ code = "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Agrave Aacute Acircu
 name = Uppercase;
 }
 );
-copyright = "OpenDyslexic(open-dyslexic) by Abelardo Gonzalez is licensed under a Creative Commons Attribution 3.0 Unported License.\012Based on a work at dyslexicfonts.com.\012Permissions beyond the scope of this license may be available at http://dyslexicfonts.com/license.php.";
+copyright = "Copyright \U00A9 2012 by Abelardo Gonzalez. Licensed under the Bitstream License.";
 customParameters = (
 {
 name = glyphOrder;
@@ -285,8 +288,7 @@ value = (
 {
 name = openTypeOS2Type;
 value = (
-    3,
-    8
+    3
 );
 }
 );
@@ -304,7 +306,7 @@ name = Languagesystems;
 features = (
 {
 automatic = 1;
-code = "feature frac;\012feature ordn;\012feature sups;";
+code = "feature sups;\012feature frac;\012feature ordn;";
 name = aalt;
 },
 {
@@ -478,12 +480,12 @@ unicode = 0000;
 },
 {
 glyphname = space;
-lastChange = "2012-10-22 20:59:19 -0400";
+lastChange = "2012-11-04 21:53:55 -0500";
 layers = (
 {
 layerId = "16808965-E153-4B2B-ADB3-00196C646C32";
 name = "Regular Italic";
-width = 1630;
+width = 800;
 }
 );
 unicode = 0020;
@@ -1683,7 +1685,7 @@ unicode = 002D;
 },
 {
 glyphname = period;
-lastChange = "2012-10-22 20:59:19 -0400";
+lastChange = "2012-11-04 21:43:02 -0500";
 layers = (
 {
 layerId = "16808965-E153-4B2B-ADB3-00196C646C32";
@@ -11455,7 +11457,7 @@ unicode = 00B4;
 },
 {
 glyphname = mu;
-lastChange = "2012-10-22 20:59:19 -0400";
+lastChange = "2012-11-04 19:27:34 -0500";
 layers = (
 {
 layerId = "16808965-E153-4B2B-ADB3-00196C646C32";
@@ -11568,7 +11570,7 @@ nodes = (
 width = 1505;
 }
 );
-unicode = 03BC;
+unicode = 00B5;
 },
 {
 glyphname = paragraph;
@@ -26400,7 +26402,7 @@ unicode = 2122;
 },
 {
 glyphname = Omega;
-lastChange = "2012-10-22 20:59:19 -0400";
+lastChange = "2012-11-04 19:23:04 -0500";
 layers = (
 {
 anchors = (
@@ -26524,7 +26526,7 @@ nodes = (
 width = 1739;
 }
 );
-unicode = 03A9;
+unicode = 2126;
 },
 {
 glyphname = partialdiff;
@@ -26667,7 +26669,7 @@ unicode = 2202;
 },
 {
 glyphname = Delta;
-lastChange = "2012-10-22 20:59:19 -0400";
+lastChange = "2012-11-04 19:23:22 -0500";
 layers = (
 {
 layerId = "16808965-E153-4B2B-ADB3-00196C646C32";
@@ -26743,7 +26745,7 @@ nodes = (
 width = 1654;
 }
 );
-unicode = 0394;
+unicode = 2206;
 },
 {
 glyphname = product;
@@ -28582,27 +28584,6 @@ nodes = (
 width = 508;
 }
 );
-},
-{
-glyphname = Acedilla;
-lastChange = "2012-10-22 21:34:48 -0400";
-layers = (
-{
-components = (
-{
-name = A;
-transform = "{1, 0, 0, 1, 0, 0}";
-},
-{
-name = cedilla;
-transform = "{1, 0, 0, 1, 1007, 51}";
-}
-);
-layerId = "16808965-E153-4B2B-ADB3-00196C646C32";
-name = "Regular Italic";
-width = 1640;
-}
-);
 }
 );
 disablesNiceNames = 1;
@@ -28689,10 +28670,10 @@ K = {
 C = "-205";
 O = "-221";
 e = "-205";
+i = "-120";
 o = "-219";
 u = "-279";
 y = "-184";
-i = "-120";
 };
 L = {
 T = "-174";
@@ -29107,8 +29088,8 @@ v = "-141";
 };
 s = {
 b = "-90";
-w = "-176";
 t = "-50";
+w = "-176";
 };
 t = {
 y = "-150";
@@ -29154,5 +29135,5 @@ o = "-236";
 };
 unitsPerEm = 2048;
 versionMajor = 1;
-versionMinor = 1;
+versionMinor = 2;
 }
