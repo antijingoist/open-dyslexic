@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-apb
+"afkB,uupb"
 );
 classes = (
 {
@@ -2855,7 +2855,7 @@ unicode = 0054;
 {
 color = 4;
 glyphname = U;
-lastChange = "2012-10-21 18:29:17 -0400";
+lastChange = "2012-11-09 20:31:45 -0500";
 layers = (
 {
 anchors = (
@@ -3937,7 +3937,7 @@ unicode = 006D;
 {
 color = 5;
 glyphname = n;
-lastChange = "2012-10-21 18:29:28 -0400";
+lastChange = "2012-11-09 20:28:51 -0500";
 layers = (
 {
 anchors = (
@@ -4394,7 +4394,7 @@ unicode = 0074;
 {
 color = 5;
 glyphname = u;
-lastChange = "2012-10-21 18:29:28 -0400";
+lastChange = "2012-11-09 20:28:38 -0500";
 layers = (
 {
 anchors = (
@@ -4543,7 +4543,7 @@ unicode = 0078;
 {
 color = 5;
 glyphname = y;
-lastChange = "2012-10-22 20:50:52 -0400";
+lastChange = "2012-11-09 20:32:48 -0500";
 layers = (
 {
 anchors = (
@@ -11117,21 +11117,6 @@ v = "-150";
 w = "-145";
 };
 AE = {
-AE = 214;
-Aacute = 206;
-Acircumflex = 206;
-Agrave = 206;
-Atilde = 206;
-Cacute = 75;
-Ccaron = 75;
-Delta = 228;
-Eth = 180;
-Euro = 159;
-Gbreve = 75;
-Lslash = 204;
-Scedilla = 87;
-Yacute = 226;
-Ydieresis = 226;
 acute = "-212";
 c6460 = "-181";
 c6462 = "-78";
@@ -11141,7 +11126,6 @@ cacute = 77;
 ccaron = 77;
 cedilla = "-258";
 daggerdbl = 165;
-dcroat = 77;
 dotaccent = "-188";
 emdash = 190;
 endash = 190;
@@ -11194,11 +11178,9 @@ I = {
 J = "-100";
 };
 J = {
-a = "-97";
 comma = "-79";
 e = "-79";
 o = "-93";
-u = "-141";
 };
 K = {
 C = "-119";
@@ -11269,7 +11251,7 @@ comma = "-437";
 period = "-501";
 };
 Q = {
-U = "-151";
+U = "-80";
 period = "-253";
 };
 R = {
@@ -11361,11 +11343,6 @@ Ydieresis = {
 s = "-150";
 };
 a = {
-c = "-40";
-l = 30;
-t = "-20";
-u = "-90";
-v = "-117";
 w = "-173";
 y = "-191";
 };
@@ -11451,14 +11428,9 @@ threequarters = "-54";
 trademark = "-220";
 yacute = "-553";
 };
-adieresis = {
-t = 160;
-};
 b = {
 d = "-50";
-n = 100;
 period = "-45";
-q = 100;
 y = "-122";
 };
 c = {
@@ -11472,8 +11444,6 @@ y = "-165";
 };
 d = {
 m = "-107";
-n = "-40";
-q = 30;
 v = "-51";
 w = "-129";
 };
@@ -11565,14 +11535,11 @@ egrave = {
 V = 10;
 };
 f = {
-b = 90;
 comma = "-115";
-e = 50;
-h = 90;
-k = 90;
 n = 80;
 o = "-100";
 period = "-211";
+k = 90;
 };
 five = {
 zero = 60;
@@ -11581,9 +11548,7 @@ fraction = {
 s = "-150";
 };
 g = {
-a = "-113";
 comma = "-97";
-f = 90;
 g = "-101";
 i = "-155";
 j = 0;
@@ -11759,7 +11724,6 @@ twosuperior = "-203";
 m = {
 f = "-46";
 m = "-123";
-u = "-201";
 y = "-207";
 };
 mu = {
@@ -11841,13 +11805,11 @@ zcaron = 257;
 n = {
 D = "-46";
 a = "-45";
-f = 70;
 g = "-30";
 m = "-20";
 p = "-80";
 q = 50;
 t = "-60";
-u = "-140";
 v = "-100";
 w = "-90";
 };
@@ -12027,7 +11989,6 @@ c = "-101";
 comma = "-161";
 d = "-150";
 e = "-140";
-f = 140;
 g = 70;
 hyphen = "-125";
 o = "-60";
@@ -12201,10 +12162,6 @@ tilde = "-262";
 trademark = "-375";
 twosuperior = "-174";
 zcaron = "-168";
-};
-u = {
-f = 100;
-n = "-110";
 };
 udieresis = {
 t = 180;
