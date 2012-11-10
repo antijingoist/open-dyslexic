@@ -1,7 +1,8 @@
 {
 DisplayStrings = (
 "I don't know if I can do it Arnold? How can I? I think I can. I think I\012 can. I think I can. ",
-"luv. law. my. luv, law, my, "
+"luv. law. my. luv, law, my, ",
+bmuapbd
 );
 classes = (
 {
@@ -7317,7 +7318,7 @@ unicode = 0061;
 },
 {
 glyphname = b;
-lastChange = "2012-10-21 18:34:44 -0400";
+lastChange = "2012-11-07 16:45:00 -0500";
 layers = (
 {
 layerId = "013FA67F-D7C9-4F04-AAC6-32032829ED9A";
@@ -7407,27 +7408,10 @@ nodes = (
 "606 24 OFFCURVE",
 "554 51 CURVE SMOOTH",
 "502 78 OFFCURVE",
-"457 118 OFFCURVE",
-"425 166 CURVE",
-"422 143 OFFCURVE",
-"419 119 OFFCURVE",
-"416 95 CURVE SMOOTH",
-"413 70 OFFCURVE",
-"409 47 OFFCURVE",
-"406 26 CURVE",
-"393 25 OFFCURVE",
-"377 23 OFFCURVE",
-"360 22 CURVE SMOOTH",
-"342 21 OFFCURVE",
-"324 19 OFFCURVE",
-"305 17 CURVE SMOOTH",
-"286 15 OFFCURVE",
-"268 13 OFFCURVE",
-"251 12 CURVE",
-"234 10 OFFCURVE",
-"218 8 OFFCURVE",
-"205 6 CURVE",
-"298 521 OFFCURVE",
+"424 110 OFFCURVE",
+"375 166 CURVE",
+"253 307 LINE",
+"346 822 OFFCURVE",
 "347 1026 OFFCURVE",
 "358 1533 CURVE",
 "377 1529 OFFCURVE",

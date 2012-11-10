@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"luv. law. my. luv, law, my,"
+pqapbbd
 );
 classes = (
 {
@@ -6355,7 +6355,7 @@ unicode = 0061;
 },
 {
 glyphname = b;
-lastChange = "2012-10-22 21:19:35 -0400";
+lastChange = "2012-11-07 21:02:21 -0500";
 layers = (
 {
 layerId = "16808965-E153-4B2B-ADB3-00196C646C32";
@@ -6448,13 +6448,8 @@ nodes = (
 "469 102 OFFCURVE",
 "423 155 OFFCURVE",
 "398 219 CURVE",
-"390 155 OFFCURVE",
-"381 90 OFFCURVE",
-"372 26 CURVE",
-"316 22 OFFCURVE",
-"263 17 OFFCURVE",
-"207 10 CURVE",
-"299 523 OFFCURVE",
+"271 381 LINE",
+"346 894 OFFCURVE",
 "348 1029 OFFCURVE",
 "360 1544 CURVE",
 "387 1539 OFFCURVE",
@@ -7836,7 +7831,7 @@ unicode = 006F;
 },
 {
 glyphname = p;
-lastChange = "2012-10-22 20:59:19 -0400";
+lastChange = "2012-11-07 21:02:34 -0500";
 layers = (
 {
 layerId = "16808965-E153-4B2B-ADB3-00196C646C32";
@@ -7957,7 +7952,7 @@ unicode = 0070;
 },
 {
 glyphname = q;
-lastChange = "2012-10-22 20:59:19 -0400";
+lastChange = "2012-11-07 16:55:36 -0500";
 layers = (
 {
 layerId = "16808965-E153-4B2B-ADB3-00196C646C32";
@@ -8047,8 +8042,11 @@ nodes = (
 "1072 1099 OFFCURVE",
 "1126 1104 OFFCURVE",
 "1182 1111 CURVE",
-"1083 603 OFFCURVE",
-"1026 100 OFFCURVE",
+"1092 648 OFFCURVE",
+"956 -185 OFFCURVE",
+"1116 -296 CURVE SMOOTH",
+"1161 -327 OFFCURVE",
+"1011 -324 OFFCURVE",
 "1011 -411 CURVE",
 "955 -404 OFFCURVE",
 "904 -399 OFFCURVE",
@@ -28787,14 +28785,12 @@ W = "-299";
 y = "-141";
 };
 a = {
-p = "-279";
 u = "-150";
 v = "-150";
 w = "-258";
 y = "-150";
 };
 b = {
-d = "-170";
 y = "-100";
 };
 d = {
