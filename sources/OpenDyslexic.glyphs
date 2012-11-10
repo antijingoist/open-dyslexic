@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"afkB,uupb"
+"afkB,uu;pb"
 );
 classes = (
 {
@@ -11536,10 +11536,10 @@ V = 10;
 };
 f = {
 comma = "-115";
+k = 90;
 n = 80;
 o = "-100";
 period = "-211";
-k = 90;
 };
 five = {
 zero = 60;
