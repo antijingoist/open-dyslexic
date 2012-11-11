@@ -2,7 +2,7 @@
 DisplayStrings = (
 "I don't know if I can do it Arnold? How can I? I think I can. I think I\012 can. I think I can. ",
 "luv. law. my. luv, law, my, ",
-bmuapbd
+bmuAapbd
 );
 classes = (
 {
@@ -11,7 +11,7 @@ code = "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Agrave Aacute Acircu
 name = Uppercase;
 }
 );
-copyright = "Copyright \U00A9 2012 by Abelardo Gonzalez. Licensed under the Bitstream License.";
+copyright = "Fonts are \U00A9 Bitstream. OpenDyslexic changes and additional glyphs by Abelardo Gonzalez are licensed under a Creative Commons Attribution 3.0 Unported License.\012Based on a work at http://dyslexicfonts.com. \U26612012 by Abelardo Gonzalez. Copying is an act of love. Please copy.\012Bitstream license as follows: \012\012Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved. Bitstream Vera is a trademark of Bitstream, Inc. \012\012Permission is hereby granted, free of charge, to any person obtaining a copy of the fonts accompanying this license (\U201CFonts\U201D) and associated documentation files (the \U201CFont Software\U201D), to reproduce and distribute the Font Software, including without limitation the rights to use, copy, merge, publish, distribute, and/or sell copies of the Font Software, and to permit persons to whom the Font Software is furnished to do so, subject to the following conditions: \012\012The above copyright and trademark notices and this permission notice shall be included in all copies of one or more of the Font Software typefaces.\012\012The Font Software may be modified, altered, or added to, and in particular the designs of glyphs or characters in the Fonts may be modified and additional glyphs or characters may be added to the Fonts, only if the fonts are renamed to names not containing either the words \U201CBitstream\U201D or the word \U201CVera\U201D.\012\012This License becomes null and void to the extent applicable to Fonts or Font Software that has been modified and is distributed under the \U201CBitstream Vera\U201D names. \012\012The Font Software may be sold as part of a larger software package but no copy of one or more of the Font Software typefaces may be sold by itself. \012\012THE FONT SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL BITSTREAM OR THE GNOME FOUNDATION BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE. \012\012Except as contained in this notice, the names of Gnome, the Gnome Foundation, and Bitstream Inc., shall not be used in advertising or otherwise to promote the sale, use or other dealings in this Font Software without prior written authorization from the Gnome Foundation or Bitstream Inc., respectively. For further information, contact: fonts at gnome dot org. ";
 customParameters = (
 {
 name = glyphOrder;
@@ -4001,7 +4001,7 @@ unicode = 0040;
 },
 {
 glyphname = A;
-lastChange = "2012-10-21 18:34:44 -0400";
+lastChange = "2012-11-11 14:21:22 -0500";
 layers = (
 {
 anchors = (
@@ -4020,19 +4020,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"849 1291 LINE",
-"826 1239 LINE",
-"825 1248 OFFCURVE",
-"823 1258 OFFCURVE",
-"820 1267 CURVE SMOOTH",
-"817 1276 OFFCURVE",
-"815 1285 OFFCURVE",
-"813 1294 CURVE"
-);
-},
-{
-closed = 1;
-nodes = (
 "889 971 OFFCURVE",
 "877 1025 OFFCURVE",
 "865 1078 CURVE SMOOTH",
@@ -4040,7 +4027,7 @@ nodes = (
 "839 1185 OFFCURVE",
 "826 1239 CURVE",
 "706 942 LINE SMOOTH",
-"645 794 OFFCURVE",
+"646 794 OFFCURVE",
 "588 656 OFFCURVE",
 "525 507 CURVE",
 "565 508 OFFCURVE",
@@ -33954,5 +33941,5 @@ name = "Bold Italic";
 );
 unitsPerEm = 2048;
 versionMajor = 1;
-versionMinor = 1;
+versionMinor = 500;
 }
