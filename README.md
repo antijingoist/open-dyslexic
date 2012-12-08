@@ -5,7 +5,9 @@ README
 
 ![ZDNet example](https://github.com/antijingoist/open-dyslexic/raw/master/screenshots/zdnetarticle.PNG)
 
-Download latest version of the font by clicking [here](https://github.com/antijingoist/open-dyslexic/raw/master/opendyslexic.ttf).
+Download the [latest bleeding edge version](https://github.com/antijingoist/open-dyslexic/archive/master.zip).
+
+Places I've officially uploaded the latest stable versions to are [dafont.com](http://dafont.com/open-dyslexic.font) and [dyslexicfonts.com](http://dyslexicfonts.com)
 
 The latest version may not always be the best version. If you want a stable version, check http://dyslexicfonts.com/downloads.php or http://dafont.com/open-dyslexic.font for a stable.
 
@@ -43,8 +45,6 @@ It is based on Bitstream Vera Sans because of the nice license it has.
 If you are looking for the source file, it is the .ttf file. Also, I am not packaging this as an EXE file.
 
 You should not have downloaded this as an exe: You may get spyware. :( If you were compelled to pay for this font, ask for a refund. This font is provided at no charge. Donations are cool though. :)
-
-Places I've officially uploaded the latest stable versions to are dafont.com and http://dyslexicfonts.com
 
 License
 -------
