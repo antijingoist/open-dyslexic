@@ -12,8 +12,6 @@ The latest version may not always be the best version. If you want a stable vers
 If you are upgrading your copy of this font, you may want to remove previous version first. 
 Also, the naming convention will now be "opendyslexic" and "opendyslexic-[style]."
 
-*If you have the opendyslexic TTF fonts installed, delete them before installing these!*
-
 See what it looks like in the screenshots on http://dyslexicfonts.com
 
 font to help readability, and help dyslexic readability.
@@ -25,12 +23,12 @@ OpenDyslexic also takes a different approach to italic styles. It is generally r
 Rules:
 
 - similar letters must look different
-- make the letters have some weight to them.
-- Try not to look like a handwritten or comic sans font. To some extent, this may be unavoidable, but differing degrees of readability can be a trade-off
+- make the letters have some weight to them, so that confusable letters have an obvious rotation.
 - Intent to be used as 'the' on screen UI font is in my head also.
-I am not posting a separate version of it in the downloads section again until version 1.0.
 
-Thanks to everyone that donated during the Glyphs app fundraising:
+
+
+Thanks to everyone that donated during the Glyphs.app fundraising:
 
 - Cheryl Marshall
 - Anonymous (MG). <-- look at that, anonymous supports this. :D 
@@ -44,7 +42,7 @@ It is based on Bitstream Vera Sans because of the nice license it has.
 
 If you are looking for the source file, it is the .ttf file. Also, I am not packaging this as an EXE file.
 
-You should not have downloaded this as an exe. You may get spyware. :( If you were compelled to pay for this font, ask for a refund. This font is provided at no charge. Donations are cool though. :)
+You should not have downloaded this as an exe: You may get spyware. :( If you were compelled to pay for this font, ask for a refund. This font is provided at no charge. Donations are cool though. :)
 
 Places I've officially uploaded the latest stable versions to are dafont.com and http://dyslexicfonts.com
 
