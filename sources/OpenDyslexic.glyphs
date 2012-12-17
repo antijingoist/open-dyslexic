@@ -1,7 +1,6 @@
 {
 DisplayStrings = (
-/Ldotbelow,
-/Ndotbelow/Ocircumflexdotbelow/dotbelowcomb/Odotbelow/Ohorndotbelow/Sdotbelow/Tdotbelow/Udotbelow/Uhorndotbelow/Ydotbelow/Zdotbelow/abrevedotbelow/acircumflexdotbelow/adotbelow/bdotbelow/ddotbelow/ecircumflexdotbelow/dotbelowcomb/edotbelow/hdotbelow/idotbelow/ldotbelow/ndotbelow/ocircumflexdotbelow/odotbelow/ohorndotbelow/sdotbelow/tdotbelow/udotbelow/uhorndotbelow/ydotbelow/zdotbelow
+/Ndotbelow
 );
 classes = (
 {
@@ -12455,7 +12454,7 @@ unicode = 1E44;
 },
 {
 glyphname = Ndotbelow;
-lastChange = "2012-12-07 17:42:14 -0500";
+lastChange = "2012-12-17 16:23:05 -0500";
 layers = (
 {
 components = (
@@ -12465,7 +12464,7 @@ transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = dotbelowcomb;
-transform = "{1, 0, 0, 1, 0, 0}";
+transform = "{1, 0, 0, 1, 400, -300}";
 }
 );
 layerId = "6B6936E6-7670-4A82-900D-EAF583C971AF";
