@@ -393,7 +393,7 @@ verticalStems = (
 257
 );
 weight = Bold;
-weightValue = 799;
+weightValue = 800;
 widthValue = 5;
 xHeight = 1120;
 }
