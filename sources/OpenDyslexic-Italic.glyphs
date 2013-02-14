@@ -10713,49 +10713,6 @@ width = 1662;
 unicode = 00AC;
 },
 {
-glyphname = sfthyphen;
-lastChange = "2012-10-22 20:59:19 -0400";
-layers = (
-{
-layerId = "16808965-E153-4B2B-ADB3-00196C646C32";
-name = "Regular Italic";
-paths = (
-{
-closed = 1;
-nodes = (
-"253 631 OFFCURVE",
-"340 630 OFFCURVE",
-"427 630 CURVE SMOOTH",
-"513 630 OFFCURVE",
-"600 631 OFFCURVE",
-"687 633 CURVE",
-"670 605 OFFCURVE",
-"662 576 OFFCURVE",
-"662 545 CURVE SMOOTH",
-"662 524 OFFCURVE",
-"666 506 OFFCURVE",
-"674 489 CURVE",
-"588 491 OFFCURVE",
-"502 492 OFFCURVE",
-"415 492 CURVE SMOOTH",
-"328 492 OFFCURVE",
-"241 491 OFFCURVE",
-"154 489 CURVE",
-"169 516 OFFCURVE",
-"177 546 OFFCURVE",
-"177 577 CURVE SMOOTH",
-"177 597 OFFCURVE",
-"174 616 OFFCURVE",
-"167 633 CURVE"
-);
-}
-);
-width = 838;
-}
-);
-unicode = 00AD;
-},
-{
 glyphname = registered;
 lastChange = "2012-10-22 20:59:19 -0400";
 layers = (
@@ -34485,6 +34442,7 @@ disablesNiceNames = 1;
 instances = (
 {
 isItalic = 1;
+linkStyle = Regular;
 name = Italic;
 }
 );
@@ -34524,7 +34482,6 @@ Cacute = 76;
 Ccaron = 76;
 Delta = 227;
 Eth = 180;
-euro = 160;
 Gbreve = 76;
 Lslash = 205;
 Scedilla = 86;
@@ -34543,6 +34500,7 @@ dcroat = 78;
 dotaccent = "-188";
 emdash = 190;
 endash = 190;
+euro = 160;
 fraction = 565;
 gbreve = 78;
 integral = "-203";
@@ -34554,7 +34512,6 @@ onehalf = 86;
 onequarter = 86;
 onesuperior = 86;
 scedilla = 111;
-sfthyphen = 90;
 summation = 166;
 threequarters = 92;
 threesuperior = 92;
@@ -34585,7 +34542,6 @@ Ecircumflex = 57;
 Edieresis = 57;
 Egrave = 57;
 Eth = 248;
-euro = 225;
 Gbreve = 143;
 Iacute = 63;
 Icircumflex = 72;
@@ -34629,6 +34585,7 @@ ellipsis = 70;
 emdash = 225;
 endash = 225;
 eth = 145;
+euro = 225;
 fi = 188;
 fl = 178;
 florin = "-88";
@@ -34662,7 +34619,6 @@ quotesinglbase = "-104";
 radical = 166;
 scaron = 147;
 scedilla = 147;
-sfthyphen = 127;
 summation = 201;
 thorn = 72;
 threequarters = 160;
@@ -34749,7 +34705,6 @@ Cacute = 104;
 Ccaron = 104;
 Delta = 319;
 Eth = 178;
-euro = 188;
 Gbreve = 104;
 Idotaccent = 143;
 Lslash = 170;
@@ -34790,6 +34745,7 @@ dotaccent = 350;
 dotlessi = 152;
 ellipsis = 219;
 eth = 170;
+euro = 188;
 fraction = 657;
 gbreve = 170;
 hungarumlaut = 350;
@@ -34805,7 +34761,6 @@ questiondown = 203;
 ring = 350;
 scaron = 233;
 scedilla = 233;
-sfthyphen = 55;
 thorn = 160;
 threequarters = 90;
 threesuperior = 90;
@@ -34858,7 +34813,6 @@ partialdiff = {
 Cacute = 162;
 Ccaron = 162;
 Eth = 266;
-euro = 246;
 Gbreve = 162;
 Lslash = 260;
 OE = 162;
@@ -34886,6 +34840,7 @@ dieresis = 350;
 dotaccent = 350;
 emdash = 246;
 endash = 246;
+euro = 246;
 fi = 209;
 fl = 199;
 fraction = 369;
@@ -34938,7 +34893,6 @@ quotedblright = "-483";
 quoteleft = "-557";
 quoteright = "-602";
 ring = "-758";
-sfthyphen = "-524";
 tilde = 350;
 trademark = "-907";
 };
@@ -34997,7 +34951,6 @@ t = "-100";
 };
 yen = {
 Eth = 213;
-euro = 221;
 Lslash = 236;
 Yacute = 289;
 Ydieresis = 289;
@@ -35008,6 +34961,7 @@ daggerdbl = 166;
 ellipsis = "-283";
 emdash = 221;
 endash = 221;
+euro = 221;
 fraction = 313;
 integral = "-236";
 lozenge = 215;

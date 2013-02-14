@@ -21244,6 +21244,7 @@ instances = (
 {
 isBold = 1;
 name = Bold;
+weightClass = Bold;
 }
 );
 unitsPerEm = 2048;

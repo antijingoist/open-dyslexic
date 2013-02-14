@@ -400,7 +400,7 @@ verticalStems = (
 290
 );
 weight = Bold;
-weightValue = 800;
+weightValue = 700;
 widthValue = 5;
 xHeight = 1108;
 }
@@ -12261,68 +12261,6 @@ width = 1674;
 }
 );
 unicode = 00AC;
-},
-{
-glyphname = sfthyphen;
-lastChange = "2012-10-21 18:34:44 -0400";
-layers = (
-{
-layerId = "013FA67F-D7C9-4F04-AAC6-32032829ED9A";
-name = "Bold Italic";
-paths = (
-{
-closed = 1;
-nodes = (
-"185 655 LINE",
-"268 653 OFFCURVE",
-"352 652 OFFCURVE",
-"438 652 CURVE SMOOTH",
-"459 652 OFFCURVE",
-"481 652 OFFCURVE",
-"506 653 CURVE",
-"531 653 OFFCURVE",
-"556 653 OFFCURVE",
-"581 654 CURVE",
-"632 654 OFFCURVE",
-"682 655 OFFCURVE",
-"725 656 CURVE",
-"700 613 OFFCURVE",
-"686 577 OFFCURVE",
-"686 550 CURVE SMOOTH",
-"686 533 OFFCURVE",
-"694 508 OFFCURVE",
-"709 475 CURVE",
-"668 476 OFFCURVE",
-"618 477 OFFCURVE",
-"568 478 CURVE SMOOTH",
-"543 478 OFFCURVE",
-"518 478 OFFCURVE",
-"494 479 CURVE",
-"469 479 OFFCURVE",
-"447 479 OFFCURVE",
-"426 479 CURVE SMOOTH",
-"405 479 OFFCURVE",
-"382 479 OFFCURVE",
-"357 479 CURVE",
-"332 478 OFFCURVE",
-"308 478 OFFCURVE",
-"283 478 CURVE SMOOTH",
-"233 477 OFFCURVE",
-"182 476 OFFCURVE",
-"139 475 CURVE",
-"162 518 OFFCURVE",
-"175 554 OFFCURVE",
-"175 581 CURVE SMOOTH",
-"175 597 OFFCURVE",
-"172 613 OFFCURVE",
-"166 629 CURVE"
-);
-}
-);
-width = 876;
-}
-);
-unicode = 00AD;
 },
 {
 glyphname = registered;
@@ -38683,7 +38621,9 @@ instances = (
 {
 isBold = 1;
 isItalic = 1;
+linkStyle = Regular;
 name = "Bold Italic";
+weightClass = Bold;
 }
 );
 unitsPerEm = 2048;
