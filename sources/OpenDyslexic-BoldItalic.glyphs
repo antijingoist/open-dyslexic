@@ -6,7 +6,7 @@ code = "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Agrave Aacute Acircu
 name = Uppercase;
 }
 );
-copyright = "Fonts are \U00A9 Bitstream. OpenDyslexic changes and additional glyphs by Abelardo Gonzalez are licensed under a Creative Commons Attribution 3.0 Unported License.\012Based on a work at http://dyslexicfonts.com. \U26612012 by Abelardo Gonzalez. Copying is an act of love. Please copy.\012Bitstream license as follows: \012\012Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved. Bitstream Vera is a trademark of Bitstream, Inc. \012\012Permission is hereby granted, free of charge, to any person obtaining a copy of the fonts accompanying this license (\U201CFonts\U201D) and associated documentation files (the \U201CFont Software\U201D), to reproduce and distribute the Font Software, including without limitation the rights to use, copy, merge, publish, distribute, and/or sell copies of the Font Software, and to permit persons to whom the Font Software is furnished to do so, subject to the following conditions: \012\012The above copyright and trademark notices and this permission notice shall be included in all copies of one or more of the Font Software typefaces.\012\012The Font Software may be modified, altered, or added to, and in particular the designs of glyphs or characters in the Fonts may be modified and additional glyphs or characters may be added to the Fonts, only if the fonts are renamed to names not containing either the words \U201CBitstream\U201D or the word \U201CVera\U201D.\012\012This License becomes null and void to the extent applicable to Fonts or Font Software that has been modified and is distributed under the \U201CBitstream Vera\U201D names. \012\012The Font Software may be sold as part of a larger software package but no copy of one or more of the Font Software typefaces may be sold by itself. \012\012THE FONT SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL BITSTREAM OR THE GNOME FOUNDATION BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE. \012\012Except as contained in this notice, the names of Gnome, the Gnome Foundation, and Bitstream Inc., shall not be used in advertising or otherwise to promote the sale, use or other dealings in this Font Software without prior written authorization from the Gnome Foundation or Bitstream Inc., respectively. For further information, contact: fonts at gnome dot org. ";
+copyright = "Fonts are \U00A9 Bitstream. OpenDyslexic changes and additional glyphs by Abelardo Gonzalez are licensed under a Creative Commons Attribution 3.0 Unported License.\012Based on a work at http://dyslexicfonts.com. \U26612012 by Abelardo Gonzalez. Copying is an act of love. Please copy.\012Bitstream license available here: http://opendyslexic.org/legal/";
 customParameters = (
 {
 name = glyphOrder;
@@ -341,7 +341,7 @@ alignmentZones = (
 "{0, -31}",
 "{-404, -46}"
 );
-ascender = 1539;
+ascender = 2100;
 capHeight = 1455;
 customParameters = (
 {
@@ -7534,13 +7534,17 @@ unicode = 0063;
 },
 {
 glyphname = d;
-lastChange = "2012-10-21 18:34:44 -0400";
+lastChange = "2013-04-22 20:41:49 -0400";
 layers = (
 {
 anchors = (
 {
 name = center;
 position = "{717, 554}";
+},
+{
+name = top;
+position = "{612, 1171}";
 }
 );
 layerId = "013FA67F-D7C9-4F04-AAC6-32032829ED9A";
@@ -9449,7 +9453,7 @@ unicode = 0073;
 },
 {
 glyphname = t;
-lastChange = "2012-10-21 18:34:44 -0400";
+lastChange = "2013-04-22 20:42:31 -0400";
 layers = (
 {
 anchors = (
@@ -9460,6 +9464,10 @@ position = "{611, 0}";
 {
 name = center;
 position = "{611, 554}";
+},
+{
+name = top;
+position = "{555, 1306}";
 }
 );
 layerId = "013FA67F-D7C9-4F04-AAC6-32032829ED9A";
@@ -34639,13 +34647,17 @@ unicode = 0139;
 },
 {
 glyphname = Lcaron;
-lastChange = "2012-12-07 17:49:34 -0500";
+lastChange = "2013-04-22 20:41:55 -0400";
 layers = (
 {
 components = (
 {
 name = L;
 transform = "{1, 0, 0, 1, 0, 0}";
+},
+{
+name = caron;
+transform = "{1, 0, 0, 1, -161, 347}";
 }
 );
 layerId = "013FA67F-D7C9-4F04-AAC6-32032829ED9A";
@@ -36445,7 +36457,7 @@ unicode = 010B;
 },
 {
 glyphname = dcaron;
-lastChange = "2012-12-07 17:49:34 -0500";
+lastChange = "2013-04-22 20:41:36 -0400";
 layers = (
 {
 components = (
@@ -36454,8 +36466,8 @@ name = d;
 transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
-name = quoteright;
-transform = "{1, 0, 0, 1, 0, 0}";
+name = caron;
+transform = "{1, 0, 0, 1, -104, 63}";
 }
 );
 layerId = "013FA67F-D7C9-4F04-AAC6-32032829ED9A";
@@ -36997,13 +37009,17 @@ unicode = 013A;
 },
 {
 glyphname = lcaron;
-lastChange = "2012-12-07 17:49:34 -0500";
+lastChange = "2013-04-22 20:42:05 -0400";
 layers = (
 {
 components = (
 {
 name = l;
 transform = "{1, 0, 0, 1, 0, 0}";
+},
+{
+name = caron;
+transform = "{1, 0, 0, 1, -270, 347}";
 }
 );
 layerId = "013FA67F-D7C9-4F04-AAC6-32032829ED9A";
@@ -37649,7 +37665,7 @@ unicode = 0167;
 },
 {
 glyphname = tcaron;
-lastChange = "2012-12-07 17:49:34 -0500";
+lastChange = "2013-04-22 20:42:16 -0400";
 layers = (
 {
 components = (
@@ -37658,8 +37674,8 @@ name = t;
 transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
-name = quoteright;
-transform = "{1, 0, 0, 1, 0, 0}";
+name = caron;
+transform = "{1, 0, 0, 1, -161, 198}";
 }
 );
 layerId = "013FA67F-D7C9-4F04-AAC6-32032829ED9A";
@@ -38627,6 +38643,6 @@ weightClass = Bold;
 }
 );
 unitsPerEm = 2048;
-versionMajor = 1;
-versionMinor = 500;
+versionMajor = 2;
+versionMinor = 1;
 }
