@@ -379,25 +379,6 @@ horizontalStems = (
 );
 id = "16808965-E153-4B2B-ADB3-00196C646C32";
 italicAngle = 12.0002;
-verticalStems = (
-265,
-251,
-147,
-182,
-161,
-177,
-158,
-175,
-184,
-254,
-135,
-163,
-159,
-165,
-118,
-138,
-167
-);
 weightValue = 400;
 widthValue = 5;
 xHeight = 1108;
