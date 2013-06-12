@@ -7,28 +7,17 @@ README
 
 Download the [latest bleeding edge version](https://github.com/antijingoist/open-dyslexic/archive/master.zip).
 
-Places I've officially uploaded the latest stable versions to are [dafont.com](http://dafont.com/open-dyslexic.font) and [dyslexicfonts.com](http://dyslexicfonts.com)
+Places I've officially uploaded the latest stable versions to are [dafont.com](http://dafont.com/open-dyslexic.font) and [opendyslexic.org](http://opendyslexic.org)
 
-The latest version may not always be the best version. If you want a stable version, check http://dyslexicfonts.com/downloads.php or http://dafont.com/open-dyslexic.font for a stable.
+The latest version may not always be the best version. If you want a stable version, check [github](https://github.com/antijingoist/open-dyslexic/tags) for the latest stable or working beta including otf's and ttf's, or [DaFont](http://dafont.com/open-dyslexic.font) for a stable otf.
 
 If you are upgrading your copy of this font, you may want to remove previous version first. 
-Also, the naming convention will now be "opendyslexic" and "opendyslexic-[style]."
 
-See what it looks like in the screenshots on http://dyslexicfonts.com
+Typeface/font to help readability, and help readability for some of the symptoms of dyslexia.
 
-font to help readability, and help dyslexic readability.
+Your brain can sometimes do funny things to letters. OpenDyslexic tries to help prevent some of these things from happening. Letters have heavy weighted bottoms to provide an indication of orientation to make it more difficult to confuse with other similar letters. Consistently weighted bottoms can also help reenforce the line of text. The unique shapes of each letter can help prevent flipping and swapping.
 
-Your brain can sometimes do funny things to letters. OpenDyslexic tries to help prevent some of these things from happening. Letters have heavy weighted bottoms to add a kind of "gravity" to each letter, helping to keep your brain from rotating them around in ways that can make them look like other letters. Consistently weighted bottoms can also help reenforce the line of text. The unique shapes of each letter can help prevent flipping and swapping.
-
-OpenDyslexic also takes a different approach to italic styles. It is generally recommended that italics be avoided in reading material for dyslexia. However, instead of taking the normal approach of "slant x% for italic," OpenDyslexic's italic style has been crafted to allow for it's use for emphasis while maintaining readability.
-
-Rules:
-
-- similar letters must look different
-- make the letters have some weight to them, so that confusable letters have an obvious rotation.
-- Intent to be used as 'the' on screen UI font is in my head also.
-
-
+The italic style for OpenDyslexic has been crafted still be able to be used for emphasis while still being readable. 
 
 Thanks to everyone that donated during the Glyphs.app fundraising:
 
@@ -38,21 +27,28 @@ Thanks to everyone that donated during the Glyphs.app fundraising:
 - Steven V James
 - @nguarracino
 - Plow Software, LLC
+
 You guys are super cool! Thanks!
+
+Also, thanks to:
+- @glyphsapp for helping me learn Glyphs. 
+- Rob Carpenter of Oak Grove College in England for the Alta style
+- The awesome folk @ TEDxGateway that still have yet to release the OpenDyslexic TEDx talk.
 
 It is based on Bitstream Vera Sans because of the nice license it has. 
 
-If you are looking for the source file, it is the .ttf file. Also, I am not packaging this as an EXE file.
+OpenDyslexic is not packaged by me as an .exe file. It is packaged as a zip file, with no installer,  so you know what you are getting.
 
-You should not have downloaded this as an exe: You may get spyware. :( If you were compelled to pay for this font, ask for a refund. This font is provided at no charge. Donations are cool though. :)
+If you were compelled to pay for this font, ask for a refund. This font is provided at no charge. Donations are cool though. :)
 
 License
 -------
 The license for this font is: 
 
+♡ Copying is an act of love. Please copy.
 OpenDyslexic(open-dyslexic) by Abelardo Gonzalez is licensed under a Creative Commons Attribution 3.0 Unported License.
 Based on a work at dyslexicfonts.com.
-Permissions beyond the scope of this license may be available at http://dyslexicfonts.com/license.php.
+Permissions beyond the scope of this license may be available at [http://opendyslexic.org/legal/](http://opendyslexic.org/legal/).
 
 Original Bitstream License: 
 
