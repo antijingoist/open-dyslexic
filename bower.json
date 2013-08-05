@@ -8,5 +8,11 @@
 		"type": "git",
 		"url": "git://github.com/antijingoist/open-dyslexic"
 	},
-	"dependencies":{}
+	"ignore": [
+		"README.md",
+		"sources*",
+		"screenshots*"
+	],
+	"dependencies":{},
+	"devDependencies": {}
 }
