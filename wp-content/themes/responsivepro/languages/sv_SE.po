@@ -1,0 +1,873 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Responsive Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-25 13:42:58 UTC\n"
+"PO-Revision-Date: 2013-07-22 22:03:36 UTC\n"
+"Last-Translator: Web Translate It <support@webtranslateit.com>\n"
+"Language-Team: Swedish, Sweden\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: WebTranslateIt.com\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: page.php
+#: landing-page.php
+#: index.php
+#: image.php
+#: full-width-page.php
+#: content-sidebar-page.php
+#: content-sidebar-half-page.php
+#: blog.php
+#: blog-excerpt.php
+#: archive.php
+#: home.php
+#: search.php
+#: sidebar-content-half-page.php
+#: sidebar-content-page.php
+#: single.php
+#: sitemap.php
+msgid "Pages:"
+msgstr "Sidor:"
+
+#: blog-excerpt.php
+#: blog.php
+#: loop-nav.php
+msgid "&#8249; Older posts"
+msgstr "&#8249; Äldre inlägg"
+
+#: blog-excerpt.php
+#: blog.php
+#: loop-nav.php
+msgid "Newer posts &#8250;"
+msgstr "Nyare inlägg &#8250;"
+
+#: blog.php
+#: content-sidebar-half-page.php
+#: content-sidebar-page.php
+#: full-width-page.php
+#: home.php
+#: image.php
+#: index.php
+#: landing-page.php
+#: page.php
+#: sidebar-content-half-page.php
+#: sidebar-content-page.php
+#: single.php
+#: core/includes/functions.php
+msgid "Read more &#8250;"
+msgstr "Läs mer &#8250;"
+
+#: comments.php
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Detta inlägg är lösenordsskyddad. Ange lösenordet för att se kommentarer."
+
+#: comments.php
+#: comments.php
+msgid "&#8249; Older comments"
+msgstr "&#8249; Äldre kommentarer"
+
+#: comments.php
+#: comments.php
+msgid "Newer comments &#8250;"
+msgstr "Nyare kommentarer &#8250;"
+
+#: comments.php
+msgid "Pings&#47;Trackbacks"
+msgstr "Pings&#47;Trashbacks"
+
+#: comments.php
+msgid "%1$d %2$s for \"%3$s\""
+msgstr "%1$d %2$s för \"%3$s\""
+
+#: comments.php
+msgid "Name"
+msgstr "Namn"
+
+#: comments.php
+msgid "E-mail"
+msgstr "E-post"
+
+#: comments.php
+msgid "Website"
+msgstr "Webbsida"
+
+#: footer.php
+msgid "&copy;"
+msgstr "&copy;"
+
+#: footer.php
+msgid "scroll to top"
+msgstr "scrolla till topp"
+
+#: footer.php
+msgid "&uarr;"
+msgstr "&uarr;"
+
+#: footer.php
+msgid "http://themeid.com/responsive-theme/"
+msgstr "http://themeid.com/responsive-theme/"
+
+#: footer.php
+msgid "Responsive Theme"
+msgstr "Responsive Theme"
+
+#: footer.php
+msgid "powered by"
+msgstr "drivs av"
+
+#: footer.php
+msgid "http://wordpress.org/"
+msgstr "http://sv.wordpress.org/"
+
+#: footer.php
+msgid "WordPress"
+msgstr "WordPress"
+
+#: image.php
+msgid "&#8249; Return to"
+msgstr "&#8249; Gå tillbaka till"
+
+#: image.php
+#: post-meta-page.php
+#: post-meta.php
+#: sidebar-content-half-page.php
+#: sidebar-content-page.php
+msgid "No Comments &darr;"
+msgstr "Inga Kommentarer &darr;"
+
+#: post-meta-page.php
+#: post-meta.php
+#: image.php
+#: sidebar-content-half-page.php
+#: sidebar-content-page.php
+msgid "1 Comment &darr;"
+msgstr "1 Kommentar &darr;"
+
+#: post-meta-page.php
+#: post-meta.php
+#: image.php
+#: sidebar-content-half-page.php
+#: sidebar-content-page.php
+msgid "% Comments &darr;"
+msgstr "% Kommentarer &darr;"
+
+#: comments.php
+msgid "One comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s comments on &ldquo;%2$s&rdquo;"
+msgstr[0] "En kommentar på “%2$s”"
+msgstr[1] "%1$s kommentarer på “%2$s”"
+
+#: image.php
+#: post-data.php
+#: sidebar-content-half-page.php
+#: sidebar-content-page.php
+msgid "Tagged with:"
+msgstr "Taggar:"
+
+#: image.php
+#: post-data.php
+#: sidebar-content-half-page.php
+#: sidebar-content-page.php
+msgid "Posted in %s"
+msgstr "Publicerad i %s"
+
+#: image.php
+#: post-data.php
+#: sidebar-content-half-page.php
+#: sidebar-content-page.php
+#: sitemap.php
+msgid "Edit"
+msgstr "Redigera"
+
+#: loop-no-posts.php
+msgid "404 &#8212; Fancy meeting you here!"
+msgstr "404 &#8212; Trevligt att träffa dig här!"
+
+#: loop-no-posts.php
+msgid "Don&#39;t panic, we&#39;ll get through this together. Let&#39;s explore our options here."
+msgstr "Få inte panik, vi tar oss igenom detta tillsammans. Låt oss utforska våra alternativ."
+
+#: loop-no-posts.php
+msgid "You can return %s or search for the page you were looking for."
+msgstr "Du kan gå tillbaka %s eller söka efter den sidan du letade efter"
+
+#: loop-no-posts.php
+#: core/includes/functions.php
+msgid "Home"
+msgstr "Hem"
+
+#: loop-no-posts.php
+msgid "&larr; Home"
+msgstr "&larr; Hem"
+
+#: loop-header.php
+msgid "Daily Archives: %s"
+msgstr "Dagliga Arkiv: %s"
+
+#: loop-header.php
+msgid "Monthly Archives: %s"
+msgstr "Månadsarkiv: %s"
+
+#: loop-header.php
+msgid "Yearly Archives: %s"
+msgstr "Årliga Arkiv: %s"
+
+#: loop-header.php
+msgid "Blog Archives"
+msgstr "Bloggarkiv"
+
+#: loop-no-posts.php
+msgid "Your search for %s did not match any entries."
+msgstr "Din sökning av %s matchade inte några poster"
+
+#: sitemap.php
+msgid "Permanent Link to %s"
+msgstr "Permanent Länk till %s"
+
+#: search.php
+#: core/includes/functions.php
+msgid "Search results for: %s"
+msgstr "Sökresultat för: %s"
+
+#: searchform.php
+msgid "search here &hellip;"
+msgstr "sök här &hellip;"
+
+#: searchform.php
+msgid "Go"
+msgstr "Sök"
+
+#: sidebar-gallery.php
+msgid "Image Information"
+msgstr "Bildinformation"
+
+#: sidebar-gallery.php
+msgid "Full Size:"
+msgstr "Fullstorlek:"
+
+#: sidebar-gallery.php
+msgid "Aperture: f&#47;"
+msgstr "Bländaröppning: f&#47;"
+
+#: sidebar-gallery.php
+msgid "Focal Length:"
+msgstr "Brännvidd:"
+
+#: sidebar-gallery.php
+msgid "mm"
+msgstr "mm"
+
+#: sidebar-gallery.php
+msgid "ISO:"
+msgstr "ISO:"
+
+#: sidebar-gallery.php
+msgid "Shutter:"
+msgstr "Slutare:"
+
+#: sidebar-gallery.php
+msgid "Camera:"
+msgstr "Kamera:"
+
+#: sidebar.php
+#: sidebar-right.php
+#: sidebar-right-half.php
+#: sidebar-left.php
+#: sidebar-left-half.php
+#: sidebar-half-left.php
+msgid "In Archive"
+msgstr "I Arkiv"
+
+#: sidebar-home.php
+#: core/includes/functions.php
+msgid "Home Widget 1"
+msgstr "Hem Widget 1"
+
+#: sidebar-home.php
+msgid "This is your first home widget box. To edit please go to Appearance > Widgets and choose 6th widget from the top in area 6 called Home Widget 1. Title is also manageable from widgets as well."
+msgstr "Detta är din första hem-widget-box. För att redigera, gå till Utseende > Widgets och välj sjätte widgeten från toppen i område sex vid namn Hem Widget 1. Rubriken är också hanterbar från Widgets."
+
+#: sidebar-home.php
+#: core/includes/functions.php
+msgid "Home Widget 2"
+msgstr "Hem Widget 2"
+
+#: sidebar-home.php
+msgid "This is your second home widget box. To edit please go to Appearance > Widgets and choose 7th widget from the top in area 7 called Home Widget 2. Title is also manageable from widgets as well."
+msgstr "Detta är din andra hem-widget-box. För att redigera, gå till Utseende > Widgets och välj sjunde widgeten från toppen i område sju vid namn Hem Widget 2. Rubriken är också hanterbar från Widgets."
+
+#: sidebar-home.php
+#: core/includes/functions.php
+msgid "Home Widget 3"
+msgstr "Hem Widget 3"
+
+#: sidebar-home.php
+msgid "This is your third home widget box. To edit please go to Appearance > Widgets and choose 8th widget from the top in area 8 called Home Widget 3. Title is also manageable from widgets as well."
+msgstr "Detta är din tredje hem-widget-box. För att redigera, gå till Utseende > Widgets och välj åttonde widgeten från toppen i område åtta vid namn Hem Widget 3. Rubriken är också hanterbar från Widgets."
+
+#: single.php
+msgid "About"
+msgstr "Om"
+
+#: sitemap.php
+msgid "Categories"
+msgstr "Kategorier"
+
+#: sitemap.php
+msgid "Latest Posts"
+msgstr "Senaste Inlägg"
+
+#: sitemap.php
+msgid "Pages"
+msgstr "Sidor"
+
+#: core/includes/functions.php
+msgid "Top Menu"
+msgstr "Topp Meny"
+
+#: core/includes/functions.php
+msgid "Header Menu"
+msgstr "Sidhuvud Meny"
+
+#: core/includes/functions.php
+msgid "Sub-Header Menu"
+msgstr "Sidhuvud Undermeny"
+
+#: core/includes/functions.php
+msgid "Footer Menu"
+msgstr "Sidfot Meny"
+
+#: core/includes/functions.php
+#: core/includes/functions.php
+msgid "Page %s"
+msgstr ""
+
+#: core/includes/functions.php
+msgid "<span class=\"%1$s\">Posted on </span>%2$s<span class=\"%3$s\"> by </span>%4$s"
+msgstr "<span class=\"%1$s\">Publicerad den </span>%2$s<span class=\"%3$s\"> av </span>%4$s"
+
+#: core/includes/functions.php
+#: core/includes/functions.php
+msgid "View all posts by %s"
+msgstr "Visa alla inlägg av %s"
+
+#: core/includes/functions.php
+msgid "Archive for %s"
+msgstr "Arkiv för %s"
+
+#: core/includes/functions.php
+msgid "Posts tagged %s"
+msgstr "Inlägg taggade %s"
+
+#: core/includes/functions.php
+msgid "Error 404"
+msgstr "Fel 404 "
+
+#: core/includes/functions.php
+#: core/includes/functions.php
+msgid "More Themes"
+msgstr "Fler teman"
+
+#: core/includes/functions.php
+#: core/includes/functions.php
+msgid "Showcase"
+msgstr ""
+
+#: core/includes/functions.php
+msgid "Main Sidebar"
+msgstr "Huvud Sidopanel"
+
+#: core/includes/functions.php
+msgid "Area 1 - sidebar.php"
+msgstr "Område Ett - sidebar.php"
+
+#: core/includes/functions.php
+msgid "Right Sidebar"
+msgstr "Höger Sidopanel"
+
+#: core/includes/functions.php
+msgid "Area 2 - sidebar-right.php"
+msgstr "Område Två - sidebar-right.php"
+
+#: core/includes/functions.php
+msgid "Left Sidebar"
+msgstr "Vänster Sidopanel"
+
+#: core/includes/functions.php
+msgid "Area 3 - sidebar-left.php"
+msgstr "Område Tre - sidebar-left.php"
+
+#: core/includes/functions.php
+msgid "Left Sidebar Half Page"
+msgstr "Vänster Sidpanel Halvsida"
+
+#: core/includes/functions.php
+msgid "Area 4 - sidebar-left-half.php"
+msgstr "Område Fyra - sidebar-left-half.php"
+
+#: core/includes/functions.php
+msgid "Right Sidebar Half Page"
+msgstr "Höger Sidopanel Halvsida"
+
+#: core/includes/functions.php
+msgid "Area 5 - sidebar-right-half.php"
+msgstr "Område Fem - sidebar-right-half.php"
+
+#: core/includes/functions.php
+msgid "Area 6 - sidebar-home.php"
+msgstr "Område Sex - sidebar-home.php"
+
+#: core/includes/functions.php
+msgid "Area 7 - sidebar-home.php"
+msgstr "Område Sju - sidebar-home.php"
+
+#: core/includes/functions.php
+msgid "Area 8 - sidebar-home.php"
+msgstr "Område Åtta - sidebar-home.php"
+
+#: core/includes/functions.php
+msgid "Gallery Sidebar"
+msgstr "Galleri Sidopanel"
+
+#: core/includes/functions.php
+msgid "Area 9 - sidebar-gallery.php"
+msgstr "Område Nio - sidebar-gallery.php"
+
+#: core/includes/functions.php
+msgid "Colophon Widget"
+msgstr "Kolofon-widget"
+
+#: core/includes/functions.php
+msgid "Area 10 - sidebar-colophon.php"
+msgstr "Område Tio - sidebar-colophon.php"
+
+#: core/includes/functions.php
+msgid "Top Widget"
+msgstr "Toppwidget"
+
+#: core/includes/functions.php
+msgid "Area 11 - sidebar-top.php"
+msgstr "Område Tolv - sidebar-top.php"
+
+#: blog.php
+msgid "Blog (full posts)"
+msgstr ""
+
+#: blog-excerpt.php
+msgid "Blog Excerpt (summary)"
+msgstr ""
+
+#: content-sidebar-page.php
+#: core/includes/post-custom-meta.php
+msgid "Content/Sidebar"
+msgstr ""
+
+#: sidebar-content-page.php
+#: core/includes/post-custom-meta.php
+msgid "Sidebar/Content"
+msgstr ""
+
+#: content-sidebar-half-page.php
+#: core/includes/post-custom-meta.php
+msgid "Content/Sidebar Half Page"
+msgstr ""
+
+#: sidebar-content-half-page.php
+#: core/includes/post-custom-meta.php
+msgid "Sidebar/Content Half Page"
+msgstr ""
+
+#: full-width-page.php
+#: core/includes/post-custom-meta.php
+msgid "Full Width Page (no sidebar)"
+msgstr ""
+
+#: landing-page.php
+msgid "Landing Page (no menu)"
+msgstr ""
+
+#: sitemap.php
+msgid "Sitemap"
+msgstr ""
+
+#: core/includes/post-custom-meta.php
+msgid "Layout"
+msgstr ""
+
+#: core/includes/post-custom-meta.php
+msgid "Default"
+msgstr ""
+
+#: front-page.php
+#: core/includes/theme-options.php
+msgid "Hello, World!"
+msgstr "Hello, World!"
+
+#: front-page.php
+#: core/includes/theme-options.php
+msgid "Your H2 subheadline here"
+msgstr "Din H2-underrubrik här"
+
+#: front-page.php
+#: core/includes/theme-options.php
+msgid "Your title, subtitle and this very content is editable from Theme Option. Call to Action button and its destination link as well. Image on your right can be an image or even YouTube video if you like."
+msgstr "Din rubrik, underrubrik och detta innehåll kan du redigera från Temainställningar. Call to Action-knappen och dess adress likaså. Bild till höger kan vara en bild eller till och med en YouTube-video om du så önskar."
+
+#: front-page.php
+#: core/includes/theme-options.php
+msgid "Call to Action"
+msgstr "Call to Action"
+
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+msgid "Theme Options"
+msgstr "Temainställningar"
+
+#: core/includes/theme-options.php
+msgid "Options Saved"
+msgstr "Inställningar Sparade"
+
+#: core/includes/theme-options.php
+msgid "Theme Elements"
+msgstr "Temainslag"
+
+#: core/includes/theme-options.php
+msgid "Disable Breadcrumb Lists?"
+msgstr "Inaktivera Brödsmulor?"
+
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+msgid "Check to disable"
+msgstr "Klicka i för att inaktivera"
+
+#: core/includes/theme-options.php
+msgid "Disable Call to Action Button?"
+msgstr "Inaktivera Call to Action-knappen?"
+
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+msgid "Save Options"
+msgstr "Spara Inställningar"
+
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+msgid "Restore Defaults"
+msgstr ""
+
+#: core/includes/theme-options.php
+msgid "Logo Upload"
+msgstr "Ladda Upp Logotyp"
+
+#: core/includes/theme-options.php
+msgid "Custom Header"
+msgstr "Anpassat Sidhuvud"
+
+#: core/includes/theme-options.php
+msgid "Need to replace or remove default logo?"
+msgstr "I behov av att byta ut eller ta bort standardlogotypen?"
+
+#: core/includes/theme-options.php
+msgid "<a href=\"%s\">Click here</a>."
+msgstr "<a href=\"%s\">Klicka här</a>."
+
+#: core/includes/theme-options.php
+msgid "Home Page"
+msgstr "Startsida"
+
+#: core/includes/theme-options.php
+msgid "Headline"
+msgstr "Rubrik"
+
+#: core/includes/theme-options.php
+msgid "Enter your headline"
+msgstr "Ange din rubrik"
+
+#: core/includes/theme-options.php
+msgid "Subheadline"
+msgstr "Underrubrik"
+
+#: core/includes/theme-options.php
+msgid "Enter your subheadline"
+msgstr "Ange din underrubrik"
+
+#: core/includes/theme-options.php
+msgid "Content Area"
+msgstr "Innehållsområdet"
+
+#: core/includes/theme-options.php
+msgid "Enter your content"
+msgstr "Ange ditt innehåll"
+
+#: core/includes/theme-options.php
+msgid "Call to Action (URL)"
+msgstr "Call to Action (URL)"
+
+#: core/includes/theme-options.php
+msgid "Enter your call to action URL"
+msgstr "Ange din call to action-URL"
+
+#: core/includes/theme-options.php
+msgid "Call to Action (Text)"
+msgstr "Call to Action (Text)"
+
+#: core/includes/theme-options.php
+msgid "Enter your call to action text"
+msgstr "Ange din call to action-text"
+
+#: core/includes/theme-options.php
+msgid "Featured Content"
+msgstr "Presenterat Innehåll"
+
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+msgid "See Docs"
+msgstr "Se Dokumentation"
+
+#: core/includes/theme-options.php
+msgid "Paste your shortcode, video or image source"
+msgstr "Klistra in din kortkod, video eller bildkälla"
+
+#: core/includes/theme-options.php
+msgid "Default Layouts"
+msgstr ""
+
+#: core/includes/theme-options.php
+msgid "Default Static Page Layout"
+msgstr ""
+
+#: core/includes/theme-options.php
+msgid "Default Single Blog Post Layout"
+msgstr ""
+
+#: core/includes/theme-options.php
+msgid "Default Blog Posts Index Layout"
+msgstr ""
+
+#: core/includes/theme-options.php
+msgid "Webmaster Tools"
+msgstr "Webbadministratörsverktyg"
+
+#: core/includes/theme-options.php
+msgid "Google Site Verification"
+msgstr "Google: Verifiering av webbplatsen"
+
+#: core/includes/theme-options.php
+msgid "Enter your Google ID number only"
+msgstr "Ange endast ditt Google ID-nummer"
+
+#: core/includes/theme-options.php
+msgid "Bing Site Verification"
+msgstr "Bing: Verifiering av webbplatsen"
+
+#: core/includes/theme-options.php
+msgid "Enter your Bing ID number only"
+msgstr "Ange endast ditt Bing ID-nummer"
+
+#: core/includes/theme-options.php
+msgid "Yahoo Site Verification"
+msgstr "Yahoo: Verifiering av webbplatsen"
+
+#: core/includes/theme-options.php
+msgid "Enter your Yahoo ID number only"
+msgstr "Ange endast ditt Yahoo ID-nummer"
+
+#: core/includes/theme-options.php
+msgid "Site Statistics Tracker"
+msgstr "Site Statistics Tracker"
+
+#: core/includes/theme-options.php
+msgid "Leave blank if plugin handles your webmaster tools"
+msgstr "Lämna blankt om plugin hanterar dina webbadministratörsverktyg"
+
+#: core/includes/theme-options.php
+msgid "Google Analytics, StatCounter, any other or all of them."
+msgstr "Google Analytics, StatCounter, någon annan eller alla av dem."
+
+#: core/includes/theme-options.php
+msgid "Social Icons"
+msgstr "Sociala Ikoner"
+
+#: core/includes/theme-options.php
+msgid "Twitter"
+msgstr "Twitter"
+
+#: core/includes/theme-options.php
+msgid "Enter your Twitter URL"
+msgstr "Ange din Twitter-URL"
+
+#: core/includes/theme-options.php
+msgid "Facebook"
+msgstr "Facebook"
+
+#: core/includes/theme-options.php
+msgid "Enter your Facebook URL"
+msgstr "Ange din Facebook-URL"
+
+#: core/includes/theme-options.php
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: core/includes/theme-options.php
+msgid "Enter your LinkedIn URL"
+msgstr "Ange din LinkedIn-URL"
+
+#: core/includes/theme-options.php
+msgid "YouTube"
+msgstr "YouTube"
+
+#: core/includes/theme-options.php
+msgid "Enter your YouTube URL"
+msgstr "Ange din YouTube-URL"
+
+#: core/includes/theme-options.php
+msgid "StumbleUpon"
+msgstr "StumbleUpon"
+
+#: core/includes/theme-options.php
+msgid "Enter your StumbleUpon URL"
+msgstr "Ange din StumbleUpon-URL"
+
+#: core/includes/theme-options.php
+msgid "RSS Feed"
+msgstr "RSS-flöde"
+
+#: core/includes/theme-options.php
+msgid "Enter your RSS Feed URL"
+msgstr "Ange ditt RSS-flödes URL"
+
+#: core/includes/theme-options.php
+msgid "Google+"
+msgstr "Google+"
+
+#: core/includes/theme-options.php
+msgid "Enter your Google+ URL"
+msgstr "Ange din Google+-URL"
+
+#: core/includes/theme-options.php
+msgid "Instagram"
+msgstr "Instagram"
+
+#: core/includes/theme-options.php
+msgid "Enter your Instagram URL"
+msgstr "Ange din Instagram-URL"
+
+#: core/includes/theme-options.php
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: core/includes/theme-options.php
+msgid "Enter your Pinterest URL"
+msgstr "Ange din Pinterest-URL"
+
+#: core/includes/theme-options.php
+msgid "Yelp!"
+msgstr "Yelp!"
+
+#: core/includes/theme-options.php
+msgid "Enter your Yelp! URL"
+msgstr "Ange din Yelp!-URL"
+
+#: core/includes/theme-options.php
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: core/includes/theme-options.php
+msgid "Enter your Vimeo URL"
+msgstr "Ange din Vimeo-URL"
+
+#: core/includes/theme-options.php
+msgid "foursquare"
+msgstr "foursquare"
+
+#: core/includes/theme-options.php
+msgid "Enter your foursquare URL"
+msgstr "Ange din foursquare-URL"
+
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+msgid "Custom CSS Styles"
+msgstr "Anpassade CSS-stilar"
+
+#: core/includes/theme-options.php
+msgid "https://developer.mozilla.org/en/CSS"
+msgstr "http://www.webdesignskolan.com/css/css.php"
+
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+msgid "CSS Tutorial"
+msgstr "CSS-handledning"
+
+#: core/includes/theme-options.php
+msgid "Enter your custom CSS styles."
+msgstr "Ange din anpassade CSS."
+
+#: core/includes/theme-options.php
+msgid "Custom Scripts"
+msgstr "Egna Skripts"
+
+#: core/includes/theme-options.php
+msgid "Custom Scripts for Header and Footer"
+msgstr "Egna Skripts för Sidhuvud och Sidfot"
+
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+msgid "Quick Tutorial"
+msgstr "Snabb Handledning"
+
+#: core/includes/theme-options.php
+msgid "Embeds to header.php &darr;"
+msgstr "Inbäddas i header.php &darr;"
+
+#: core/includes/theme-options.php
+msgid "Enter your custom header script."
+msgstr "Ange ditt egna skript för sidhuvud."
+
+#: core/includes/theme-options.php
+msgid "Embeds to footer.php &darr;"
+msgstr "Inbäddas i footer.php &darr;"
+
+#: core/includes/theme-options.php
+msgid "Enter your custom footer script."
+msgstr "Ange ditt egna skript för sidfot."
+
+#: core/includes/theme-options.php
+msgid "Enable Custom Front Page"
+msgstr ""
+
+#: core/includes/functions.php
+#: core/includes/functions.php
+msgid "Help"
+msgstr ""
+
+#: core/includes/functions.php
+#: core/includes/functions.php
+msgid "Instructions"
+msgstr ""
+
+#: core/includes/theme-options.php
+msgid "Overrides the WordPress %1sfront page option%2s"
+msgstr ""
+
+#: core/includes/functions.php
+#: core/includes/functions.php
+msgid "Translate"
+msgstr ""
+
+#: core/includes/functions.php
+#. Welcome to Responsive! Upgrade to Responsive Pro today.
+# INSTRUCTION: Welcome to Responsive! Upgrade to Responsive Pro today.
+msgid "Welcome to %1$s! Upgrade to %2$s today."
+msgstr ""
+

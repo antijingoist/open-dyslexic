@@ -1,0 +1,872 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Responsive Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-25 13:42:58 UTC\n"
+"PO-Revision-Date: 2013-07-22 22:03:30 UTC\n"
+"Last-Translator: Web Translate It <support@webtranslateit.com>\n"
+"Language-Team: Indonesian, Indonesia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: WebTranslateIt.com\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: page.php
+#: landing-page.php
+#: index.php
+#: image.php
+#: full-width-page.php
+#: content-sidebar-page.php
+#: content-sidebar-half-page.php
+#: blog.php
+#: blog-excerpt.php
+#: archive.php
+#: home.php
+#: search.php
+#: sidebar-content-half-page.php
+#: sidebar-content-page.php
+#: single.php
+#: sitemap.php
+msgid "Pages:"
+msgstr "Halaman:"
+
+#: blog-excerpt.php
+#: blog.php
+#: loop-nav.php
+msgid "&#8249; Older posts"
+msgstr "&#8249; Artikel lama"
+
+#: blog-excerpt.php
+#: blog.php
+#: loop-nav.php
+msgid "Newer posts &#8250;"
+msgstr "Artikel baru &#8250;"
+
+#: blog.php
+#: content-sidebar-half-page.php
+#: content-sidebar-page.php
+#: full-width-page.php
+#: home.php
+#: image.php
+#: index.php
+#: landing-page.php
+#: page.php
+#: sidebar-content-half-page.php
+#: sidebar-content-page.php
+#: single.php
+#: core/includes/functions.php
+msgid "Read more &#8250;"
+msgstr "Lanjutkan &#8250;"
+
+#: comments.php
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Artikel ini diproteksi dengan password. Masukkan password untuk melihat komentar"
+
+#: comments.php
+#: comments.php
+msgid "&#8249; Older comments"
+msgstr "&#8249; Komentar lama"
+
+#: comments.php
+#: comments.php
+msgid "Newer comments &#8250;"
+msgstr "Komentar baru &#8250;"
+
+#: comments.php
+msgid "Pings&#47;Trackbacks"
+msgstr "Pings&#47;Trackbacks"
+
+#: comments.php
+msgid "%1$d %2$s for \"%3$s\""
+msgstr "%1$d %2$s untuk \"%3$s\""
+
+#: comments.php
+msgid "Name"
+msgstr "Nama"
+
+#: comments.php
+msgid "E-mail"
+msgstr "E-mail"
+
+#: comments.php
+msgid "Website"
+msgstr "Alamat Situs"
+
+#: footer.php
+msgid "&copy;"
+msgstr "&copy;"
+
+#: footer.php
+msgid "scroll to top"
+msgstr "kembali ke atas"
+
+#: footer.php
+msgid "&uarr;"
+msgstr "&uarr;"
+
+#: footer.php
+msgid "http://themeid.com/responsive-theme/"
+msgstr "http://themeid.com/responsive-theme/"
+
+#: footer.php
+msgid "Responsive Theme"
+msgstr "Responsive Theme"
+
+#: footer.php
+msgid "powered by"
+msgstr "didukung oleh"
+
+#: footer.php
+msgid "http://wordpress.org/"
+msgstr "http://id.wordpress.org/"
+
+#: footer.php
+msgid "WordPress"
+msgstr "WordPress"
+
+#: image.php
+msgid "&#8249; Return to"
+msgstr "&#8249; Kembali ke"
+
+#: image.php
+#: post-meta-page.php
+#: post-meta.php
+#: sidebar-content-half-page.php
+#: sidebar-content-page.php
+msgid "No Comments &darr;"
+msgstr "Tidak ada komentar &darr;"
+
+#: post-meta-page.php
+#: post-meta.php
+#: image.php
+#: sidebar-content-half-page.php
+#: sidebar-content-page.php
+msgid "1 Comment &darr;"
+msgstr "1 Komentar &darr;"
+
+#: post-meta-page.php
+#: post-meta.php
+#: image.php
+#: sidebar-content-half-page.php
+#: sidebar-content-page.php
+msgid "% Comments &darr;"
+msgstr "% Komentar &darr;"
+
+#: comments.php
+msgid "One comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s comments on &ldquo;%2$s&rdquo;"
+msgstr[0] "Satu komentar di &ldquo;%2$s&rdquo;"
+
+#: image.php
+#: post-data.php
+#: sidebar-content-half-page.php
+#: sidebar-content-page.php
+msgid "Tagged with:"
+msgstr "Dengan label:"
+
+#: image.php
+#: post-data.php
+#: sidebar-content-half-page.php
+#: sidebar-content-page.php
+msgid "Posted in %s"
+msgstr "Tersimpan di  %s"
+
+#: image.php
+#: post-data.php
+#: sidebar-content-half-page.php
+#: sidebar-content-page.php
+#: sitemap.php
+msgid "Edit"
+msgstr "Ubah"
+
+#: loop-no-posts.php
+msgid "404 &#8212; Fancy meeting you here!"
+msgstr "404 &#8212; Halaman tidak ditemukan"
+
+#: loop-no-posts.php
+msgid "Don&#39;t panic, we&#39;ll get through this together. Let&#39;s explore our options here."
+msgstr "Jangan panik, Kita selesaikan bersama. Silahkan pelajari opsi-opsi berikut."
+
+#: loop-no-posts.php
+msgid "You can return %s or search for the page you were looking for."
+msgstr "Anda bisa kembali %s atau mencari halaman yang anda maksud"
+
+#: loop-no-posts.php
+#: core/includes/functions.php
+msgid "Home"
+msgstr "Beranda"
+
+#: loop-no-posts.php
+msgid "&larr; Home"
+msgstr "&larr; Beranda"
+
+#: loop-header.php
+msgid "Daily Archives: %s"
+msgstr "Arsip Harian: %s"
+
+#: loop-header.php
+msgid "Monthly Archives: %s"
+msgstr "Arsip Bulanan: %s"
+
+#: loop-header.php
+msgid "Yearly Archives: %s"
+msgstr "Arsip Tahunan: %s"
+
+#: loop-header.php
+msgid "Blog Archives"
+msgstr "Arsip Blog"
+
+#: loop-no-posts.php
+msgid "Your search for %s did not match any entries."
+msgstr "Pencarian tentang %s tidak ditemukan"
+
+#: sitemap.php
+msgid "Permanent Link to %s"
+msgstr "Tautan Permanen ke %s"
+
+#: search.php
+#: core/includes/functions.php
+msgid "Search results for: %s"
+msgstr "Hasil pencarian tentang: %s"
+
+#: searchform.php
+msgid "search here &hellip;"
+msgstr "Cari disini &hellip;"
+
+#: searchform.php
+msgid "Go"
+msgstr "Go"
+
+#: sidebar-gallery.php
+msgid "Image Information"
+msgstr "Informasi Gambar"
+
+#: sidebar-gallery.php
+msgid "Full Size:"
+msgstr "Ukuran Penuh:"
+
+#: sidebar-gallery.php
+msgid "Aperture: f&#47;"
+msgstr "Aperture: f&#47"
+
+#: sidebar-gallery.php
+msgid "Focal Length:"
+msgstr "Focal Length:"
+
+#: sidebar-gallery.php
+msgid "mm"
+msgstr "mm"
+
+#: sidebar-gallery.php
+msgid "ISO:"
+msgstr "ISO:"
+
+#: sidebar-gallery.php
+msgid "Shutter:"
+msgstr "Shutter:"
+
+#: sidebar-gallery.php
+msgid "Camera:"
+msgstr "Kamera:"
+
+#: sidebar.php
+#: sidebar-right.php
+#: sidebar-right-half.php
+#: sidebar-left.php
+#: sidebar-left-half.php
+#: sidebar-half-left.php
+msgid "In Archive"
+msgstr "Di dalam Arsip"
+
+#: sidebar-home.php
+#: core/includes/functions.php
+msgid "Home Widget 1"
+msgstr "Home Widget 1"
+
+#: sidebar-home.php
+msgid "This is your first home widget box. To edit please go to Appearance > Widgets and choose 6th widget from the top in area 6 called Home Widget 1. Title is also manageable from widgets as well."
+msgstr "Ini adalah home widget pertama anda. Untuk mengubah silahkan buka menu Appearance > Widgets dan pilih widget keenam dari atas di area enam yang dinamakan dengan Home Widget 1. Judul juga dapat diatur menggunakan widget."
+
+#: sidebar-home.php
+#: core/includes/functions.php
+msgid "Home Widget 2"
+msgstr "Home Widget 2"
+
+#: sidebar-home.php
+msgid "This is your second home widget box. To edit please go to Appearance > Widgets and choose 7th widget from the top in area 7 called Home Widget 2. Title is also manageable from widgets as well."
+msgstr "Ini adalah home widge kedua anda. Untuk mengubah silahkan buka menu Appearance > Widgets dan pilih widget ketujuh dari atas di area tujuh yang dinamakan dengan Home Widget 2. Judul juga dapat diatur menggunakan widget."
+
+#: sidebar-home.php
+#: core/includes/functions.php
+msgid "Home Widget 3"
+msgstr "Home Widget 3"
+
+#: sidebar-home.php
+msgid "This is your third home widget box. To edit please go to Appearance > Widgets and choose 8th widget from the top in area 8 called Home Widget 3. Title is also manageable from widgets as well."
+msgstr "Ini adalah home widget ketiga anda. Untuk mengubah silahkan buka menu Appearance > Widgets dan pilih widget kedelapan dari atas di area delapan yang dinamakan dengan Home Widget 3. Judul juga dapat diatur menggunakan widget."
+
+#: single.php
+msgid "About"
+msgstr "Perihal"
+
+#: sitemap.php
+msgid "Categories"
+msgstr "Kategori"
+
+#: sitemap.php
+msgid "Latest Posts"
+msgstr "Artikel terbaru"
+
+#: sitemap.php
+msgid "Pages"
+msgstr "Halaman"
+
+#: core/includes/functions.php
+msgid "Top Menu"
+msgstr "Menu Atas"
+
+#: core/includes/functions.php
+msgid "Header Menu"
+msgstr "Judul menu"
+
+#: core/includes/functions.php
+msgid "Sub-Header Menu"
+msgstr "Sub Judul Menu"
+
+#: core/includes/functions.php
+msgid "Footer Menu"
+msgstr "Footer Menu"
+
+#: core/includes/functions.php
+#: core/includes/functions.php
+msgid "Page %s"
+msgstr ""
+
+#: core/includes/functions.php
+msgid "<span class=\"%1$s\">Posted on </span>%2$s<span class=\"%3$s\"> by </span>%4$s"
+msgstr "<span class=\"%1$s\">Tersimpan pada </span>%2$s<span class=\"%3$s\"> oleh </span>%4$s"
+
+#: core/includes/functions.php
+#: core/includes/functions.php
+msgid "View all posts by %s"
+msgstr "Lihat semua artikel oleh %s"
+
+#: core/includes/functions.php
+msgid "Archive for %s"
+msgstr "Arsip untuk %s"
+
+#: core/includes/functions.php
+msgid "Posts tagged %s"
+msgstr "Artikel berlabel %s"
+
+#: core/includes/functions.php
+msgid "Error 404"
+msgstr "Error 404"
+
+#: core/includes/functions.php
+#: core/includes/functions.php
+msgid "More Themes"
+msgstr "Theme Lain"
+
+#: core/includes/functions.php
+#: core/includes/functions.php
+msgid "Showcase"
+msgstr "Showcase"
+
+#: core/includes/functions.php
+msgid "Main Sidebar"
+msgstr "Sidebar Utama"
+
+#: core/includes/functions.php
+msgid "Area 1 - sidebar.php"
+msgstr "Area pertama - sidebar.php"
+
+#: core/includes/functions.php
+msgid "Right Sidebar"
+msgstr "Sidebar Kanan"
+
+#: core/includes/functions.php
+msgid "Area 2 - sidebar-right.php"
+msgstr "Area Dua - sidebar-right.php"
+
+#: core/includes/functions.php
+msgid "Left Sidebar"
+msgstr "Sidebar Kiri"
+
+#: core/includes/functions.php
+msgid "Area 3 - sidebar-left.php"
+msgstr "Area Tiga - sidebar-left.php"
+
+#: core/includes/functions.php
+msgid "Left Sidebar Half Page"
+msgstr "Sidebar Kiri Setengah Halaman"
+
+#: core/includes/functions.php
+msgid "Area 4 - sidebar-left-half.php"
+msgstr "Area Empat - sidebar-left-half.php"
+
+#: core/includes/functions.php
+msgid "Right Sidebar Half Page"
+msgstr "Sidebar Kanan Setengah Halaman"
+
+#: core/includes/functions.php
+msgid "Area 5 - sidebar-right-half.php"
+msgstr "Area Lima - sidebar-right-half.php"
+
+#: core/includes/functions.php
+msgid "Area 6 - sidebar-home.php"
+msgstr "Area Enam -  sidebar-home.php"
+
+#: core/includes/functions.php
+msgid "Area 7 - sidebar-home.php"
+msgstr "Area Tujuh - sidebar-home.php"
+
+#: core/includes/functions.php
+msgid "Area 8 - sidebar-home.php"
+msgstr "Area Delapan - sidebar-home.php"
+
+#: core/includes/functions.php
+msgid "Gallery Sidebar"
+msgstr "Galeri Sidebar"
+
+#: core/includes/functions.php
+msgid "Area 9 - sidebar-gallery.php"
+msgstr "Area Sembilan - sidebar-gallery.php"
+
+#: core/includes/functions.php
+msgid "Colophon Widget"
+msgstr "Colophon Widget"
+
+#: core/includes/functions.php
+msgid "Area 10 - sidebar-colophon.php"
+msgstr "Area Sepuluh -  sidebar-colophon.php"
+
+#: core/includes/functions.php
+msgid "Top Widget"
+msgstr "Top Widget"
+
+#: core/includes/functions.php
+msgid "Area 11 - sidebar-top.php"
+msgstr "Area Duabelas - sidebar-top.php"
+
+#: blog.php
+msgid "Blog (full posts)"
+msgstr ""
+
+#: blog-excerpt.php
+msgid "Blog Excerpt (summary)"
+msgstr ""
+
+#: content-sidebar-page.php
+#: core/includes/post-custom-meta.php
+msgid "Content/Sidebar"
+msgstr ""
+
+#: sidebar-content-page.php
+#: core/includes/post-custom-meta.php
+msgid "Sidebar/Content"
+msgstr ""
+
+#: content-sidebar-half-page.php
+#: core/includes/post-custom-meta.php
+msgid "Content/Sidebar Half Page"
+msgstr ""
+
+#: sidebar-content-half-page.php
+#: core/includes/post-custom-meta.php
+msgid "Sidebar/Content Half Page"
+msgstr ""
+
+#: full-width-page.php
+#: core/includes/post-custom-meta.php
+msgid "Full Width Page (no sidebar)"
+msgstr ""
+
+#: landing-page.php
+msgid "Landing Page (no menu)"
+msgstr ""
+
+#: sitemap.php
+msgid "Sitemap"
+msgstr ""
+
+#: core/includes/post-custom-meta.php
+msgid "Layout"
+msgstr ""
+
+#: core/includes/post-custom-meta.php
+msgid "Default"
+msgstr ""
+
+#: front-page.php
+#: core/includes/theme-options.php
+msgid "Hello, World!"
+msgstr "Halo, Dunia!"
+
+#: front-page.php
+#: core/includes/theme-options.php
+msgid "Your H2 subheadline here"
+msgstr "Sub Judul H2 tampil disini"
+
+#: front-page.php
+#: core/includes/theme-options.php
+msgid "Your title, subtitle and this very content is editable from Theme Option. Call to Action button and its destination link as well. Image on your right can be an image or even YouTube video if you like."
+msgstr "Judul, Sub Judul dan konten ini dapat diubah melalui Opsi Theme. Demikian juga dengan Tombol Call to Action dan link tujuannya. Gambar di sebelah kanan dapat diisi dengan gambar maupun video YouTube."
+
+#: front-page.php
+#: core/includes/theme-options.php
+msgid "Call to Action"
+msgstr "Call to Action"
+
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+msgid "Theme Options"
+msgstr "Opsi Theme"
+
+#: core/includes/theme-options.php
+msgid "Options Saved"
+msgstr "Opsi disimpan"
+
+#: core/includes/theme-options.php
+msgid "Theme Elements"
+msgstr "Elemen-elemen Theme"
+
+#: core/includes/theme-options.php
+msgid "Disable Breadcrumb Lists?"
+msgstr "Nonaktifkan Daftar Breadcrumb?"
+
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+msgid "Check to disable"
+msgstr "Pilih untuk menonaktifkan"
+
+#: core/includes/theme-options.php
+msgid "Disable Call to Action Button?"
+msgstr "Nonaktifkan Tombol Call to Action?"
+
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+msgid "Save Options"
+msgstr "Simpan opsi"
+
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+msgid "Restore Defaults"
+msgstr ""
+
+#: core/includes/theme-options.php
+msgid "Logo Upload"
+msgstr "Unggah Logo"
+
+#: core/includes/theme-options.php
+msgid "Custom Header"
+msgstr "Custom Header"
+
+#: core/includes/theme-options.php
+msgid "Need to replace or remove default logo?"
+msgstr "Ingin mengganti atau menghapus logo bawaan?"
+
+#: core/includes/theme-options.php
+msgid "<a href=\"%s\">Click here</a>."
+msgstr "<a href=\"%s\">Klik disini</a>."
+
+#: core/includes/theme-options.php
+msgid "Home Page"
+msgstr "Halaman Utama"
+
+#: core/includes/theme-options.php
+msgid "Headline"
+msgstr "Judul Utama"
+
+#: core/includes/theme-options.php
+msgid "Enter your headline"
+msgstr "Masukkan Judul Utama"
+
+#: core/includes/theme-options.php
+msgid "Subheadline"
+msgstr "Sub Judul Utama"
+
+#: core/includes/theme-options.php
+msgid "Enter your subheadline"
+msgstr "Masukkan Sub Judul Utama"
+
+#: core/includes/theme-options.php
+msgid "Content Area"
+msgstr "Area konten"
+
+#: core/includes/theme-options.php
+msgid "Enter your content"
+msgstr "Masukkan konten anda"
+
+#: core/includes/theme-options.php
+msgid "Call to Action (URL)"
+msgstr "Call to Action (URL)"
+
+#: core/includes/theme-options.php
+msgid "Enter your call to action URL"
+msgstr "Masukkan URL call to action"
+
+#: core/includes/theme-options.php
+msgid "Call to Action (Text)"
+msgstr "Call to Action (Tulisan)"
+
+#: core/includes/theme-options.php
+msgid "Enter your call to action text"
+msgstr "Masukkan tulisan call to action anda"
+
+#: core/includes/theme-options.php
+msgid "Featured Content"
+msgstr "Konten Terpilih"
+
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+msgid "See Docs"
+msgstr "Lihat dokumentasi"
+
+#: core/includes/theme-options.php
+msgid "Paste your shortcode, video or image source"
+msgstr "Silahkan masukkan kode, video atau alamat gambar anda disini"
+
+#: core/includes/theme-options.php
+msgid "Default Layouts"
+msgstr ""
+
+#: core/includes/theme-options.php
+msgid "Default Static Page Layout"
+msgstr ""
+
+#: core/includes/theme-options.php
+msgid "Default Single Blog Post Layout"
+msgstr ""
+
+#: core/includes/theme-options.php
+msgid "Default Blog Posts Index Layout"
+msgstr ""
+
+#: core/includes/theme-options.php
+msgid "Webmaster Tools"
+msgstr "Webmaster Tools"
+
+#: core/includes/theme-options.php
+msgid "Google Site Verification"
+msgstr "Verifikasi Situs Google"
+
+#: core/includes/theme-options.php
+msgid "Enter your Google ID number only"
+msgstr "Masukkan nomor ID Google saja"
+
+#: core/includes/theme-options.php
+msgid "Bing Site Verification"
+msgstr "Verifikasi Situs Bing"
+
+#: core/includes/theme-options.php
+msgid "Enter your Bing ID number only"
+msgstr "Masukkan nomor ID Bing saja"
+
+#: core/includes/theme-options.php
+msgid "Yahoo Site Verification"
+msgstr "Verifikasi Situs Yahoo"
+
+#: core/includes/theme-options.php
+msgid "Enter your Yahoo ID number only"
+msgstr "Masukkan nomor ID yahoo saja"
+
+#: core/includes/theme-options.php
+msgid "Site Statistics Tracker"
+msgstr "Pencatat Statistik Situs"
+
+#: core/includes/theme-options.php
+msgid "Leave blank if plugin handles your webmaster tools"
+msgstr "Biarkan kosong jika webmaster tools sudah diatur oleh plugin lain"
+
+#: core/includes/theme-options.php
+msgid "Google Analytics, StatCounter, any other or all of them."
+msgstr "Google Analytics, StatCounter, atau yang lain."
+
+#: core/includes/theme-options.php
+msgid "Social Icons"
+msgstr "Ikon Jejaring Sosial"
+
+#: core/includes/theme-options.php
+msgid "Twitter"
+msgstr "Twitter"
+
+#: core/includes/theme-options.php
+msgid "Enter your Twitter URL"
+msgstr "Masukkan URL Twitter Anda"
+
+#: core/includes/theme-options.php
+msgid "Facebook"
+msgstr "Facebook"
+
+#: core/includes/theme-options.php
+msgid "Enter your Facebook URL"
+msgstr "Masukkan URL Facebook Anda"
+
+#: core/includes/theme-options.php
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: core/includes/theme-options.php
+msgid "Enter your LinkedIn URL"
+msgstr "Masukkan URL LinkedIn Anda"
+
+#: core/includes/theme-options.php
+msgid "YouTube"
+msgstr "YouTube"
+
+#: core/includes/theme-options.php
+msgid "Enter your YouTube URL"
+msgstr "Masukkan URL YouTube Anda"
+
+#: core/includes/theme-options.php
+msgid "StumbleUpon"
+msgstr "StumbleUpon"
+
+#: core/includes/theme-options.php
+msgid "Enter your StumbleUpon URL"
+msgstr "Masukkan URL StumbleUpon Anda"
+
+#: core/includes/theme-options.php
+msgid "RSS Feed"
+msgstr "RSS Feed"
+
+#: core/includes/theme-options.php
+msgid "Enter your RSS Feed URL"
+msgstr "Masukkan URL RSS Feed Anda"
+
+#: core/includes/theme-options.php
+msgid "Google+"
+msgstr "Google+"
+
+#: core/includes/theme-options.php
+msgid "Enter your Google+ URL"
+msgstr "Masukkan URL Google+ Anda"
+
+#: core/includes/theme-options.php
+msgid "Instagram"
+msgstr "Instagram"
+
+#: core/includes/theme-options.php
+msgid "Enter your Instagram URL"
+msgstr "Masukkan URL Instagram Anda"
+
+#: core/includes/theme-options.php
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: core/includes/theme-options.php
+msgid "Enter your Pinterest URL"
+msgstr "Masukkan URL Pinterest Anda"
+
+#: core/includes/theme-options.php
+msgid "Yelp!"
+msgstr "Yelp!"
+
+#: core/includes/theme-options.php
+msgid "Enter your Yelp! URL"
+msgstr "Masukkan URL Yelp! Anda"
+
+#: core/includes/theme-options.php
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: core/includes/theme-options.php
+msgid "Enter your Vimeo URL"
+msgstr "Masukkan URL Vimeo Anda"
+
+#: core/includes/theme-options.php
+msgid "foursquare"
+msgstr "foursquare"
+
+#: core/includes/theme-options.php
+msgid "Enter your foursquare URL"
+msgstr "Masukkan URL foursquare Anda"
+
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+msgid "Custom CSS Styles"
+msgstr "Modifikasi CSS Style"
+
+#: core/includes/theme-options.php
+msgid "https://developer.mozilla.org/en/CSS"
+msgstr "https://developer.mozilla.org/en-US/docs/CSS"
+
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+msgid "CSS Tutorial"
+msgstr "Tutorial CSS"
+
+#: core/includes/theme-options.php
+msgid "Enter your custom CSS styles."
+msgstr "Msukkan CSS Style Modifikasi anda"
+
+#: core/includes/theme-options.php
+msgid "Custom Scripts"
+msgstr "Script Modifikasi"
+
+#: core/includes/theme-options.php
+msgid "Custom Scripts for Header and Footer"
+msgstr "Modifikasi script untuk Header dan Footer"
+
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+msgid "Quick Tutorial"
+msgstr "Tutorial singkat"
+
+#: core/includes/theme-options.php
+msgid "Embeds to header.php &darr;"
+msgstr "Embed di header.php &darr;"
+
+#: core/includes/theme-options.php
+msgid "Enter your custom header script."
+msgstr "Masukkan modifikasi script header anda"
+
+#: core/includes/theme-options.php
+msgid "Embeds to footer.php &darr;"
+msgstr "Embed di footer.php &darr;"
+
+#: core/includes/theme-options.php
+msgid "Enter your custom footer script."
+msgstr "Masukkan modifikasi script footer anda."
+
+#: core/includes/theme-options.php
+msgid "Enable Custom Front Page"
+msgstr ""
+
+#: core/includes/functions.php
+#: core/includes/functions.php
+msgid "Help"
+msgstr ""
+
+#: core/includes/functions.php
+#: core/includes/functions.php
+msgid "Instructions"
+msgstr ""
+
+#: core/includes/theme-options.php
+msgid "Overrides the WordPress %1sfront page option%2s"
+msgstr ""
+
+#: core/includes/functions.php
+#: core/includes/functions.php
+msgid "Translate"
+msgstr ""
+
+#: core/includes/functions.php
+#. Welcome to Responsive! Upgrade to Responsive Pro today.
+# INSTRUCTION: Welcome to Responsive! Upgrade to Responsive Pro today.
+msgid "Welcome to %1$s! Upgrade to %2$s today."
+msgstr ""
+

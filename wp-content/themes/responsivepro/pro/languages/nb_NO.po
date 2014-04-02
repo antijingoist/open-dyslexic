@@ -1,0 +1,523 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Responsive Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-06-13 12:03:13 UTC\n"
+"PO-Revision-Date: 2014-01-20 17:27:11 UTC\n"
+"Last-Translator: Web Translate It <support@webtranslateit.com>\n"
+"Language-Team: Norwegian Bokmål, Norway\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: WebTranslateIt.com\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: options/options-customizer.php
+msgid "Hello, World!"
+msgstr "Hei, Verden!"
+
+#: options/options-customizer.php
+msgid "Your H2 subheadline here"
+msgstr "Din H2 - overskrift her"
+
+#: options/options-customizer.php
+msgid "Your title, subtitle and this very content is editable from Theme Option. Call to Action button and its destination link as well. Image on your right can be an image or even YouTube video if you like."
+msgstr "Din title, mellomtittel og dette viktige innholdet kan redigeres fra Temainstillninger. Call to Action og dens destinasjons link også. Kan være et bilde eller en Youtube video."
+
+#: functions.php
+msgid "No Comments &darr;"
+msgstr "Ingen Kommentarer &darr;"
+
+#: functions.php
+msgid "1 Comment &darr;"
+msgstr "1 Kommentar &darr;"
+
+#: functions.php
+msgid "% Comments &darr;"
+msgstr "% Kommentarer &darr;"
+
+#: functions.php
+msgid "View all posts by %s"
+msgstr "Se alle innlegg av %s"
+
+#: functions.php
+#: functions.php
+msgid "Instructions"
+msgstr "Instruksjoner"
+
+#: functions.php
+#: functions.php
+msgid "Help"
+msgstr "Hjelp"
+
+#: functions.php
+#: functions.php
+msgid "Translate"
+msgstr "Oversett"
+
+#: functions.php
+#: functions.php
+msgid "Showcase"
+msgstr ""
+
+#: functions.php
+#: functions.php
+msgid "More Themes"
+msgstr ""
+
+#: options/options-customizer.php
+#: options/options-customizer.php
+#: options/options-customizer.php
+msgid "Content/Sidebar"
+msgstr ""
+
+#: options/options-customizer.php
+#: options/options-customizer.php
+#: options/options-customizer.php
+msgid "Sidebar/Content"
+msgstr ""
+
+#: options/options-customizer.php
+#: options/options-customizer.php
+#: options/options-customizer.php
+msgid "Content/Sidebar Half Page"
+msgstr ""
+
+#: options/options-customizer.php
+#: options/options-customizer.php
+#: options/options-customizer.php
+msgid "Sidebar/Content Half Page"
+msgstr ""
+
+#: options/options-customizer.php
+#: options/options-customizer.php
+#: options/options-customizer.php
+msgid "Full Width Page (no sidebar)"
+msgstr ""
+
+#: options/options-customizer.php
+msgid "Default"
+msgstr "Slett"
+
+#: options/options.php
+msgid "Disable Call to Action Button?"
+msgstr "Innaktiver Call to Action-knappen?"
+
+#: options/options-customizer.php
+#: options/options-customizer.php
+msgid "Logo Upload"
+msgstr "Last opp logo"
+
+#: options/options.php
+msgid "Home Page"
+msgstr "Startside"
+
+#: options/options-customizer.php
+msgid "Headline"
+msgstr "Overskrift"
+
+#: options/options-customizer.php
+msgid "Subheadline"
+msgstr "Mellomoverskrift"
+
+#: options/options-customizer.php
+msgid "Call to Action (URL)"
+msgstr ""
+
+#: options/options-customizer.php
+msgid "Enter your call to action URL"
+msgstr "Ange din call to action-URL"
+
+#: options/options-customizer.php
+msgid "Call to Action (Text)"
+msgstr ""
+
+#: options/options-customizer.php
+msgid "Enter your call to action text"
+msgstr "Skriv inn din call to action-text"
+
+#: options/options-customizer.php
+msgid "Featured Content"
+msgstr "Presentert Innhold"
+
+#: options/options-customizer.php
+msgid "Paste your shortcode, video or image source"
+msgstr ""
+
+#: options/options-customizer.php
+msgid "Default Layouts"
+msgstr ""
+
+#: options/options-customizer.php
+#: options/options.php
+msgid "Default Static Page Layout"
+msgstr ""
+
+#: options/options-customizer.php
+#: options/options.php
+msgid "Default Single Blog Post Layout"
+msgstr ""
+
+#: options/options-customizer.php
+#: options/options.php
+msgid "Default Blog Posts Index Layout"
+msgstr ""
+
+#: options/options.php
+msgid "Social Icons"
+msgstr "Sosial ikoner"
+
+#: functions.php
+msgid " by "
+msgstr "av"
+
+#: functions.php
+msgid "Posted in"
+msgstr "Skrevet i"
+
+#: functions.php
+msgid "Tags:"
+msgstr ""
+
+#: functions.php
+msgid "Permalink to %s"
+msgstr "Permalink til %s"
+
+#: functions.php
+msgid "Responsive Pro Options"
+msgstr "Forståelsesfull Pro alternativer"
+
+#: options/options-customizer.php
+msgid "Customize"
+msgstr "Tilpass"
+
+#: options/options-customizer.php
+msgid "Skins"
+msgstr "Fort"
+
+#: options/options-customizer.php
+msgid "Skin Color"
+msgstr "Hudfarge"
+
+#: options/options-customizer.php
+msgid "Typography"
+msgstr "Typografi"
+
+#: options/options-customizer.php
+msgid "Heading Font"
+msgstr "Skrifttype i overskrift"
+
+#: options/options-customizer.php
+msgid "Google Heading Font"
+msgstr "Google overskriftsskriften"
+
+#: options/options-customizer.php
+msgid "Text Font"
+msgstr "Skrift"
+
+#: options/options-customizer.php
+msgid "Google Text Font"
+msgstr "Google-skrift"
+
+#: options/options-customizer.php
+msgid "Font Size"
+msgstr "skrifttype"
+
+#: options/options-customizer.php
+msgid "Headings Color"
+msgstr "Overskrifter farge"
+
+#: options/options-customizer.php
+msgid "Text Color"
+msgstr "Tekstfarge"
+
+#: options/options-customizer.php
+msgid "Link Color"
+msgstr "Lenkefarge"
+
+#: options/options-customizer.php
+msgid "Link Hover Color"
+msgstr "Link pekerfølsom koblingsfarge"
+
+#: options/options-customizer.php
+msgid "Enable custom front page"
+msgstr "Aktiver egendefinerte forsiden"
+
+#: options/options-customizer.php
+msgid "Content"
+msgstr "innhold"
+
+#: options/options.php
+msgid "Personalize"
+msgstr "Tilpasse"
+
+#: options/options.php
+msgid "Favicon"
+msgstr "Favicon"
+
+#: options/options.php
+msgid "maximum width and height 32px"
+msgstr "maksimal bredde og høyde 32px"
+
+#: options/options.php
+#: options/options.php
+msgid "Upload"
+msgstr "last opp"
+
+#: options/options.php
+msgid "Apple Touch Icon"
+msgstr "Apple Touch-symbolet"
+
+#: options/options.php
+msgid "Custom mobile menu title"
+msgstr "Egendefinerte mobil menytittel"
+
+#: options/options.php
+msgid "Enter a custom mobile menu title"
+msgstr "Angi en egendefinert mobile meny-tittel"
+
+#: options/options.php
+msgid "Templates"
+msgstr "Maler"
+
+#: options/options.php
+msgid "Excerpt Text"
+msgstr "Utdrag tekst"
+
+#: options/options.php
+msgid "Read More..."
+msgstr "Les mer..."
+
+#: options/options.php
+msgid "Excerpt Length"
+msgstr "Utdragslengde"
+
+#: options/options.php
+msgid "50"
+msgstr "50"
+
+#: options/options.php
+#: options/options.php
+#: options/options.php
+msgid "Post Excerpts"
+msgstr "Legge ut utdrag"
+
+#: options/options.php
+#: options/options.php
+#: options/options.php
+msgid "Featured Images"
+msgstr "Utvalgte bilder"
+
+#: options/options.php
+#: options/options.php
+#: options/options.php
+msgid "Post Byline Author"
+msgstr "Innlegg Byline forfatter"
+
+#: options/options.php
+#: options/options.php
+#: options/options.php
+msgid "Post Byline Categories"
+msgstr "Innlegg Byline kategorier"
+
+#: options/options.php
+#: options/options.php
+#: options/options.php
+msgid "Post Byline Date"
+msgstr "Innlegget Byline dato"
+
+#: options/options.php
+#: options/options.php
+#: options/options.php
+msgid "Post Byline Comments"
+msgstr "Innlegget Byline kommentarer"
+
+#: options/options.php
+#: options/options.php
+#: options/options.php
+msgid "Post Byline Tags"
+msgstr "Post Byline-koder"
+
+#: options/options.php
+msgid "404 Title"
+msgstr "404 Tittel"
+
+#: options/options.php
+msgid "404 Content"
+msgstr "404 Innhold"
+
+#: options/options.php
+msgid "Scripts"
+msgstr "Skript"
+
+#: options/options.php
+msgid "Plugins"
+msgstr "Spill"
+
+#: options/options.php
+msgid "Please activate The Events Calendar plugin"
+msgstr "Vennligst Aktiver The aktivitetskalender plugin"
+
+#: options/options.php
+msgid "Install Events Calendar Plugin"
+msgstr "Installere hendelser kalender Plugin"
+
+#: options/options.php
+msgid "WooCommerce Settings"
+msgstr "WooCommerce innstillinger"
+
+#: options/options.php
+msgid "Please activate WooCommerce plugin"
+msgstr "Vennligst aktivere WooCommerce plugg"
+
+#: options/options.php
+msgid "Install WooCommerce Plugin"
+msgstr "Installere WooCommerce Plugin"
+
+#: options/options.php
+msgid "BBPress Settings"
+msgstr "BBPress-innstillinger"
+
+#: options/options.php
+msgid "Please activate BBPress plugin"
+msgstr "Vennligst aktivere BBPress-plugg"
+
+#: options/options.php
+msgid "Install BBPress Plugin"
+msgstr "Installere Plugin for BBPress"
+
+#: options/options.php
+msgid "Digital Downloads Settings"
+msgstr "Digitale nedlastinger-innstillinger"
+
+#: options/options.php
+msgid "Please activate Easy Digital Downloads plugin"
+msgstr "Vennligst Aktiver enkel Digital nedlastinger plugin"
+
+#: options/options.php
+msgid "Install Easy Digital Downloads Plugin"
+msgstr "Installere lett digitale nedlastinger Plugin"
+
+#: options/options.php
+msgid "404 Error"
+msgstr ""
+
+#: options/options.php
+msgid "404 Page:"
+msgstr ""
+
+#: options/options.php
+msgid "Archive page:"
+msgstr ""
+
+#: options/options.php
+msgid "Blog"
+msgstr ""
+
+#: options/options.php
+msgid "Blog Post Page:"
+msgstr ""
+
+#: options/options.php
+msgid "Blog Title Toggle"
+msgstr ""
+
+#: options/options.php
+#: options/options.php
+msgid "check to disable"
+msgstr ""
+
+#: options/options.php
+msgid "CSS Styles"
+msgstr ""
+
+#: options/options-customizer.php
+#: options/options-customizer.php
+msgid "Custom CSS"
+msgstr ""
+
+#: options/options.php
+msgid "Disable breadcrumb list?"
+msgstr ""
+
+#: options/options-customizer.php
+msgid "Enable Menu Background gradient"
+msgstr ""
+
+#: options/options-customizer.php
+#: options/options-customizer.php
+msgid "Enter the Google Font name"
+msgstr ""
+
+#: options/options.php
+msgid "Events Plugin Settings"
+msgstr ""
+
+#: options/options-customizer.php
+msgid "Featured Area Layouts"
+msgstr ""
+
+#: options/options-customizer.php
+msgid "Full Width"
+msgstr ""
+
+#: options/options-customizer.php
+msgid "Full Width Reverse"
+msgstr ""
+
+#: options/options-customizer.php
+msgid "Menu Background Color"
+msgstr ""
+
+#: options/options-customizer.php
+msgid "Menu Background Color 2"
+msgstr ""
+
+#: options/options-customizer.php
+msgid "Menu Colors"
+msgstr ""
+
+#: options/options-customizer.php
+msgid "Menu Hover Color"
+msgstr ""
+
+#: options/options-customizer.php
+msgid "Menu Hover Text Color"
+msgstr ""
+
+#: options/options-customizer.php
+msgid "Menu Item Color"
+msgstr ""
+
+#: options/options-customizer.php
+msgid "Menu Text Color"
+msgstr ""
+
+#: options/options.php
+msgid "Page:"
+msgstr ""
+
+#: options/options-customizer.php
+msgid "Reverse"
+msgstr ""
+
+#: options/options.php
+msgid "Search Page:"
+msgstr ""
+
+#: options/options.php
+msgid "Single post page:"
+msgstr ""
+
+#: options/options.php
+msgid "Sorry, no content found"
+msgstr ""
+
+#: functions.php
+msgid "<span class=\"%1$s\">Posted on </span>%2$s"
+msgstr ""
+
+#: options/options.php
+msgid "Title Text"
+msgstr ""
+

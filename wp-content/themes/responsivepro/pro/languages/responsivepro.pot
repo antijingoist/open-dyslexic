@@ -1,0 +1,579 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Responsive Pro\n"
+"POT-Creation-Date: 2014-01-20 18:11+0100\n"
+"PO-Revision-Date: 2014-01-20 18:11+0100\n"
+"Last-Translator: Ulrich Pogson <grapplerulrich@gmail.com>\n"
+"Language-Team: Ulrich Pogson <grapplerulrich@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: functions.php:92 functions.php:93
+msgid "Instructions"
+msgstr ""
+
+#: functions.php:95 functions.php:96
+msgid "Help"
+msgstr ""
+
+#: functions.php:98 functions.php:100
+msgid "Translate"
+msgstr ""
+
+#: functions.php:102 functions.php:103
+msgid "Showcase"
+msgstr ""
+
+#: functions.php:105 functions.php:106
+msgid "More Themes"
+msgstr ""
+
+#: functions.php:274
+#, php-format
+msgid "<span class=\"%1$s\">Posted on </span>%2$s"
+msgstr ""
+
+#: functions.php:309
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: functions.php:312
+msgid " by "
+msgstr ""
+
+#: functions.php:339
+msgid "Posted in"
+msgstr ""
+
+#: functions.php:368
+msgid "Tags:"
+msgstr ""
+
+#: functions.php:398
+msgid "No Comments &darr;"
+msgstr ""
+
+#: functions.php:398
+msgid "1 Comment &darr;"
+msgstr ""
+
+#: functions.php:398
+msgid "% Comments &darr;"
+msgstr ""
+
+#: functions.php:423
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: functions.php:767
+msgid "Responsive Pro Options"
+msgstr ""
+
+#: options/options-customizer.php:13
+msgid "Customize"
+msgstr ""
+
+#: options/options-customizer.php:266 options/options-customizer.php:274
+msgid "Logo Upload"
+msgstr ""
+
+#: options/options-customizer.php:283
+msgid "Default Layouts"
+msgstr ""
+
+#: options/options-customizer.php:295 options/options.php:174
+msgid "Default Static Page Layout"
+msgstr ""
+
+#: options/options-customizer.php:300 options/options-customizer.php:321
+#: options/options-customizer.php:342
+msgid "Content/Sidebar"
+msgstr ""
+
+#: options/options-customizer.php:301 options/options-customizer.php:322
+#: options/options-customizer.php:343
+msgid "Sidebar/Content"
+msgstr ""
+
+#: options/options-customizer.php:302 options/options-customizer.php:323
+#: options/options-customizer.php:344
+msgid "Content/Sidebar Half Page"
+msgstr ""
+
+#: options/options-customizer.php:303 options/options-customizer.php:324
+#: options/options-customizer.php:345
+msgid "Sidebar/Content Half Page"
+msgstr ""
+
+#: options/options-customizer.php:304 options/options-customizer.php:325
+#: options/options-customizer.php:346
+msgid "Full Width Page (no sidebar)"
+msgstr ""
+
+#: options/options-customizer.php:316 options/options.php:279
+msgid "Default Single Blog Post Layout"
+msgstr ""
+
+#: options/options-customizer.php:337 options/options.php:190
+msgid "Default Blog Posts Index Layout"
+msgstr ""
+
+#: options/options-customizer.php:354
+msgid "Skins"
+msgstr ""
+
+#: options/options-customizer.php:363
+msgid "Skin Color"
+msgstr ""
+
+#: options/options-customizer.php:387
+msgid "Typography"
+msgstr ""
+
+#: options/options-customizer.php:400
+msgid "Heading Font"
+msgstr ""
+
+#: options/options-customizer.php:417
+msgid "Google Heading Font"
+msgstr ""
+
+#: options/options-customizer.php:421 options/options-customizer.php:455
+msgid "Enter the Google Font name"
+msgstr ""
+
+#: options/options-customizer.php:434
+msgid "Text Font"
+msgstr ""
+
+#: options/options-customizer.php:451
+msgid "Google Text Font"
+msgstr ""
+
+#: options/options-customizer.php:468
+msgid "Font Size"
+msgstr ""
+
+#: options/options-customizer.php:503
+msgid "Headings Color"
+msgstr ""
+
+#: options/options-customizer.php:515
+msgid "Text Color"
+msgstr ""
+
+#: options/options-customizer.php:527
+msgid "Link Color"
+msgstr ""
+
+#: options/options-customizer.php:539
+msgid "Link Hover Color"
+msgstr ""
+
+#: options/options-customizer.php:551
+msgid "Menu Colors"
+msgstr ""
+
+#: options/options-customizer.php:567
+msgid "Enable Menu Background gradient"
+msgstr ""
+
+#: options/options-customizer.php:588
+msgid "Menu Background Color"
+msgstr ""
+
+#: options/options-customizer.php:609
+msgid "Menu Background Color 2"
+msgstr ""
+
+#: options/options-customizer.php:630
+msgid "Menu Text Color"
+msgstr ""
+
+#: options/options-customizer.php:650
+msgid "Menu Hover Text Color"
+msgstr ""
+
+#: options/options-customizer.php:670
+msgid "Menu Item Color"
+msgstr ""
+
+#: options/options-customizer.php:690
+msgid "Menu Hover Color"
+msgstr ""
+
+#: options/options-customizer.php:712
+msgid "Enable custom front page"
+msgstr ""
+
+#: options/options-customizer.php:736
+msgid "Featured Area Layouts"
+msgstr ""
+
+#: options/options-customizer.php:741
+msgid "Default"
+msgstr ""
+
+#: options/options-customizer.php:742
+msgid "Reverse"
+msgstr ""
+
+#: options/options-customizer.php:743
+msgid "Full Width"
+msgstr ""
+
+#: options/options-customizer.php:744
+msgid "Full Width Reverse"
+msgstr ""
+
+#: options/options-customizer.php:760
+msgid "Headline"
+msgstr ""
+
+#: options/options-customizer.php:764
+msgid "Hello, World!"
+msgstr ""
+
+#: options/options-customizer.php:777
+msgid "Subheadline"
+msgstr ""
+
+#: options/options-customizer.php:781
+msgid "Your H2 subheadline here"
+msgstr ""
+
+#: options/options-customizer.php:794
+msgid "Content"
+msgstr ""
+
+#: options/options-customizer.php:798
+msgid ""
+"Your title, subtitle and this very content is editable from Theme Option. "
+"Call to Action button and its destination link as well. Image on your right "
+"can be an image or even YouTube video if you like."
+msgstr ""
+
+#: options/options-customizer.php:811
+msgid "Call to Action (URL)"
+msgstr ""
+
+#: options/options-customizer.php:815
+msgid "Enter your call to action URL"
+msgstr ""
+
+#: options/options-customizer.php:828
+msgid "Call to Action (Text)"
+msgstr ""
+
+#: options/options-customizer.php:832
+msgid "Enter your call to action text"
+msgstr ""
+
+#: options/options-customizer.php:845
+msgid "Featured Content"
+msgstr ""
+
+#: options/options-customizer.php:849
+msgid "Paste your shortcode, video or image source"
+msgstr ""
+
+#: options/options-customizer.php:858 options/options-customizer.php:869
+msgid "Custom CSS"
+msgstr ""
+
+#: options/options.php:34
+msgid "Personalize"
+msgstr ""
+
+#: options/options.php:38
+msgid "Social Icons"
+msgstr ""
+
+#: options/options.php:42
+msgid "Home Page"
+msgstr ""
+
+#: options/options.php:46
+msgid "Templates"
+msgstr ""
+
+#: options/options.php:50
+msgid "CSS Styles"
+msgstr ""
+
+#: options/options.php:54
+msgid "Scripts"
+msgstr ""
+
+#: options/options.php:58
+msgid "Plugins"
+msgstr ""
+
+#: options/options.php:99
+msgid "Favicon"
+msgstr ""
+
+#: options/options.php:104
+msgid "maximum width and height 32px"
+msgstr ""
+
+#: options/options.php:106 options/options.php:116
+msgid "Upload"
+msgstr ""
+
+#: options/options.php:109
+msgid "Apple Touch Icon"
+msgstr ""
+
+#: options/options.php:119
+msgid "Disable breadcrumb list?"
+msgstr ""
+
+#: options/options.php:124 options/options.php:133
+msgid "check to disable"
+msgstr ""
+
+#: options/options.php:128
+msgid "Disable Call to Action Button?"
+msgstr ""
+
+#: options/options.php:137
+msgid "Custom mobile menu title"
+msgstr ""
+
+#: options/options.php:142
+msgid "Enter a custom mobile menu title"
+msgstr ""
+
+#: options/options.php:148
+msgid "Excerpt Text"
+msgstr ""
+
+#: options/options.php:154
+msgid "Read More..."
+msgstr ""
+
+#: options/options.php:157
+msgid "Excerpt Length"
+msgstr ""
+
+#: options/options.php:163
+msgid "50"
+msgstr ""
+
+#: options/options.php:166
+msgid "Page:"
+msgstr ""
+
+#: options/options.php:182
+msgid "Blog Post Page:"
+msgstr ""
+
+#: options/options.php:198
+msgid "Blog Title Toggle"
+msgstr ""
+
+#: options/options.php:206
+msgid "Title Text"
+msgstr ""
+
+#: options/options.php:212
+msgid "Blog"
+msgstr ""
+
+#: options/options.php:215 options/options.php:343 options/options.php:407
+msgid "Post Excerpts"
+msgstr ""
+
+#: options/options.php:223 options/options.php:287 options/options.php:351
+msgid "Featured Images"
+msgstr ""
+
+#: options/options.php:231 options/options.php:295 options/options.php:359
+msgid "Post Byline Author"
+msgstr ""
+
+#: options/options.php:239 options/options.php:303 options/options.php:367
+msgid "Post Byline Categories"
+msgstr ""
+
+#: options/options.php:247 options/options.php:311 options/options.php:375
+msgid "Post Byline Date"
+msgstr ""
+
+#: options/options.php:255 options/options.php:319 options/options.php:383
+msgid "Post Byline Comments"
+msgstr ""
+
+#: options/options.php:263 options/options.php:327 options/options.php:391
+msgid "Post Byline Tags"
+msgstr ""
+
+#: options/options.php:271
+msgid "Single post page:"
+msgstr ""
+
+#: options/options.php:335
+msgid "Archive page:"
+msgstr ""
+
+#: options/options.php:399
+msgid "Search Page:"
+msgstr ""
+
+#: options/options.php:415
+msgid "404 Page:"
+msgstr ""
+
+#: options/options.php:423
+msgid "404 Title"
+msgstr ""
+
+#: options/options.php:429
+msgid "404 Error"
+msgstr ""
+
+#: options/options.php:432
+msgid "404 Content"
+msgstr ""
+
+#: options/options.php:438
+msgid "Sorry, no content found"
+msgstr ""
+
+#: options/options.php:446
+#, fuzzy
+msgid "Events Plugin Settings"
+msgstr "BBPress Plugin Installieren"
+
+#: options/options.php:447
+#, fuzzy
+msgid "Please activate The Events Calendar plugin"
+msgstr "BBPress Plugin Installieren"
+
+#: options/options.php:448
+#, fuzzy
+msgid "Install Events Calendar Plugin"
+msgstr "BBPress Plugin Installieren"
+
+#: options/options.php:458
+msgid "WooCommerce Settings"
+msgstr ""
+
+#: options/options.php:459
+#, fuzzy
+msgid "Please activate WooCommerce plugin"
+msgstr "BBPress Plugin Installieren"
+
+#: options/options.php:460
+#, fuzzy
+msgid "Install WooCommerce Plugin"
+msgstr "BBPress Plugin Installieren"
+
+#: options/options.php:470
+#, fuzzy
+msgid "BBPress Settings"
+msgstr "BBPress Plugin Installieren"
+
+#: options/options.php:471
+#, fuzzy
+msgid "Please activate BBPress plugin"
+msgstr "BBPress Plugin Installieren"
+
+#: options/options.php:472
+#, fuzzy
+msgid "Install BBPress Plugin"
+msgstr "BBPress Plugin Installieren"
+
+#: options/options.php:482
+msgid "Digital Downloads Settings"
+msgstr ""
+
+#: options/options.php:483
+#, fuzzy
+msgid "Please activate Easy Digital Downloads plugin"
+msgstr "BBPress Plugin Installieren"
+
+#: options/options.php:484
+#, fuzzy
+msgid "Install Easy Digital Downloads Plugin"
+msgstr "BBPress Plugin Installieren"
+
+#, fuzzy
+#~ msgid "Installing Plugin: %s"
+#~ msgstr "BBPress Plugin Installieren"
+
+#, fuzzy
+#~ msgid "Something went wrong with the plugin API."
+#~ msgstr "BBPress Plugin Installieren"
+
+#, fuzzy
+#~ msgid "Plugin activated successfully."
+#~ msgstr "BBPress Plugin Installieren"
+
+#, fuzzy
+#~ msgid "Install Required Plugins"
+#~ msgstr "BBPress Plugin Installieren"
+
+#, fuzzy
+#~ msgid "Install Plugins"
+#~ msgstr "BBPress Plugin Installieren"
+
+#, fuzzy
+#~ msgid ""
+#~ "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+#~ "Dashboard\">Return to the Dashboard</a>"
+#~ msgstr "BBPress Plugin Installieren"
+
+#, fuzzy
+#~ msgid "Plugin"
+#~ msgstr "BBPress Plugin Installieren"
+
+#, fuzzy
+#~ msgid "Install"
+#~ msgstr "BBPress Plugin Installieren"
+
+#, fuzzy
+#~ msgid "Install package not available."
+#~ msgstr "BBPress Plugin Installieren"
+
+#, fuzzy
+#~ msgid ""
+#~ "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+#~ msgstr "BBPress Plugin Installieren"
+
+#, fuzzy
+#~ msgid "Installing the plugin&#8230;"
+#~ msgstr "BBPress Plugin Installieren"
+
+#, fuzzy
+#~ msgid "Plugin install failed."
+#~ msgstr "BBPress Plugin Installieren"
+
+#, fuzzy
+#~ msgid "Plugin installed successfully."
+#~ msgstr "BBPress Plugin Installieren"
+
+#, fuzzy
+#~ msgid "Plugin activation failed."
+#~ msgstr "BBPress Plugin Installieren"
+
+#, fuzzy
+#~ msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+#~ msgstr "BBPress Plugin Installieren"
+
+#, fuzzy
+#~ msgid "Installing Plugin %1$s (%2$d/%3$d)"
+#~ msgstr "BBPress Plugin Installieren"

@@ -1,0 +1,872 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Responsive Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-25 13:42:58 UTC\n"
+"PO-Revision-Date: 2013-10-27 09:08:06 UTC\n"
+"Last-Translator: Web Translate It <support@webtranslateit.com>\n"
+"Language-Team: Hungarian, Hungary\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: WebTranslateIt.com\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: page.php
+#: landing-page.php
+#: index.php
+#: image.php
+#: full-width-page.php
+#: content-sidebar-page.php
+#: content-sidebar-half-page.php
+#: blog.php
+#: blog-excerpt.php
+#: archive.php
+#: home.php
+#: search.php
+#: sidebar-content-half-page.php
+#: sidebar-content-page.php
+#: single.php
+#: sitemap.php
+msgid "Pages:"
+msgstr "Oldal:"
+
+#: blog-excerpt.php
+#: blog.php
+#: loop-nav.php
+msgid "&#8249; Older posts"
+msgstr "&#8249; Korábbi bejegyzések"
+
+#: blog-excerpt.php
+#: blog.php
+#: loop-nav.php
+msgid "Newer posts &#8250;"
+msgstr "Újabb bejegyzések &#8250;"
+
+#: blog.php
+#: content-sidebar-half-page.php
+#: content-sidebar-page.php
+#: full-width-page.php
+#: home.php
+#: image.php
+#: index.php
+#: landing-page.php
+#: page.php
+#: sidebar-content-half-page.php
+#: sidebar-content-page.php
+#: single.php
+#: core/includes/functions.php
+msgid "Read more &#8250;"
+msgstr "Tovább ›"
+
+#: comments.php
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Ez a bejegyzés jelszóval védett! A hozzászólások megtekintéséhez meg kell adni a jelszót."
+
+#: comments.php
+#: comments.php
+msgid "&#8249; Older comments"
+msgstr "&#8249; Régebbi hozzászólások"
+
+#: comments.php
+#: comments.php
+msgid "Newer comments &#8250;"
+msgstr "Újabb hozzászólások &#8250;"
+
+#: comments.php
+msgid "Pings&#47;Trackbacks"
+msgstr "Ping/visszakövetés"
+
+#: comments.php
+msgid "%1$d %2$s for \"%3$s\""
+msgstr "%1$d %2$s számára \"%3$s\""
+
+#: comments.php
+msgid "Name"
+msgstr "Név"
+
+#: comments.php
+msgid "E-mail"
+msgstr "E-mail"
+
+#: comments.php
+msgid "Website"
+msgstr "Honlap"
+
+#: footer.php
+msgid "&copy;"
+msgstr "&copy;"
+
+#: footer.php
+msgid "scroll to top"
+msgstr "vissza a tetejére"
+
+#: footer.php
+msgid "&uarr;"
+msgstr "&uarr;"
+
+#: footer.php
+msgid "http://themeid.com/responsive-theme/"
+msgstr "http://themeid.com/responsive-theme/"
+
+#: footer.php
+msgid "Responsive Theme"
+msgstr "Responsive Theme"
+
+#: footer.php
+msgid "powered by"
+msgstr "Webmotor:"
+
+#: footer.php
+msgid "http://wordpress.org/"
+msgstr "http://hu.wordpress.org/"
+
+#: footer.php
+msgid "WordPress"
+msgstr "WordPress"
+
+#: image.php
+msgid "&#8249; Return to"
+msgstr "‹ Vissza"
+
+#: image.php
+#: post-meta-page.php
+#: post-meta.php
+#: sidebar-content-half-page.php
+#: sidebar-content-page.php
+msgid "No Comments &darr;"
+msgstr "Nincs hozzászólás &darr;"
+
+#: post-meta-page.php
+#: post-meta.php
+#: image.php
+#: sidebar-content-half-page.php
+#: sidebar-content-page.php
+msgid "1 Comment &darr;"
+msgstr "1 hozzászólás &darr;"
+
+#: post-meta-page.php
+#: post-meta.php
+#: image.php
+#: sidebar-content-half-page.php
+#: sidebar-content-page.php
+msgid "% Comments &darr;"
+msgstr "% hozzászólás &darr;"
+
+#: comments.php
+msgid "One comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s comments on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s hozzászólás &ldquo;%2$s&rdquo;"
+
+#: image.php
+#: post-data.php
+#: sidebar-content-half-page.php
+#: sidebar-content-page.php
+msgid "Tagged with:"
+msgstr "Címke:"
+
+#: image.php
+#: post-data.php
+#: sidebar-content-half-page.php
+#: sidebar-content-page.php
+msgid "Posted in %s"
+msgstr "Kategória: %s"
+
+#: image.php
+#: post-data.php
+#: sidebar-content-half-page.php
+#: sidebar-content-page.php
+#: sitemap.php
+msgid "Edit"
+msgstr "Szerkesztés"
+
+#: loop-no-posts.php
+msgid "404 &#8212; Fancy meeting you here!"
+msgstr "404 — Jó, hogy találkoztunk!"
+
+#: loop-no-posts.php
+msgid "Don&#39;t panic, we&#39;ll get through this together. Let&#39;s explore our options here."
+msgstr "Ne aggódj, együtt túljutunk ezen is! Nézzük meg, milyen lehetőségeink vannak."
+
+#: loop-no-posts.php
+msgid "You can return %s or search for the page you were looking for."
+msgstr "Visszatérhetsz %s vagy keresd meg az oldalt, amit szeretnél"
+
+#: loop-no-posts.php
+#: core/includes/functions.php
+msgid "Home"
+msgstr "Kezdőlap"
+
+#: loop-no-posts.php
+msgid "&larr; Home"
+msgstr "&larr; Kezdőlap"
+
+#: loop-header.php
+msgid "Daily Archives: %s"
+msgstr "napi bejegyzések: %s"
+
+#: loop-header.php
+msgid "Monthly Archives: %s"
+msgstr "%s hónap bejegyzései"
+
+#: loop-header.php
+msgid "Yearly Archives: %s"
+msgstr "%s év bejegyzései"
+
+#: loop-header.php
+msgid "Blog Archives"
+msgstr "Valamennyi bejegyzés"
+
+#: loop-no-posts.php
+msgid "Your search for %s did not match any entries."
+msgstr "A keresés %s nem talált egyezést egy bejegyzéssel sem."
+
+#: sitemap.php
+msgid "Permanent Link to %s"
+msgstr "Állandó link ehhez %s"
+
+#: search.php
+#: core/includes/functions.php
+msgid "Search results for: %s"
+msgstr "Keresés eredménye a következő kifejezésre: %s"
+
+#: searchform.php
+msgid "search here &hellip;"
+msgstr "keresés..."
+
+#: searchform.php
+msgid "Go"
+msgstr "mehet"
+
+#: sidebar-gallery.php
+msgid "Image Information"
+msgstr "Képadatok"
+
+#: sidebar-gallery.php
+msgid "Full Size:"
+msgstr "Teljes méret:"
+
+#: sidebar-gallery.php
+msgid "Aperture: f&#47;"
+msgstr "Rekesz: f&#47;"
+
+#: sidebar-gallery.php
+msgid "Focal Length:"
+msgstr "Fókusztávolság"
+
+#: sidebar-gallery.php
+msgid "mm"
+msgstr "mm"
+
+#: sidebar-gallery.php
+msgid "ISO:"
+msgstr "ISO:"
+
+#: sidebar-gallery.php
+msgid "Shutter:"
+msgstr "Zár:"
+
+#: sidebar-gallery.php
+msgid "Camera:"
+msgstr "Kamera:"
+
+#: sidebar.php
+#: sidebar-right.php
+#: sidebar-right-half.php
+#: sidebar-left.php
+#: sidebar-left-half.php
+#: sidebar-half-left.php
+msgid "In Archive"
+msgstr "Az archívumban"
+
+#: sidebar-home.php
+#: core/includes/functions.php
+msgid "Home Widget 1"
+msgstr "Kezdőlap Widget 1"
+
+#: sidebar-home.php
+msgid "This is your first home widget box. To edit please go to Appearance > Widgets and choose 6th widget from the top in area 6 called Home Widget 1. Title is also manageable from widgets as well."
+msgstr "Ez az első főoldali widget doboz. Szerkeszteni a Megjelenés > Widgetek menüpont alatt lehet, jobb oldalon felülről a hatodik widget. A widget címét is itt adhatod meg."
+
+#: sidebar-home.php
+#: core/includes/functions.php
+msgid "Home Widget 2"
+msgstr "Kezdőlap Widget 2"
+
+#: sidebar-home.php
+msgid "This is your second home widget box. To edit please go to Appearance > Widgets and choose 7th widget from the top in area 7 called Home Widget 2. Title is also manageable from widgets as well."
+msgstr "Ez a második főoldali widget doboz. Szerkeszteni a Megjelenés > Widgetek menüpont alatt lehet, jobb oldalon felülről a hetedik widget. A widget címét is itt adhatod meg."
+
+#: sidebar-home.php
+#: core/includes/functions.php
+msgid "Home Widget 3"
+msgstr "Kezdőlap Widget 3"
+
+#: sidebar-home.php
+msgid "This is your third home widget box. To edit please go to Appearance > Widgets and choose 8th widget from the top in area 8 called Home Widget 3. Title is also manageable from widgets as well."
+msgstr "Ez a harmadik főoldali widget doboz. Szerkeszteni a Megjelenés > Widgetek menüpont alatt lehet, jobb oldalon felülről a nyolcadik widget. A widget címét is itt adhatod meg."
+
+#: single.php
+msgid "About"
+msgstr "Névjegy"
+
+#: sitemap.php
+msgid "Categories"
+msgstr "Kategóriák"
+
+#: sitemap.php
+msgid "Latest Posts"
+msgstr "Legfrissebb bejegyzések"
+
+#: sitemap.php
+msgid "Pages"
+msgstr "Oldalak"
+
+#: core/includes/functions.php
+msgid "Top Menu"
+msgstr "Felső menü"
+
+#: core/includes/functions.php
+msgid "Header Menu"
+msgstr "Fejléc menü"
+
+#: core/includes/functions.php
+msgid "Sub-Header Menu"
+msgstr "Fejléc almenü"
+
+#: core/includes/functions.php
+msgid "Footer Menu"
+msgstr "Lábléc menü"
+
+#: core/includes/functions.php
+#: core/includes/functions.php
+msgid "Page %s"
+msgstr "%s. oldal"
+
+#: core/includes/functions.php
+msgid "<span class=\"%1$s\">Posted on </span>%2$s<span class=\"%3$s\"> by </span>%4$s"
+msgstr "<span class=\"%1$s\">Bejegyezve </span>%2$s<span class=\"%3$s\"> Szerző </span>%4$s"
+
+#: core/includes/functions.php
+#: core/includes/functions.php
+msgid "View all posts by %s"
+msgstr "%s összes bejegyzése"
+
+#: core/includes/functions.php
+msgid "Archive for %s"
+msgstr "Bejegyezések itt: %s"
+
+#: core/includes/functions.php
+msgid "Posts tagged %s"
+msgstr "Bejegyzések címkéi %s"
+
+#: core/includes/functions.php
+msgid "Error 404"
+msgstr "404-es hiba "
+
+#: core/includes/functions.php
+#: core/includes/functions.php
+msgid "More Themes"
+msgstr "További témák"
+
+#: core/includes/functions.php
+#: core/includes/functions.php
+msgid "Showcase"
+msgstr "Kirakat"
+
+#: core/includes/functions.php
+msgid "Main Sidebar"
+msgstr "Fő oldalsáv"
+
+#: core/includes/functions.php
+msgid "Area 1 - sidebar.php"
+msgstr "1. terület - sidebar.php"
+
+#: core/includes/functions.php
+msgid "Right Sidebar"
+msgstr "Jobb oldalsáv"
+
+#: core/includes/functions.php
+msgid "Area 2 - sidebar-right.php"
+msgstr "2. terület - sidebar-right.php"
+
+#: core/includes/functions.php
+msgid "Left Sidebar"
+msgstr "Bal oldalsáv"
+
+#: core/includes/functions.php
+msgid "Area 3 - sidebar-left.php"
+msgstr "3. terület - sidebar-left.php"
+
+#: core/includes/functions.php
+msgid "Left Sidebar Half Page"
+msgstr "Bal odalsáv, fél oldal"
+
+#: core/includes/functions.php
+msgid "Area 4 - sidebar-left-half.php"
+msgstr "4. terület - sidebar-left-half.php"
+
+#: core/includes/functions.php
+msgid "Right Sidebar Half Page"
+msgstr "Jobb oldalsáv, fél oldal"
+
+#: core/includes/functions.php
+msgid "Area 5 - sidebar-right-half.php"
+msgstr "5. terület - sidebar-right-half.php"
+
+#: core/includes/functions.php
+msgid "Area 6 - sidebar-home.php"
+msgstr "6. terület - sidebar-home.php"
+
+#: core/includes/functions.php
+msgid "Area 7 - sidebar-home.php"
+msgstr "7. terület - sidebar-home.php"
+
+#: core/includes/functions.php
+msgid "Area 8 - sidebar-home.php"
+msgstr "8. terület - sidebar-home.php"
+
+#: core/includes/functions.php
+msgid "Gallery Sidebar"
+msgstr "Galéria oldalsáv"
+
+#: core/includes/functions.php
+msgid "Area 9 - sidebar-gallery.php"
+msgstr "9. terület - sidebar-gallery.php"
+
+#: core/includes/functions.php
+msgid "Colophon Widget"
+msgstr ""
+
+#: core/includes/functions.php
+msgid "Area 10 - sidebar-colophon.php"
+msgstr ""
+
+#: core/includes/functions.php
+msgid "Top Widget"
+msgstr ""
+
+#: core/includes/functions.php
+msgid "Area 11 - sidebar-top.php"
+msgstr ""
+
+#: blog.php
+msgid "Blog (full posts)"
+msgstr "Blog (teljes bejegyzések)"
+
+#: blog-excerpt.php
+msgid "Blog Excerpt (summary)"
+msgstr "Blog kivonat (összegzés)"
+
+#: content-sidebar-page.php
+#: core/includes/post-custom-meta.php
+msgid "Content/Sidebar"
+msgstr "Tartalom/Oldalsáv"
+
+#: sidebar-content-page.php
+#: core/includes/post-custom-meta.php
+msgid "Sidebar/Content"
+msgstr "Oldalsáv/Tartalom"
+
+#: content-sidebar-half-page.php
+#: core/includes/post-custom-meta.php
+msgid "Content/Sidebar Half Page"
+msgstr ""
+
+#: sidebar-content-half-page.php
+#: core/includes/post-custom-meta.php
+msgid "Sidebar/Content Half Page"
+msgstr ""
+
+#: full-width-page.php
+#: core/includes/post-custom-meta.php
+msgid "Full Width Page (no sidebar)"
+msgstr "Teljes szélességű oldal (nincs oldalsáv)"
+
+#: landing-page.php
+msgid "Landing Page (no menu)"
+msgstr "Landing page (nincs menü)"
+
+#: sitemap.php
+msgid "Sitemap"
+msgstr "Oldaltérkép"
+
+#: core/includes/post-custom-meta.php
+msgid "Layout"
+msgstr "Elrendezés"
+
+#: core/includes/post-custom-meta.php
+msgid "Default"
+msgstr "Alapértelmezett"
+
+#: front-page.php
+#: core/includes/theme-options.php
+msgid "Hello, World!"
+msgstr "Helló Világ!"
+
+#: front-page.php
+#: core/includes/theme-options.php
+msgid "Your H2 subheadline here"
+msgstr "A H2 alcímed ide jön"
+
+#: front-page.php
+#: core/includes/theme-options.php
+msgid "Your title, subtitle and this very content is editable from Theme Option. Call to Action button and its destination link as well. Image on your right can be an image or even YouTube video if you like."
+msgstr "A cím, az alcím és a tartalom szerkeszthető a téma opcióknál. A \"cselekvésre ösztönző (Call to action)\" gomb felirata és linkje is onnan szerkeszthető. A jobb oldali kép lehet kép vagy youtube videó."
+
+#: front-page.php
+#: core/includes/theme-options.php
+msgid "Call to Action"
+msgstr "Cselekvésre ösztönzés"
+
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+msgid "Theme Options"
+msgstr "Téma beállítások"
+
+#: core/includes/theme-options.php
+msgid "Options Saved"
+msgstr "Beállítások mentve"
+
+#: core/includes/theme-options.php
+msgid "Theme Elements"
+msgstr "Téma elemek"
+
+#: core/includes/theme-options.php
+msgid "Disable Breadcrumb Lists?"
+msgstr "Kikapcsolod az útvonalkövetést?"
+
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+msgid "Check to disable"
+msgstr "Kattints a kikapcsoláshoz"
+
+#: core/includes/theme-options.php
+msgid "Disable Call to Action Button?"
+msgstr "Kikapcsolod a \"Cselekvésre ösztönzés (Call to Action)\" gombot?"
+
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+msgid "Save Options"
+msgstr "Beállítások mentése"
+
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+msgid "Restore Defaults"
+msgstr "Alapértelmezések visszaállítása"
+
+#: core/includes/theme-options.php
+msgid "Logo Upload"
+msgstr "Logó feltöltése"
+
+#: core/includes/theme-options.php
+msgid "Custom Header"
+msgstr "Egyedi fejléc"
+
+#: core/includes/theme-options.php
+msgid "Need to replace or remove default logo?"
+msgstr "Szereretnéd lecserélni, vagy eltávolítani az alapértelmezett logót?"
+
+#: core/includes/theme-options.php
+msgid "<a href=\"%s\">Click here</a>."
+msgstr "<a href=\"%s\">kattints ide</a>"
+
+#: core/includes/theme-options.php
+msgid "Home Page"
+msgstr "Kezdőoldal"
+
+#: core/includes/theme-options.php
+msgid "Headline"
+msgstr "Főcím"
+
+#: core/includes/theme-options.php
+msgid "Enter your headline"
+msgstr "Írd ide a főcímet"
+
+#: core/includes/theme-options.php
+msgid "Subheadline"
+msgstr "Alcím"
+
+#: core/includes/theme-options.php
+msgid "Enter your subheadline"
+msgstr "Írd ide az alcímet"
+
+#: core/includes/theme-options.php
+msgid "Content Area"
+msgstr "Tartalom helye"
+
+#: core/includes/theme-options.php
+msgid "Enter your content"
+msgstr "Írd ide a tartalmat"
+
+#: core/includes/theme-options.php
+msgid "Call to Action (URL)"
+msgstr "Cselekvésre ösztönzés (Call to action) link"
+
+#: core/includes/theme-options.php
+msgid "Enter your call to action URL"
+msgstr "Add meg a cselekvésre ösztönzés (Call to action) linkjét"
+
+#: core/includes/theme-options.php
+msgid "Call to Action (Text)"
+msgstr "Cselekvésre ösztönzés - Call to action (szöveg)"
+
+#: core/includes/theme-options.php
+msgid "Enter your call to action text"
+msgstr "Írd ide a cselekvésre ösztönző (Call to action) szöveged"
+
+#: core/includes/theme-options.php
+msgid "Featured Content"
+msgstr "Kiemelt tartalom"
+
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+msgid "See Docs"
+msgstr "Lásd a dokumentációt"
+
+#: core/includes/theme-options.php
+msgid "Paste your shortcode, video or image source"
+msgstr ""
+
+#: core/includes/theme-options.php
+msgid "Default Layouts"
+msgstr "Alapértelmezett elrendezés"
+
+#: core/includes/theme-options.php
+msgid "Default Static Page Layout"
+msgstr "Alapértelmezett oldal elrendezés"
+
+#: core/includes/theme-options.php
+msgid "Default Single Blog Post Layout"
+msgstr "Alapértelmezett bejegyzés elrendezés"
+
+#: core/includes/theme-options.php
+msgid "Default Blog Posts Index Layout"
+msgstr "Alapértelmezett bejegyzéseket listázó oldal elrendezése"
+
+#: core/includes/theme-options.php
+msgid "Webmaster Tools"
+msgstr "Webmester eszközök"
+
+#: core/includes/theme-options.php
+msgid "Google Site Verification"
+msgstr "Google oldal ellenőrzés"
+
+#: core/includes/theme-options.php
+msgid "Enter your Google ID number only"
+msgstr "Add meg a Google ID számod"
+
+#: core/includes/theme-options.php
+msgid "Bing Site Verification"
+msgstr "Bing oldal ellenőrzés"
+
+#: core/includes/theme-options.php
+msgid "Enter your Bing ID number only"
+msgstr "Add meg a Bing ID számod"
+
+#: core/includes/theme-options.php
+msgid "Yahoo Site Verification"
+msgstr "Yahoo oldal ellenőrzés"
+
+#: core/includes/theme-options.php
+msgid "Enter your Yahoo ID number only"
+msgstr "Add meg a Yahoo ID számod"
+
+#: core/includes/theme-options.php
+msgid "Site Statistics Tracker"
+msgstr "Oldal-statisztika követés"
+
+#: core/includes/theme-options.php
+msgid "Leave blank if plugin handles your webmaster tools"
+msgstr "Hagyd üresen, ha plugin kezeli a webmester eszközöket"
+
+#: core/includes/theme-options.php
+msgid "Google Analytics, StatCounter, any other or all of them."
+msgstr "Google Analytics, StatCounter, egyik vagy az összes a felsoroltak közül."
+
+#: core/includes/theme-options.php
+msgid "Social Icons"
+msgstr "Közösségi oldal ikonok"
+
+#: core/includes/theme-options.php
+msgid "Twitter"
+msgstr "Twitter"
+
+#: core/includes/theme-options.php
+msgid "Enter your Twitter URL"
+msgstr "Add meg a Twitter profilod linkjét"
+
+#: core/includes/theme-options.php
+msgid "Facebook"
+msgstr "Facebook"
+
+#: core/includes/theme-options.php
+msgid "Enter your Facebook URL"
+msgstr "Add meg a Facebook profilod linkjét"
+
+#: core/includes/theme-options.php
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: core/includes/theme-options.php
+msgid "Enter your LinkedIn URL"
+msgstr "Add meg a Linkedin profilod linkjét"
+
+#: core/includes/theme-options.php
+msgid "YouTube"
+msgstr "YouTube"
+
+#: core/includes/theme-options.php
+msgid "Enter your YouTube URL"
+msgstr "Add meg a YouTube profilod linkjét"
+
+#: core/includes/theme-options.php
+msgid "StumbleUpon"
+msgstr "StumbleUpon"
+
+#: core/includes/theme-options.php
+msgid "Enter your StumbleUpon URL"
+msgstr "Add meg a StumleUpon profilod linkjét"
+
+#: core/includes/theme-options.php
+msgid "RSS Feed"
+msgstr "RSS hírfolyam"
+
+#: core/includes/theme-options.php
+msgid "Enter your RSS Feed URL"
+msgstr "Add meg az RSS hírfolyamod linkjét"
+
+#: core/includes/theme-options.php
+msgid "Google+"
+msgstr "Google+"
+
+#: core/includes/theme-options.php
+msgid "Enter your Google+ URL"
+msgstr "Add meg a Google+ profilod linkjét"
+
+#: core/includes/theme-options.php
+msgid "Instagram"
+msgstr "Instagram"
+
+#: core/includes/theme-options.php
+msgid "Enter your Instagram URL"
+msgstr "Add meg az Instagram profilod linkjét"
+
+#: core/includes/theme-options.php
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: core/includes/theme-options.php
+msgid "Enter your Pinterest URL"
+msgstr "Add meg a Pinterest profilod linkjét"
+
+#: core/includes/theme-options.php
+msgid "Yelp!"
+msgstr "Yelp!"
+
+#: core/includes/theme-options.php
+msgid "Enter your Yelp! URL"
+msgstr "Add meg a Yelp! profilod linkjét"
+
+#: core/includes/theme-options.php
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: core/includes/theme-options.php
+msgid "Enter your Vimeo URL"
+msgstr "Add meg a Vimeo profilod linkjét"
+
+#: core/includes/theme-options.php
+msgid "foursquare"
+msgstr "foursquare"
+
+#: core/includes/theme-options.php
+msgid "Enter your foursquare URL"
+msgstr "Add meg a foursquare profilod linkjét"
+
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+msgid "Custom CSS Styles"
+msgstr "Egyedi CSS stílusok"
+
+#: core/includes/theme-options.php
+msgid "https://developer.mozilla.org/en/CSS"
+msgstr "https://developer.mozilla.org/en/CSS"
+
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+msgid "CSS Tutorial"
+msgstr "CSS segédlet"
+
+#: core/includes/theme-options.php
+msgid "Enter your custom CSS styles."
+msgstr "Írd ide a saját CSS stílusaidat."
+
+#: core/includes/theme-options.php
+msgid "Custom Scripts"
+msgstr "Egyéni szkriptek"
+
+#: core/includes/theme-options.php
+msgid "Custom Scripts for Header and Footer"
+msgstr "Egyéni szkriptek a fejlécbe és láblécbe"
+
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+msgid "Quick Tutorial"
+msgstr "Gyorstalpaló"
+
+#: core/includes/theme-options.php
+msgid "Embeds to header.php &darr;"
+msgstr "Beágyazza a header.php-be &darr;"
+
+#: core/includes/theme-options.php
+msgid "Enter your custom header script."
+msgstr "Írd be az egyéni fejléc szkriptedet."
+
+#: core/includes/theme-options.php
+msgid "Embeds to footer.php &darr;"
+msgstr "Beágyazza a footer.php-ba &darr;"
+
+#: core/includes/theme-options.php
+msgid "Enter your custom footer script."
+msgstr "Írd be az egyéni lábléc szkriptedet."
+
+#: core/includes/theme-options.php
+msgid "Enable Custom Front Page"
+msgstr "Egyéni címplap engedélyezése"
+
+#: core/includes/functions.php
+#: core/includes/functions.php
+msgid "Help"
+msgstr "Súgó"
+
+#: core/includes/functions.php
+#: core/includes/functions.php
+msgid "Instructions"
+msgstr "Instrukciók"
+
+#: core/includes/theme-options.php
+msgid "Overrides the WordPress %1sfront page option%2s"
+msgstr "Felülírja a WordPress %1skezdőoldal beállítását%2s"
+
+#: core/includes/functions.php
+#: core/includes/functions.php
+msgid "Translate"
+msgstr "Fordítás"
+
+#: core/includes/functions.php
+#. Welcome to Responsive! Upgrade to Responsive Pro today.
+# INSTRUCTION: Welcome to Responsive! Upgrade to Responsive Pro today.
+msgid "Welcome to %1$s! Upgrade to %2$s today."
+msgstr "Üdv a %1$s sablonban! Frissíts még ma a %2$s-ra!"
+

@@ -1,0 +1,873 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Responsive Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-25 13:42:58 UTC\n"
+"PO-Revision-Date: 2013-07-22 22:03:32 UTC\n"
+"Last-Translator: Web Translate It <support@webtranslateit.com>\n"
+"Language-Team: French, France\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: WebTranslateIt.com\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+
+#: page.php
+#: landing-page.php
+#: index.php
+#: image.php
+#: full-width-page.php
+#: content-sidebar-page.php
+#: content-sidebar-half-page.php
+#: blog.php
+#: blog-excerpt.php
+#: archive.php
+#: home.php
+#: search.php
+#: sidebar-content-half-page.php
+#: sidebar-content-page.php
+#: single.php
+#: sitemap.php
+msgid "Pages:"
+msgstr "Pages&nbsp;:"
+
+#: blog-excerpt.php
+#: blog.php
+#: loop-nav.php
+msgid "&#8249; Older posts"
+msgstr "&#8249; Articles plus anciens"
+
+#: blog-excerpt.php
+#: blog.php
+#: loop-nav.php
+msgid "Newer posts &#8250;"
+msgstr "Articles plus r&#233;cents &#8250;"
+
+#: blog.php
+#: content-sidebar-half-page.php
+#: content-sidebar-page.php
+#: full-width-page.php
+#: home.php
+#: image.php
+#: index.php
+#: landing-page.php
+#: page.php
+#: sidebar-content-half-page.php
+#: sidebar-content-page.php
+#: single.php
+#: core/includes/functions.php
+msgid "Read more &#8250;"
+msgstr "Lire la suite &#8250;"
+
+#: comments.php
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Cet article est prot&#233;g&#233; par mot de passe. Entrez le mot de passe pour acc&#233;der aux commentaires."
+
+#: comments.php
+#: comments.php
+msgid "&#8249; Older comments"
+msgstr "&#8249; Commentaires plus anciens"
+
+#: comments.php
+#: comments.php
+msgid "Newer comments &#8250;"
+msgstr "Commentaires plus r&#233;cents &#8250;"
+
+#: comments.php
+msgid "Pings&#47;Trackbacks"
+msgstr "Pings&#47;Trackbacks"
+
+#: comments.php
+msgid "%1$d %2$s for \"%3$s\""
+msgstr "%1$d %2$s pour \"%3$s\""
+
+#: comments.php
+msgid "Name"
+msgstr "Nom"
+
+#: comments.php
+msgid "E-mail"
+msgstr "Courriel"
+
+#: comments.php
+msgid "Website"
+msgstr "Site Web"
+
+#: footer.php
+msgid "&copy;"
+msgstr ""
+
+#: footer.php
+msgid "scroll to top"
+msgstr "retour en haut"
+
+#: footer.php
+msgid "&uarr;"
+msgstr "&uarr;"
+
+#: footer.php
+msgid "http://themeid.com/responsive-theme/"
+msgstr ""
+
+#: footer.php
+msgid "Responsive Theme"
+msgstr ""
+
+#: footer.php
+msgid "powered by"
+msgstr "Propulsé par WordPress"
+
+#: footer.php
+msgid "http://wordpress.org/"
+msgstr "http://fr.wordpress.org/"
+
+#: footer.php
+msgid "WordPress"
+msgstr "WordPress"
+
+#: image.php
+msgid "&#8249; Return to"
+msgstr "&#8249; Retour &#224;"
+
+#: image.php
+#: post-meta-page.php
+#: post-meta.php
+#: sidebar-content-half-page.php
+#: sidebar-content-page.php
+msgid "No Comments &darr;"
+msgstr "Aucun commentaire &darr;"
+
+#: post-meta-page.php
+#: post-meta.php
+#: image.php
+#: sidebar-content-half-page.php
+#: sidebar-content-page.php
+msgid "1 Comment &darr;"
+msgstr "1 commentaire &darr;"
+
+#: post-meta-page.php
+#: post-meta.php
+#: image.php
+#: sidebar-content-half-page.php
+#: sidebar-content-page.php
+msgid "% Comments &darr;"
+msgstr "% commentaires &darr;"
+
+#: comments.php
+msgid "One comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s comments on &ldquo;%2$s&rdquo;"
+msgstr[0] "Un commentaire pour “%2$s”"
+msgstr[1] "%1$s commentaires pour “%2$s”"
+
+#: image.php
+#: post-data.php
+#: sidebar-content-half-page.php
+#: sidebar-content-page.php
+msgid "Tagged with:"
+msgstr "Tagu&#233;s avec&nbsp;:"
+
+#: image.php
+#: post-data.php
+#: sidebar-content-half-page.php
+#: sidebar-content-page.php
+msgid "Posted in %s"
+msgstr "Publi&#233; dans %s"
+
+#: image.php
+#: post-data.php
+#: sidebar-content-half-page.php
+#: sidebar-content-page.php
+#: sitemap.php
+msgid "Edit"
+msgstr "Editer"
+
+#: loop-no-posts.php
+msgid "404 &#8212; Fancy meeting you here!"
+msgstr "404 &#8212; Heureux de vous voir ici &#33;"
+
+#: loop-no-posts.php
+msgid "Don&#39;t panic, we&#39;ll get through this together. Let&#39;s explore our options here."
+msgstr "Ne paniquez pas&#44; nous allons r&#233;soudre cela ensemble&#46; Explorons les options possibles ici&#46;"
+
+#: loop-no-posts.php
+msgid "You can return %s or search for the page you were looking for."
+msgstr "Vous pouvez revenir en arri&#232;re %s ou rechercher la page que vous demandiez"
+
+#: loop-no-posts.php
+#: core/includes/functions.php
+msgid "Home"
+msgstr "Accueil"
+
+#: loop-no-posts.php
+msgid "&larr; Home"
+msgstr "&larr; Accueil"
+
+#: loop-header.php
+msgid "Daily Archives: %s"
+msgstr "Archives quotidiennes&nbsp;: %s"
+
+#: loop-header.php
+msgid "Monthly Archives: %s"
+msgstr "Archives mensuelles&nbsp;: %s"
+
+#: loop-header.php
+msgid "Yearly Archives: %s"
+msgstr "Archives annuelles&nbsp;: %s"
+
+#: loop-header.php
+msgid "Blog Archives"
+msgstr "Archives du site"
+
+#: loop-no-posts.php
+msgid "Your search for %s did not match any entries."
+msgstr "Votre recherche pour %s ne retourne aucun contenu."
+
+#: sitemap.php
+msgid "Permanent Link to %s"
+msgstr "Lien permanent vers %s"
+
+#: search.php
+#: core/includes/functions.php
+msgid "Search results for: %s"
+msgstr "Résultats de recherche pour %s"
+
+#: searchform.php
+msgid "search here &hellip;"
+msgstr "chercher ici &hellip;"
+
+#: searchform.php
+msgid "Go"
+msgstr "Aller"
+
+#: sidebar-gallery.php
+msgid "Image Information"
+msgstr "Information relative &#224; l&#39;image"
+
+#: sidebar-gallery.php
+msgid "Full Size:"
+msgstr "Taille originale :"
+
+#: sidebar-gallery.php
+msgid "Aperture: f&#47;"
+msgstr "Ouverture : f&#47;"
+
+#: sidebar-gallery.php
+msgid "Focal Length:"
+msgstr "Focale :"
+
+#: sidebar-gallery.php
+msgid "mm"
+msgstr "mn"
+
+#: sidebar-gallery.php
+msgid "ISO:"
+msgstr "ISO :"
+
+#: sidebar-gallery.php
+msgid "Shutter:"
+msgstr "Vitesse d&#39;obturation :"
+
+#: sidebar-gallery.php
+msgid "Camera:"
+msgstr "Appareil photo :"
+
+#: sidebar.php
+#: sidebar-right.php
+#: sidebar-right-half.php
+#: sidebar-left.php
+#: sidebar-left-half.php
+#: sidebar-half-left.php
+msgid "In Archive"
+msgstr "dans les archives"
+
+#: sidebar-home.php
+#: core/includes/functions.php
+msgid "Home Widget 1"
+msgstr "Accueil Widget 1"
+
+#: sidebar-home.php
+msgid "This is your first home widget box. To edit please go to Appearance > Widgets and choose 6th widget from the top in area 6 called Home Widget 1. Title is also manageable from widgets as well."
+msgstr "Ceci est votre premier widget de page d&#39;accueil. Pour le modifier&#44; allez &#224; Apparence > Widgets et choisissez le 6&#232;me widget appel&#233; Accueil Widget 1. Le titre est &#233;galement &#233;ditable via la page d&#39;administration des widgets."
+
+#: sidebar-home.php
+#: core/includes/functions.php
+msgid "Home Widget 2"
+msgstr "Accueil Widget 2"
+
+#: sidebar-home.php
+msgid "This is your second home widget box. To edit please go to Appearance > Widgets and choose 7th widget from the top in area 7 called Home Widget 2. Title is also manageable from widgets as well."
+msgstr "Ceci est votre second widget de page d&#39;accueil. Pour le modifier&#44; allez &#224; Apparence > Widgets et choisissez le 7&#232;me widget appel&#233; Accueil Widget 2. Le titre est &#233;galement &#233;ditable via la page d&#39;administration des widgets."
+
+#: sidebar-home.php
+#: core/includes/functions.php
+msgid "Home Widget 3"
+msgstr "Accueil Widget 3"
+
+#: sidebar-home.php
+msgid "This is your third home widget box. To edit please go to Appearance > Widgets and choose 8th widget from the top in area 8 called Home Widget 3. Title is also manageable from widgets as well."
+msgstr "Ceci est votre troisi&#232;me widget de page d&#39;accueil. Pour le modifier&#44; allez &#224; Apparence > Widgets et choisissez le 8&#232;me widget appel&#233; Accueil Widget 3. Le titre est &#233;galement &#233;ditable via la page d&#39;administration des widgets."
+
+#: single.php
+msgid "About"
+msgstr "A propos"
+
+#: sitemap.php
+msgid "Categories"
+msgstr "Cat&#233;gories"
+
+#: sitemap.php
+msgid "Latest Posts"
+msgstr "Les Derniers Articles"
+
+#: sitemap.php
+msgid "Pages"
+msgstr "Pages"
+
+#: core/includes/functions.php
+msgid "Top Menu"
+msgstr "Top Menu"
+
+#: core/includes/functions.php
+msgid "Header Menu"
+msgstr "Menu Header"
+
+#: core/includes/functions.php
+msgid "Sub-Header Menu"
+msgstr "Sous Menu Header"
+
+#: core/includes/functions.php
+msgid "Footer Menu"
+msgstr "Menu de Pied de Page"
+
+#: core/includes/functions.php
+#: core/includes/functions.php
+msgid "Page %s"
+msgstr "Page %s"
+
+#: core/includes/functions.php
+msgid "<span class=\"%1$s\">Posted on </span>%2$s<span class=\"%3$s\"> by </span>%4$s"
+msgstr "<span class=\"%1$s\">Post&#233; le </span>%2$s<span class=\"%3$s\"> par </span>%4$s"
+
+#: core/includes/functions.php
+#: core/includes/functions.php
+msgid "View all posts by %s"
+msgstr "Afficher tous les articles par %s"
+
+#: core/includes/functions.php
+msgid "Archive for %s"
+msgstr "Archive pour %s"
+
+#: core/includes/functions.php
+msgid "Posts tagged %s"
+msgstr "Publications tagu&#233;es %s"
+
+#: core/includes/functions.php
+msgid "Error 404"
+msgstr "Erreur 404 "
+
+#: core/includes/functions.php
+#: core/includes/functions.php
+msgid "More Themes"
+msgstr "Plus de thèmes"
+
+#: core/includes/functions.php
+#: core/includes/functions.php
+msgid "Showcase"
+msgstr "Démo"
+
+#: core/includes/functions.php
+msgid "Main Sidebar"
+msgstr "Colonne principale"
+
+#: core/includes/functions.php
+msgid "Area 1 - sidebar.php"
+msgstr "Zone 1 &#45; sidebar.php"
+
+#: core/includes/functions.php
+msgid "Right Sidebar"
+msgstr "Colonne lat&#233;rale droite"
+
+#: core/includes/functions.php
+msgid "Area 2 - sidebar-right.php"
+msgstr "Zone 2 &#45; sidebar&#45;right.php"
+
+#: core/includes/functions.php
+msgid "Left Sidebar"
+msgstr "Colonne lat&#233;rale gauche"
+
+#: core/includes/functions.php
+msgid "Area 3 - sidebar-left.php"
+msgstr "Zone 3 &#45; sidebar&#45;left.php"
+
+#: core/includes/functions.php
+msgid "Left Sidebar Half Page"
+msgstr "Colonne lat&#233;rale gauche Demi&#45;Page"
+
+#: core/includes/functions.php
+msgid "Area 4 - sidebar-left-half.php"
+msgstr "Zone 4 &#45; sidebar-left&#45;half.php"
+
+#: core/includes/functions.php
+msgid "Right Sidebar Half Page"
+msgstr "Colonne lat&#233;rale droite Demi&#45;Page"
+
+#: core/includes/functions.php
+msgid "Area 5 - sidebar-right-half.php"
+msgstr "Zone 5 &#45; sidebar-right&#45;half.php"
+
+#: core/includes/functions.php
+msgid "Area 6 - sidebar-home.php"
+msgstr "Zone 6 &#45; sidebar&#45;home.php"
+
+#: core/includes/functions.php
+msgid "Area 7 - sidebar-home.php"
+msgstr "Zone 7 &#45; sidebar&#45;home.php"
+
+#: core/includes/functions.php
+msgid "Area 8 - sidebar-home.php"
+msgstr "Zone 8 &#45; sidebar&#45;home.php"
+
+#: core/includes/functions.php
+msgid "Gallery Sidebar"
+msgstr "Barre lat&#233;rale Galerie"
+
+#: core/includes/functions.php
+msgid "Area 9 - sidebar-gallery.php"
+msgstr "Zone 9 &#45; sidebar&#45;gallery.php"
+
+#: core/includes/functions.php
+msgid "Colophon Widget"
+msgstr "Widget Colophon"
+
+#: core/includes/functions.php
+msgid "Area 10 - sidebar-colophon.php"
+msgstr "Zone 10 - sidebar-colophon.php"
+
+#: core/includes/functions.php
+msgid "Top Widget"
+msgstr "Widget supérieur"
+
+#: core/includes/functions.php
+msgid "Area 11 - sidebar-top.php"
+msgstr "Zone 11 - sidebar-top.php"
+
+#: blog.php
+msgid "Blog (full posts)"
+msgstr "Blog"
+
+#: blog-excerpt.php
+msgid "Blog Excerpt (summary)"
+msgstr "Résumé"
+
+#: content-sidebar-page.php
+#: core/includes/post-custom-meta.php
+msgid "Content/Sidebar"
+msgstr "Contenu de la barre laterale"
+
+#: sidebar-content-page.php
+#: core/includes/post-custom-meta.php
+msgid "Sidebar/Content"
+msgstr "Barre laterale/Contenu"
+
+#: content-sidebar-half-page.php
+#: core/includes/post-custom-meta.php
+msgid "Content/Sidebar Half Page"
+msgstr "Contenu/ Barre laterale en demi-page"
+
+#: sidebar-content-half-page.php
+#: core/includes/post-custom-meta.php
+msgid "Sidebar/Content Half Page"
+msgstr "Barre laterale/ Contenu en demi-page"
+
+#: full-width-page.php
+#: core/includes/post-custom-meta.php
+msgid "Full Width Page (no sidebar)"
+msgstr "Pleine Largeur (sans Barre laterale)"
+
+#: landing-page.php
+msgid "Landing Page (no menu)"
+msgstr "Page d'entrée (sans menu)"
+
+#: sitemap.php
+msgid "Sitemap"
+msgstr "Plan du site"
+
+#: core/includes/post-custom-meta.php
+msgid "Layout"
+msgstr "Mise en Page"
+
+#: core/includes/post-custom-meta.php
+msgid "Default"
+msgstr "Defaut"
+
+#: front-page.php
+#: core/includes/theme-options.php
+msgid "Hello, World!"
+msgstr "Bonjour tout le monde&nbsp;!"
+
+#: front-page.php
+#: core/includes/theme-options.php
+msgid "Your H2 subheadline here"
+msgstr "Votre sous&#45;titre H2 ici"
+
+#: front-page.php
+#: core/includes/theme-options.php
+msgid "Your title, subtitle and this very content is editable from Theme Option. Call to Action button and its destination link as well. Image on your right can be an image or even YouTube video if you like."
+msgstr "Votre titre, sous&#45;titre et contenu sont modifiables via les options du th&#232;me, ainsi que le bouton Action et son lien. L&#39;image sur votre droite peut &#234;tre une image ou m&#234;me une vid&#233;o YouTube si vous le souhaitez."
+
+#: front-page.php
+#: core/includes/theme-options.php
+msgid "Call to Action"
+msgstr "Appel &#224; Action"
+
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+msgid "Theme Options"
+msgstr "Options du th&#232;me"
+
+#: core/includes/theme-options.php
+msgid "Options Saved"
+msgstr "Options enregistr&#233;es"
+
+#: core/includes/theme-options.php
+msgid "Theme Elements"
+msgstr "El&#233;ments du Th&#232;me"
+
+#: core/includes/theme-options.php
+msgid "Disable Breadcrumb Lists?"
+msgstr "D&#233;activer le chemin de navigation (Breadcrumb) ?"
+
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+msgid "Check to disable"
+msgstr "Validez pour d&#233;sactiver"
+
+#: core/includes/theme-options.php
+msgid "Disable Call to Action Button?"
+msgstr "Désactiver le bouton Appel à action ?"
+
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+msgid "Save Options"
+msgstr "Sauvegarder les options"
+
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+msgid "Restore Defaults"
+msgstr "Rétablir les paramètres par défaut."
+
+#: core/includes/theme-options.php
+msgid "Logo Upload"
+msgstr "T&#233;l&#233;charger le Logo"
+
+#: core/includes/theme-options.php
+msgid "Custom Header"
+msgstr "En-tête Personnalis&#233;e"
+
+#: core/includes/theme-options.php
+msgid "Need to replace or remove default logo?"
+msgstr "Besoin de remplacer ou de supprimer le logo par d&#233;faut ?"
+
+#: core/includes/theme-options.php
+msgid "<a href=\"%s\">Click here</a>."
+msgstr "<a href=\"%s\">Cliquez ici</a>."
+
+#: core/includes/theme-options.php
+msgid "Home Page"
+msgstr "Page d'accueil"
+
+#: core/includes/theme-options.php
+msgid "Headline"
+msgstr "Titre"
+
+#: core/includes/theme-options.php
+msgid "Enter your headline"
+msgstr "Saisissez votre titre"
+
+#: core/includes/theme-options.php
+msgid "Subheadline"
+msgstr "Sous-Titre"
+
+#: core/includes/theme-options.php
+msgid "Enter your subheadline"
+msgstr "Saisissez votre sous&#45;titre"
+
+#: core/includes/theme-options.php
+msgid "Content Area"
+msgstr "Zone Contenu"
+
+#: core/includes/theme-options.php
+msgid "Enter your content"
+msgstr "Saisissez votre contenu"
+
+#: core/includes/theme-options.php
+msgid "Call to Action (URL)"
+msgstr "Appel &#224; Action (URL)"
+
+#: core/includes/theme-options.php
+msgid "Enter your call to action URL"
+msgstr "Saisissez votre lien pour l&#39;Appel &#224; Action"
+
+#: core/includes/theme-options.php
+msgid "Call to Action (Text)"
+msgstr "Appel &#224; Action (Texte)"
+
+#: core/includes/theme-options.php
+msgid "Enter your call to action text"
+msgstr "Saisissez votre texte pour l&#39;Appel &#224; Action"
+
+#: core/includes/theme-options.php
+msgid "Featured Content"
+msgstr "Contenu mis en Vedette"
+
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+msgid "See Docs"
+msgstr "Voir la Documentation"
+
+#: core/includes/theme-options.php
+msgid "Paste your shortcode, video or image source"
+msgstr "Collez ici votre shortcode, votre html pour l'image ou la video"
+
+#: core/includes/theme-options.php
+msgid "Default Layouts"
+msgstr "Défaut"
+
+#: core/includes/theme-options.php
+msgid "Default Static Page Layout"
+msgstr "Mise en Page Statique par défaut."
+
+#: core/includes/theme-options.php
+msgid "Default Single Blog Post Layout"
+msgstr "Mise en Page Simple Blog par défaut"
+
+#: core/includes/theme-options.php
+msgid "Default Blog Posts Index Layout"
+msgstr "Mise en Page Articles par défaut."
+
+#: core/includes/theme-options.php
+msgid "Webmaster Tools"
+msgstr "Outils Webmaster"
+
+#: core/includes/theme-options.php
+msgid "Google Site Verification"
+msgstr "V&#233;rification Google Site"
+
+#: core/includes/theme-options.php
+msgid "Enter your Google ID number only"
+msgstr "Saisissez votre identifiant Google (chiffres uniquement)"
+
+#: core/includes/theme-options.php
+msgid "Bing Site Verification"
+msgstr "V&#233;rification Bing"
+
+#: core/includes/theme-options.php
+msgid "Enter your Bing ID number only"
+msgstr "Saisissez votre identifiant Bing (chiffres uniquement)"
+
+#: core/includes/theme-options.php
+msgid "Yahoo Site Verification"
+msgstr "V&#233;rification du Site avec Yahoo"
+
+#: core/includes/theme-options.php
+msgid "Enter your Yahoo ID number only"
+msgstr "Saisissez votre identifiant Yahoo (chiffres uniquement)"
+
+#: core/includes/theme-options.php
+msgid "Site Statistics Tracker"
+msgstr "Code de Tracking pour les statistiques du site"
+
+#: core/includes/theme-options.php
+msgid "Leave blank if plugin handles your webmaster tools"
+msgstr "Laisser vide si des plugins assurent d&#233;jà ces fonctions"
+
+#: core/includes/theme-options.php
+msgid "Google Analytics, StatCounter, any other or all of them."
+msgstr "Google Analytics, Compteurs, Trackeurs, et autre ..."
+
+#: core/includes/theme-options.php
+msgid "Social Icons"
+msgstr "R&#233;seaux Sociaux"
+
+#: core/includes/theme-options.php
+msgid "Twitter"
+msgstr "Twitter"
+
+#: core/includes/theme-options.php
+msgid "Enter your Twitter URL"
+msgstr "Saisissez l&#39;url Twitter"
+
+#: core/includes/theme-options.php
+msgid "Facebook"
+msgstr "Facebook"
+
+#: core/includes/theme-options.php
+msgid "Enter your Facebook URL"
+msgstr "Saisissez l&#39;url Facebook"
+
+#: core/includes/theme-options.php
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: core/includes/theme-options.php
+msgid "Enter your LinkedIn URL"
+msgstr "Saisissez l&#39;url Linkedin"
+
+#: core/includes/theme-options.php
+msgid "YouTube"
+msgstr "YouTube"
+
+#: core/includes/theme-options.php
+msgid "Enter your YouTube URL"
+msgstr "Saisissez l&#39;url Youtube"
+
+#: core/includes/theme-options.php
+msgid "StumbleUpon"
+msgstr "StumbleUpon"
+
+#: core/includes/theme-options.php
+msgid "Enter your StumbleUpon URL"
+msgstr "Saisissez l&#39;url StumbleUpon"
+
+#: core/includes/theme-options.php
+msgid "RSS Feed"
+msgstr "Flux RSS"
+
+#: core/includes/theme-options.php
+msgid "Enter your RSS Feed URL"
+msgstr "Saisissez l&#39;url du Flux RSS"
+
+#: core/includes/theme-options.php
+msgid "Google+"
+msgstr "Google&#43;"
+
+#: core/includes/theme-options.php
+msgid "Enter your Google+ URL"
+msgstr "Saisissez l&#39;url Google&#43;"
+
+#: core/includes/theme-options.php
+msgid "Instagram"
+msgstr ""
+
+#: core/includes/theme-options.php
+msgid "Enter your Instagram URL"
+msgstr "Saisissez l&#39;url Instagram"
+
+#: core/includes/theme-options.php
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: core/includes/theme-options.php
+msgid "Enter your Pinterest URL"
+msgstr "Saisissez l&#39;url Pinterest"
+
+#: core/includes/theme-options.php
+msgid "Yelp!"
+msgstr "A l&apos;Aide !"
+
+#: core/includes/theme-options.php
+msgid "Enter your Yelp! URL"
+msgstr "saisissez votre lien d&apos;assistance"
+
+#: core/includes/theme-options.php
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: core/includes/theme-options.php
+msgid "Enter your Vimeo URL"
+msgstr "Saisissez votre lien Vimeo"
+
+#: core/includes/theme-options.php
+msgid "foursquare"
+msgstr ""
+
+#: core/includes/theme-options.php
+msgid "Enter your foursquare URL"
+msgstr "Saisissez votre lien Foursquare"
+
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+msgid "Custom CSS Styles"
+msgstr "CSS personnalis&#233;"
+
+#: core/includes/theme-options.php
+msgid "https://developer.mozilla.org/en/CSS"
+msgstr "https://developer.mozilla.org/fr/CSS"
+
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+msgid "CSS Tutorial"
+msgstr "Tutoriel CSS"
+
+#: core/includes/theme-options.php
+msgid "Enter your custom CSS styles."
+msgstr "Saisissez vos CSS personnalis&#233;s."
+
+#: core/includes/theme-options.php
+msgid "Custom Scripts"
+msgstr "Scripts personnalisés"
+
+#: core/includes/theme-options.php
+msgid "Custom Scripts for Header and Footer"
+msgstr "Scripts personnalisés pour l'entête et le pied de page"
+
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+msgid "Quick Tutorial"
+msgstr "Tutoriel succinst"
+
+#: core/includes/theme-options.php
+msgid "Embeds to header.php &darr;"
+msgstr "Inclus dans header.php &darr;"
+
+#: core/includes/theme-options.php
+msgid "Enter your custom header script."
+msgstr "Saisissez ici le script personnalisé pour l'entête"
+
+#: core/includes/theme-options.php
+msgid "Embeds to footer.php &darr;"
+msgstr "Inclus dans footer.php &darr;"
+
+#: core/includes/theme-options.php
+msgid "Enter your custom footer script."
+msgstr "Saisissez ici le script personnalisé pour le pied de page"
+
+#: core/includes/theme-options.php
+msgid "Enable Custom Front Page"
+msgstr ""
+
+#: core/includes/functions.php
+#: core/includes/functions.php
+msgid "Help"
+msgstr ""
+
+#: core/includes/functions.php
+#: core/includes/functions.php
+msgid "Instructions"
+msgstr ""
+
+#: core/includes/theme-options.php
+msgid "Overrides the WordPress %1sfront page option%2s"
+msgstr ""
+
+#: core/includes/functions.php
+#: core/includes/functions.php
+msgid "Translate"
+msgstr ""
+
+#: core/includes/functions.php
+#. Welcome to Responsive! Upgrade to Responsive Pro today.
+# INSTRUCTION: Welcome to Responsive! Upgrade to Responsive Pro today.
+msgid "Welcome to %1$s! Upgrade to %2$s today."
+msgstr ""
+

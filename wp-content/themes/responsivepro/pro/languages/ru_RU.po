@@ -1,0 +1,523 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Responsive Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-06-13 12:03:13 UTC\n"
+"PO-Revision-Date: 2014-01-20 17:27:17 UTC\n"
+"Last-Translator: Web Translate It <support@webtranslateit.com>\n"
+"Language-Team: Russian, Russia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: WebTranslateIt.com\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+
+#: options/options-customizer.php
+msgid "Hello, World!"
+msgstr "privet-mir"
+
+#: options/options-customizer.php
+msgid "Your H2 subheadline here"
+msgstr "Ваш &#060;H2&#062; подзаголовок"
+
+#: options/options-customizer.php
+msgid "Your title, subtitle and this very content is editable from Theme Option. Call to Action button and its destination link as well. Image on your right can be an image or even YouTube video if you like."
+msgstr "Ваш заголовок, подзаголовок и это содержание можно отредактировать в Параметрах темы. А также, кнопку призыва к действию и ссылку его назначения. Справа от Вас может быть изображение или при желании, видео с YouTube."
+
+#: functions.php
+msgid "No Comments &darr;"
+msgstr "Комментариев нет &#8681;"
+
+#: functions.php
+msgid "1 Comment &darr;"
+msgstr "1 комментарий &#8681;"
+
+#: functions.php
+msgid "% Comments &darr;"
+msgstr "Комментариев: % &#8681;"
+
+#: functions.php
+msgid "View all posts by %s"
+msgstr "Посмотреть все сообщения от %s"
+
+#: functions.php
+#: functions.php
+msgid "Instructions"
+msgstr "Инструкции"
+
+#: functions.php
+#: functions.php
+msgid "Help"
+msgstr "Помощь"
+
+#: functions.php
+#: functions.php
+msgid "Translate"
+msgstr "Переводи"
+
+#: functions.php
+#: functions.php
+msgid "Showcase"
+msgstr "Витрина"
+
+#: functions.php
+#: functions.php
+msgid "More Themes"
+msgstr "Другие темы"
+
+#: options/options-customizer.php
+#: options/options-customizer.php
+#: options/options-customizer.php
+msgid "Content/Sidebar"
+msgstr "Публикации/Сайдбар"
+
+#: options/options-customizer.php
+#: options/options-customizer.php
+#: options/options-customizer.php
+msgid "Sidebar/Content"
+msgstr "Сайдбар/Публикации"
+
+#: options/options-customizer.php
+#: options/options-customizer.php
+#: options/options-customizer.php
+msgid "Content/Sidebar Half Page"
+msgstr "Публикации/Сайдбар в полстраницы"
+
+#: options/options-customizer.php
+#: options/options-customizer.php
+#: options/options-customizer.php
+msgid "Sidebar/Content Half Page"
+msgstr "Сайдбар/Публикации в полстраницы"
+
+#: options/options-customizer.php
+#: options/options-customizer.php
+#: options/options-customizer.php
+msgid "Full Width Page (no sidebar)"
+msgstr "Страница в полную ширину (без сайдбара)"
+
+#: options/options-customizer.php
+msgid "Default"
+msgstr "Станд."
+
+#: options/options.php
+msgid "Disable Call to Action Button?"
+msgstr "Отключить кнопку Призыв к действию?"
+
+#: options/options-customizer.php
+#: options/options-customizer.php
+msgid "Logo Upload"
+msgstr "Загрузка логотипа"
+
+#: options/options.php
+msgid "Home Page"
+msgstr "веб-сайт"
+
+#: options/options-customizer.php
+msgid "Headline"
+msgstr "Заголовок"
+
+#: options/options-customizer.php
+msgid "Subheadline"
+msgstr "Подзаголовок"
+
+#: options/options-customizer.php
+msgid "Call to Action (URL)"
+msgstr "Призыв к действию (URL адрес)"
+
+#: options/options-customizer.php
+msgid "Enter your call to action URL"
+msgstr "Введите свой URL адрес призыва к действию"
+
+#: options/options-customizer.php
+msgid "Call to Action (Text)"
+msgstr "Привыв к действию (Текст)"
+
+#: options/options-customizer.php
+msgid "Enter your call to action text"
+msgstr "Введите свой текст призыва к действию"
+
+#: options/options-customizer.php
+msgid "Featured Content"
+msgstr "Популярные публикации"
+
+#: options/options-customizer.php
+msgid "Paste your shortcode, video or image source"
+msgstr "Вставьте свой шорткод, источник на видео или изображение"
+
+#: options/options-customizer.php
+msgid "Default Layouts"
+msgstr "Макеты по умолчанию"
+
+#: options/options-customizer.php
+#: options/options.php
+msgid "Default Static Page Layout"
+msgstr "Макет статической страницы по умолчанию"
+
+#: options/options-customizer.php
+#: options/options.php
+msgid "Default Single Blog Post Layout"
+msgstr "Макет одной статьи блога по умолчанию"
+
+#: options/options-customizer.php
+#: options/options.php
+msgid "Default Blog Posts Index Layout"
+msgstr "Макет главной статьи блога по умолчанию"
+
+#: options/options.php
+msgid "Social Icons"
+msgstr "Социальная иконки"
+
+#: functions.php
+msgid " by "
+msgstr "-"
+
+#: functions.php
+msgid "Posted in"
+msgstr "Опубликовано в"
+
+#: functions.php
+msgid "Tags:"
+msgstr "теги"
+
+#: functions.php
+msgid "Permalink to %s"
+msgstr "Постоянная ссылка на %s"
+
+#: functions.php
+msgid "Responsive Pro Options"
+msgstr "Чутко Pro опции"
+
+#: options/options-customizer.php
+msgid "Customize"
+msgstr "Настроить"
+
+#: options/options-customizer.php
+msgid "Skins"
+msgstr "Оболочки"
+
+#: options/options-customizer.php
+msgid "Skin Color"
+msgstr "Цвет кожи"
+
+#: options/options-customizer.php
+msgid "Typography"
+msgstr "Типография"
+
+#: options/options-customizer.php
+msgid "Heading Font"
+msgstr "Шрифт заголовка"
+
+#: options/options-customizer.php
+msgid "Google Heading Font"
+msgstr "Google шрифт заголовка"
+
+#: options/options-customizer.php
+msgid "Text Font"
+msgstr "Шрифт текста"
+
+#: options/options-customizer.php
+msgid "Google Text Font"
+msgstr "Шрифт текста Google"
+
+#: options/options-customizer.php
+msgid "Font Size"
+msgstr "Размер шрифта"
+
+#: options/options-customizer.php
+msgid "Headings Color"
+msgstr "Цвет заголовков"
+
+#: options/options-customizer.php
+msgid "Text Color"
+msgstr "Цвет текста"
+
+#: options/options-customizer.php
+msgid "Link Color"
+msgstr "Цвет ссылок"
+
+#: options/options-customizer.php
+msgid "Link Hover Color"
+msgstr "Цвет ссылок при наведении"
+
+#: options/options-customizer.php
+msgid "Enable custom front page"
+msgstr "Включение пользовательской главной странице"
+
+#: options/options-customizer.php
+msgid "Content"
+msgstr "Текст"
+
+#: options/options.php
+msgid "Personalize"
+msgstr "Персонализация"
+
+#: options/options.php
+msgid "Favicon"
+msgstr "Значок"
+
+#: options/options.php
+msgid "maximum width and height 32px"
+msgstr "Максимальная ширина и высота 32px"
+
+#: options/options.php
+#: options/options.php
+msgid "Upload"
+msgstr "Файл"
+
+#: options/options.php
+msgid "Apple Touch Icon"
+msgstr "Touch значок Apple"
+
+#: options/options.php
+msgid "Custom mobile menu title"
+msgstr "Название пользовательских мобильных меню"
+
+#: options/options.php
+msgid "Enter a custom mobile menu title"
+msgstr "Введите название меню пользователя мобильных"
+
+#: options/options.php
+msgid "Templates"
+msgstr "Шаблоны"
+
+#: options/options.php
+msgid "Excerpt Text"
+msgstr "Отрывок текста"
+
+#: options/options.php
+msgid "Read More..."
+msgstr "Подробнее..."
+
+#: options/options.php
+msgid "Excerpt Length"
+msgstr "Длина выдержки"
+
+#: options/options.php
+msgid "50"
+msgstr "50"
+
+#: options/options.php
+#: options/options.php
+#: options/options.php
+msgid "Post Excerpts"
+msgstr "После выдержки"
+
+#: options/options.php
+#: options/options.php
+#: options/options.php
+msgid "Featured Images"
+msgstr "Популярные изображения"
+
+#: options/options.php
+#: options/options.php
+#: options/options.php
+msgid "Post Byline Author"
+msgstr "Пост Byline автора"
+
+#: options/options.php
+#: options/options.php
+#: options/options.php
+msgid "Post Byline Categories"
+msgstr "Пост Byline категории"
+
+#: options/options.php
+#: options/options.php
+#: options/options.php
+msgid "Post Byline Date"
+msgstr "Дата подписи автора"
+
+#: options/options.php
+#: options/options.php
+#: options/options.php
+msgid "Post Byline Comments"
+msgstr "Почтовые автор сообщения комментарии"
+
+#: options/options.php
+#: options/options.php
+#: options/options.php
+msgid "Post Byline Tags"
+msgstr "Пост Byline Теги"
+
+#: options/options.php
+msgid "404 Title"
+msgstr "404 Название"
+
+#: options/options.php
+msgid "404 Content"
+msgstr "404 Содержание"
+
+#: options/options.php
+msgid "Scripts"
+msgstr "Скрипты"
+
+#: options/options.php
+msgid "Plugins"
+msgstr "Плагины"
+
+#: options/options.php
+msgid "Please activate The Events Calendar plugin"
+msgstr "Пожалуйста, активируйте плагин календарь событий"
+
+#: options/options.php
+msgid "Install Events Calendar Plugin"
+msgstr "Установить плагин календарь событий"
+
+#: options/options.php
+msgid "WooCommerce Settings"
+msgstr "WooCommerce параметры"
+
+#: options/options.php
+msgid "Please activate WooCommerce plugin"
+msgstr "Пожалуйста, активируйте плагин WooCommerce"
+
+#: options/options.php
+msgid "Install WooCommerce Plugin"
+msgstr "Установить плагин WooCommerce"
+
+#: options/options.php
+msgid "BBPress Settings"
+msgstr "BBPress параметры"
+
+#: options/options.php
+msgid "Please activate BBPress plugin"
+msgstr "Пожалуйста, активируйте плагин BBPress"
+
+#: options/options.php
+msgid "Install BBPress Plugin"
+msgstr "Установить BBPress плагин"
+
+#: options/options.php
+msgid "Digital Downloads Settings"
+msgstr "Цифровые загрузки настройки"
+
+#: options/options.php
+msgid "Please activate Easy Digital Downloads plugin"
+msgstr "Пожалуйста, активируйте плагин легко цифровые загрузки"
+
+#: options/options.php
+msgid "Install Easy Digital Downloads Plugin"
+msgstr "Установить плагин легко цифровых Скачиваний"
+
+#: options/options.php
+msgid "404 Error"
+msgstr ""
+
+#: options/options.php
+msgid "404 Page:"
+msgstr ""
+
+#: options/options.php
+msgid "Archive page:"
+msgstr ""
+
+#: options/options.php
+msgid "Blog"
+msgstr ""
+
+#: options/options.php
+msgid "Blog Post Page:"
+msgstr ""
+
+#: options/options.php
+msgid "Blog Title Toggle"
+msgstr ""
+
+#: options/options.php
+#: options/options.php
+msgid "check to disable"
+msgstr ""
+
+#: options/options.php
+msgid "CSS Styles"
+msgstr ""
+
+#: options/options-customizer.php
+#: options/options-customizer.php
+msgid "Custom CSS"
+msgstr ""
+
+#: options/options.php
+msgid "Disable breadcrumb list?"
+msgstr ""
+
+#: options/options-customizer.php
+msgid "Enable Menu Background gradient"
+msgstr ""
+
+#: options/options-customizer.php
+#: options/options-customizer.php
+msgid "Enter the Google Font name"
+msgstr ""
+
+#: options/options.php
+msgid "Events Plugin Settings"
+msgstr ""
+
+#: options/options-customizer.php
+msgid "Featured Area Layouts"
+msgstr ""
+
+#: options/options-customizer.php
+msgid "Full Width"
+msgstr ""
+
+#: options/options-customizer.php
+msgid "Full Width Reverse"
+msgstr ""
+
+#: options/options-customizer.php
+msgid "Menu Background Color"
+msgstr ""
+
+#: options/options-customizer.php
+msgid "Menu Background Color 2"
+msgstr ""
+
+#: options/options-customizer.php
+msgid "Menu Colors"
+msgstr ""
+
+#: options/options-customizer.php
+msgid "Menu Hover Color"
+msgstr ""
+
+#: options/options-customizer.php
+msgid "Menu Hover Text Color"
+msgstr ""
+
+#: options/options-customizer.php
+msgid "Menu Item Color"
+msgstr ""
+
+#: options/options-customizer.php
+msgid "Menu Text Color"
+msgstr ""
+
+#: options/options.php
+msgid "Page:"
+msgstr ""
+
+#: options/options-customizer.php
+msgid "Reverse"
+msgstr ""
+
+#: options/options.php
+msgid "Search Page:"
+msgstr ""
+
+#: options/options.php
+msgid "Single post page:"
+msgstr ""
+
+#: options/options.php
+msgid "Sorry, no content found"
+msgstr ""
+
+#: functions.php
+msgid "<span class=\"%1$s\">Posted on </span>%2$s"
+msgstr ""
+
+#: options/options.php
+msgid "Title Text"
+msgstr ""
+

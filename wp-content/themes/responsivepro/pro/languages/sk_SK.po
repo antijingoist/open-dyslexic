@@ -1,0 +1,523 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Responsive Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-06-13 12:03:13 UTC\n"
+"PO-Revision-Date: 2014-01-20 17:27:17 UTC\n"
+"Last-Translator: Web Translate It <support@webtranslateit.com>\n"
+"Language-Team: Slovak, Slovakia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: WebTranslateIt.com\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : (n >= 2 && n <= 4) ? 1 : 2;\n"
+
+#: options/options-customizer.php
+msgid "Hello, World!"
+msgstr "Ahoj, svet!"
+
+#: options/options-customizer.php
+msgid "Your H2 subheadline here"
+msgstr "Tvoj H2 nadpis"
+
+#: options/options-customizer.php
+msgid "Your title, subtitle and this very content is editable from Theme Option. Call to Action button and its destination link as well. Image on your right can be an image or even YouTube video if you like."
+msgstr "Titulok, vedľajší titulok a obsah upravíte v Nastaveniach témy. Rovnako aj text a URL akčného tlačítka. Obrázok vpravo môže byť obrázok, alebo aj YouTube video."
+
+#: functions.php
+msgid "No Comments &darr;"
+msgstr "Žiadne komentáre &darr;"
+
+#: functions.php
+msgid "1 Comment &darr;"
+msgstr "1 komentár &darr;"
+
+#: functions.php
+msgid "% Comments &darr;"
+msgstr "% komentáre &darr;"
+
+#: functions.php
+msgid "View all posts by %s"
+msgstr "Zobraziť všetky články autora %s"
+
+#: functions.php
+#: functions.php
+msgid "Instructions"
+msgstr ""
+
+#: functions.php
+#: functions.php
+msgid "Help"
+msgstr "Pomoc"
+
+#: functions.php
+#: functions.php
+msgid "Translate"
+msgstr "Preložiť"
+
+#: functions.php
+#: functions.php
+msgid "Showcase"
+msgstr "Prehliadka"
+
+#: functions.php
+#: functions.php
+msgid "More Themes"
+msgstr "Ďalšie témy"
+
+#: options/options-customizer.php
+#: options/options-customizer.php
+#: options/options-customizer.php
+msgid "Content/Sidebar"
+msgstr ""
+
+#: options/options-customizer.php
+#: options/options-customizer.php
+#: options/options-customizer.php
+msgid "Sidebar/Content"
+msgstr ""
+
+#: options/options-customizer.php
+#: options/options-customizer.php
+#: options/options-customizer.php
+msgid "Content/Sidebar Half Page"
+msgstr ""
+
+#: options/options-customizer.php
+#: options/options-customizer.php
+#: options/options-customizer.php
+msgid "Sidebar/Content Half Page"
+msgstr ""
+
+#: options/options-customizer.php
+#: options/options-customizer.php
+#: options/options-customizer.php
+msgid "Full Width Page (no sidebar)"
+msgstr ""
+
+#: options/options-customizer.php
+msgid "Default"
+msgstr "Štandard"
+
+#: options/options.php
+msgid "Disable Call to Action Button?"
+msgstr "Zablokovať Akčné tlačítko"
+
+#: options/options-customizer.php
+#: options/options-customizer.php
+msgid "Logo Upload"
+msgstr "Nahrať logo"
+
+#: options/options.php
+msgid "Home Page"
+msgstr "Hlavná stránka"
+
+#: options/options-customizer.php
+msgid "Headline"
+msgstr "Titulka"
+
+#: options/options-customizer.php
+msgid "Subheadline"
+msgstr "Vedľajší titulok"
+
+#: options/options-customizer.php
+msgid "Call to Action (URL)"
+msgstr "Akčné tlačítko (URL)"
+
+#: options/options-customizer.php
+msgid "Enter your call to action URL"
+msgstr "Zadajte URL pre akčné tlačítko"
+
+#: options/options-customizer.php
+msgid "Call to Action (Text)"
+msgstr "Text pre akčné tlačítko"
+
+#: options/options-customizer.php
+msgid "Enter your call to action text"
+msgstr "Zadajte text pre akčné tlačítko"
+
+#: options/options-customizer.php
+msgid "Featured Content"
+msgstr "Zvýraznený obsah"
+
+#: options/options-customizer.php
+msgid "Paste your shortcode, video or image source"
+msgstr "Zadajte zdroj obrázka alebo videa"
+
+#: options/options-customizer.php
+msgid "Default Layouts"
+msgstr "Predvolené šablóny"
+
+#: options/options-customizer.php
+#: options/options.php
+msgid "Default Static Page Layout"
+msgstr "Predvolená statická šablóna stránky"
+
+#: options/options-customizer.php
+#: options/options.php
+msgid "Default Single Blog Post Layout"
+msgstr ""
+
+#: options/options-customizer.php
+#: options/options.php
+msgid "Default Blog Posts Index Layout"
+msgstr ""
+
+#: options/options.php
+msgid "Social Icons"
+msgstr "Ikony sociálnych sietí"
+
+#: functions.php
+msgid " by "
+msgstr "od"
+
+#: functions.php
+msgid "Posted in"
+msgstr ""
+
+#: functions.php
+msgid "Tags:"
+msgstr ""
+
+#: functions.php
+msgid "Permalink to %s"
+msgstr ""
+
+#: functions.php
+msgid "Responsive Pro Options"
+msgstr "Citlivý pre možnosti"
+
+#: options/options-customizer.php
+msgid "Customize"
+msgstr "Prispôsobiť"
+
+#: options/options-customizer.php
+msgid "Skins"
+msgstr "Vzhľad"
+
+#: options/options-customizer.php
+msgid "Skin Color"
+msgstr ""
+
+#: options/options-customizer.php
+msgid "Typography"
+msgstr ""
+
+#: options/options-customizer.php
+msgid "Heading Font"
+msgstr "Písmo nadpisu"
+
+#: options/options-customizer.php
+msgid "Google Heading Font"
+msgstr "Písmo nadpisu Google"
+
+#: options/options-customizer.php
+msgid "Text Font"
+msgstr "Písmo textu"
+
+#: options/options-customizer.php
+msgid "Google Text Font"
+msgstr "Google písma"
+
+#: options/options-customizer.php
+msgid "Font Size"
+msgstr "Veľkosť písma"
+
+#: options/options-customizer.php
+msgid "Headings Color"
+msgstr "Nadpisy farba"
+
+#: options/options-customizer.php
+msgid "Text Color"
+msgstr ""
+
+#: options/options-customizer.php
+msgid "Link Color"
+msgstr ""
+
+#: options/options-customizer.php
+msgid "Link Hover Color"
+msgstr ""
+
+#: options/options-customizer.php
+msgid "Enable custom front page"
+msgstr "Povoliť vlastné prednej strane"
+
+#: options/options-customizer.php
+msgid "Content"
+msgstr "Obsah"
+
+#: options/options.php
+msgid "Personalize"
+msgstr "Prispôsobiť"
+
+#: options/options.php
+msgid "Favicon"
+msgstr "Favicon"
+
+#: options/options.php
+msgid "maximum width and height 32px"
+msgstr "maximálna šírka a výška 32px"
+
+#: options/options.php
+#: options/options.php
+msgid "Upload"
+msgstr ""
+
+#: options/options.php
+msgid "Apple Touch Icon"
+msgstr "Apple Touch ikona"
+
+#: options/options.php
+msgid "Custom mobile menu title"
+msgstr "Názov vlastného mobilný ponuky"
+
+#: options/options.php
+msgid "Enter a custom mobile menu title"
+msgstr "Zadajte názov vlastnej mobilný ponuky"
+
+#: options/options.php
+msgid "Templates"
+msgstr ""
+
+#: options/options.php
+msgid "Excerpt Text"
+msgstr "Výňatok textu"
+
+#: options/options.php
+msgid "Read More..."
+msgstr "Prečítajte si viac..."
+
+#: options/options.php
+msgid "Excerpt Length"
+msgstr ""
+
+#: options/options.php
+msgid "50"
+msgstr "50"
+
+#: options/options.php
+#: options/options.php
+#: options/options.php
+msgid "Post Excerpts"
+msgstr ""
+
+#: options/options.php
+#: options/options.php
+#: options/options.php
+msgid "Featured Images"
+msgstr ""
+
+#: options/options.php
+#: options/options.php
+#: options/options.php
+msgid "Post Byline Author"
+msgstr ""
+
+#: options/options.php
+#: options/options.php
+#: options/options.php
+msgid "Post Byline Categories"
+msgstr ""
+
+#: options/options.php
+#: options/options.php
+#: options/options.php
+msgid "Post Byline Date"
+msgstr ""
+
+#: options/options.php
+#: options/options.php
+#: options/options.php
+msgid "Post Byline Comments"
+msgstr ""
+
+#: options/options.php
+#: options/options.php
+#: options/options.php
+msgid "Post Byline Tags"
+msgstr ""
+
+#: options/options.php
+msgid "404 Title"
+msgstr "404 Titul"
+
+#: options/options.php
+msgid "404 Content"
+msgstr "404 Obsah"
+
+#: options/options.php
+msgid "Scripts"
+msgstr "Skripty"
+
+#: options/options.php
+msgid "Plugins"
+msgstr "Prídavné moduly"
+
+#: options/options.php
+msgid "Please activate The Events Calendar plugin"
+msgstr ""
+
+#: options/options.php
+msgid "Install Events Calendar Plugin"
+msgstr ""
+
+#: options/options.php
+msgid "WooCommerce Settings"
+msgstr "WooCommerce nastavenia"
+
+#: options/options.php
+msgid "Please activate WooCommerce plugin"
+msgstr "Aktivujte WooCommerce plugin"
+
+#: options/options.php
+msgid "Install WooCommerce Plugin"
+msgstr "Nainštalovať WooCommerce Plugin"
+
+#: options/options.php
+msgid "BBPress Settings"
+msgstr "BBPress nastavenia"
+
+#: options/options.php
+msgid "Please activate BBPress plugin"
+msgstr "Aktivujte BBPress plugin"
+
+#: options/options.php
+msgid "Install BBPress Plugin"
+msgstr "Nainštalovať BBPress Plugin"
+
+#: options/options.php
+msgid "Digital Downloads Settings"
+msgstr "Digitálne sťahovanie nastavenia"
+
+#: options/options.php
+msgid "Please activate Easy Digital Downloads plugin"
+msgstr "Aktivujte plugin jednoduchý digitálny stiahnutie"
+
+#: options/options.php
+msgid "Install Easy Digital Downloads Plugin"
+msgstr "Nainštalovať jednoduché digitálne stiahnutie Plugin"
+
+#: options/options.php
+msgid "404 Error"
+msgstr ""
+
+#: options/options.php
+msgid "404 Page:"
+msgstr ""
+
+#: options/options.php
+msgid "Archive page:"
+msgstr ""
+
+#: options/options.php
+msgid "Blog"
+msgstr ""
+
+#: options/options.php
+msgid "Blog Post Page:"
+msgstr ""
+
+#: options/options.php
+msgid "Blog Title Toggle"
+msgstr ""
+
+#: options/options.php
+#: options/options.php
+msgid "check to disable"
+msgstr ""
+
+#: options/options.php
+msgid "CSS Styles"
+msgstr ""
+
+#: options/options-customizer.php
+#: options/options-customizer.php
+msgid "Custom CSS"
+msgstr ""
+
+#: options/options.php
+msgid "Disable breadcrumb list?"
+msgstr ""
+
+#: options/options-customizer.php
+msgid "Enable Menu Background gradient"
+msgstr ""
+
+#: options/options-customizer.php
+#: options/options-customizer.php
+msgid "Enter the Google Font name"
+msgstr ""
+
+#: options/options.php
+msgid "Events Plugin Settings"
+msgstr ""
+
+#: options/options-customizer.php
+msgid "Featured Area Layouts"
+msgstr ""
+
+#: options/options-customizer.php
+msgid "Full Width"
+msgstr ""
+
+#: options/options-customizer.php
+msgid "Full Width Reverse"
+msgstr ""
+
+#: options/options-customizer.php
+msgid "Menu Background Color"
+msgstr ""
+
+#: options/options-customizer.php
+msgid "Menu Background Color 2"
+msgstr ""
+
+#: options/options-customizer.php
+msgid "Menu Colors"
+msgstr ""
+
+#: options/options-customizer.php
+msgid "Menu Hover Color"
+msgstr ""
+
+#: options/options-customizer.php
+msgid "Menu Hover Text Color"
+msgstr ""
+
+#: options/options-customizer.php
+msgid "Menu Item Color"
+msgstr ""
+
+#: options/options-customizer.php
+msgid "Menu Text Color"
+msgstr ""
+
+#: options/options.php
+msgid "Page:"
+msgstr ""
+
+#: options/options-customizer.php
+msgid "Reverse"
+msgstr ""
+
+#: options/options.php
+msgid "Search Page:"
+msgstr ""
+
+#: options/options.php
+msgid "Single post page:"
+msgstr ""
+
+#: options/options.php
+msgid "Sorry, no content found"
+msgstr ""
+
+#: functions.php
+msgid "<span class=\"%1$s\">Posted on </span>%2$s"
+msgstr ""
+
+#: options/options.php
+msgid "Title Text"
+msgstr ""
+

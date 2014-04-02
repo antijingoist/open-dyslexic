@@ -1,0 +1,523 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Responsive Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-06-13 12:03:13 UTC\n"
+"PO-Revision-Date: 2014-01-20 17:27:21 UTC\n"
+"Last-Translator: Web Translate It <support@webtranslateit.com>\n"
+"Language-Team: Hindi, India\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: WebTranslateIt.com\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+
+#: options/options-customizer.php
+msgid "Hello, World!"
+msgstr "सबको नमस्कार"
+
+#: options/options-customizer.php
+msgid "Your H2 subheadline here"
+msgstr "आपका H2 उपशीर्षक यहाँ है"
+
+#: options/options-customizer.php
+msgid "Your title, subtitle and this very content is editable from Theme Option. Call to Action button and its destination link as well. Image on your right can be an image or even YouTube video if you like."
+msgstr "आपका शीर्षक, उपशीर्षक,क्रिया बटन, URL और यह सामग्री थीम विकल्प से परिवर्तन योग्य है। दायी छवि के स्थान को आप किसी भी छवि या You Tube Video से बदल सकते है ।"
+
+#: functions.php
+msgid "No Comments &darr;"
+msgstr "कोई टिप्पणी नहीं &darr;"
+
+#: functions.php
+msgid "1 Comment &darr;"
+msgstr "1 टिप्पणी &darr;"
+
+#: functions.php
+msgid "% Comments &darr;"
+msgstr "% टिप्पणी &darr;"
+
+#: functions.php
+msgid "View all posts by %s"
+msgstr "सभी चिठ्ठीरसां या पोस्ट देखे %s"
+
+#: functions.php
+#: functions.php
+msgid "Instructions"
+msgstr "निर्देश"
+
+#: functions.php
+#: functions.php
+msgid "Help"
+msgstr "मदद"
+
+#: functions.php
+#: functions.php
+msgid "Translate"
+msgstr "अनुवाद करना"
+
+#: functions.php
+#: functions.php
+msgid "Showcase"
+msgstr "प्रदर्शन"
+
+#: functions.php
+#: functions.php
+msgid "More Themes"
+msgstr "और Theme"
+
+#: options/options-customizer.php
+#: options/options-customizer.php
+#: options/options-customizer.php
+msgid "Content/Sidebar"
+msgstr ""
+
+#: options/options-customizer.php
+#: options/options-customizer.php
+#: options/options-customizer.php
+msgid "Sidebar/Content"
+msgstr ""
+
+#: options/options-customizer.php
+#: options/options-customizer.php
+#: options/options-customizer.php
+msgid "Content/Sidebar Half Page"
+msgstr ""
+
+#: options/options-customizer.php
+#: options/options-customizer.php
+#: options/options-customizer.php
+msgid "Sidebar/Content Half Page"
+msgstr ""
+
+#: options/options-customizer.php
+#: options/options-customizer.php
+#: options/options-customizer.php
+msgid "Full Width Page (no sidebar)"
+msgstr ""
+
+#: options/options-customizer.php
+msgid "Default"
+msgstr "मूलभूत"
+
+#: options/options.php
+msgid "Disable Call to Action Button?"
+msgstr "क्रिया बटन को निष्क्रिय करे"
+
+#: options/options-customizer.php
+#: options/options-customizer.php
+msgid "Logo Upload"
+msgstr "लोगो अपलोड करे"
+
+#: options/options.php
+msgid "Home Page"
+msgstr "गृह या होम पृष्ठ"
+
+#: options/options-customizer.php
+msgid "Headline"
+msgstr "शीर्षक"
+
+#: options/options-customizer.php
+msgid "Subheadline"
+msgstr "उप-शीर्षक"
+
+#: options/options-customizer.php
+msgid "Call to Action (URL)"
+msgstr "क्रिया-बटन (URL)"
+
+#: options/options-customizer.php
+msgid "Enter your call to action URL"
+msgstr "यहाँ क्रिया-बटन (URL) दीजिये"
+
+#: options/options-customizer.php
+msgid "Call to Action (Text)"
+msgstr "क्रिया-बटन (मूलशब्द)"
+
+#: options/options-customizer.php
+msgid "Enter your call to action text"
+msgstr "यहाँ क्रिया-बटन (मूलशब्द) लिखिए"
+
+#: options/options-customizer.php
+msgid "Featured Content"
+msgstr "प्रधान सामग्री"
+
+#: options/options-customizer.php
+msgid "Paste your shortcode, video or image source"
+msgstr "कृप्या अपना shortcode, video या छवि यहाँ लिखे"
+
+#: options/options-customizer.php
+msgid "Default Layouts"
+msgstr ""
+
+#: options/options-customizer.php
+#: options/options.php
+msgid "Default Static Page Layout"
+msgstr ""
+
+#: options/options-customizer.php
+#: options/options.php
+msgid "Default Single Blog Post Layout"
+msgstr ""
+
+#: options/options-customizer.php
+#: options/options.php
+msgid "Default Blog Posts Index Layout"
+msgstr ""
+
+#: options/options.php
+msgid "Social Icons"
+msgstr "सामाजिक प्रतीक"
+
+#: functions.php
+msgid " by "
+msgstr ""
+
+#: functions.php
+msgid "Posted in"
+msgstr "में पोस्ट किया गया"
+
+#: functions.php
+msgid "Tags:"
+msgstr "टैग"
+
+#: functions.php
+msgid "Permalink to %s"
+msgstr "Permalink %s"
+
+#: functions.php
+msgid "Responsive Pro Options"
+msgstr "उत्तरदायी प्रो विकल्प"
+
+#: options/options-customizer.php
+msgid "Customize"
+msgstr "फ़रमाइशें"
+
+#: options/options-customizer.php
+msgid "Skins"
+msgstr ""
+
+#: options/options-customizer.php
+msgid "Skin Color"
+msgstr "त्वचा का रंग"
+
+#: options/options-customizer.php
+msgid "Typography"
+msgstr ""
+
+#: options/options-customizer.php
+msgid "Heading Font"
+msgstr "शीर्ष फ़ॉन्ट"
+
+#: options/options-customizer.php
+msgid "Google Heading Font"
+msgstr "गूगल शीर्ष फ़ॉन्ट"
+
+#: options/options-customizer.php
+msgid "Text Font"
+msgstr "पाठ फ़ॉन्ट"
+
+#: options/options-customizer.php
+msgid "Google Text Font"
+msgstr "Google पाठ फ़ॉन्ट"
+
+#: options/options-customizer.php
+msgid "Font Size"
+msgstr "िवडीयो"
+
+#: options/options-customizer.php
+msgid "Headings Color"
+msgstr "शीर्ष रंग"
+
+#: options/options-customizer.php
+msgid "Text Color"
+msgstr "पाठ का रंग"
+
+#: options/options-customizer.php
+msgid "Link Color"
+msgstr "लिंक रंग"
+
+#: options/options-customizer.php
+msgid "Link Hover Color"
+msgstr "कड़ी हॉवर रंग"
+
+#: options/options-customizer.php
+msgid "Enable custom front page"
+msgstr "कस्टम फ्रंट पेज को सक्षम करें"
+
+#: options/options-customizer.php
+msgid "Content"
+msgstr "विषय"
+
+#: options/options.php
+msgid "Personalize"
+msgstr "वैयक्तिकृत करें"
+
+#: options/options.php
+msgid "Favicon"
+msgstr "Favicon"
+
+#: options/options.php
+msgid "maximum width and height 32px"
+msgstr "अधिकतम चौड़ाई और ऊँचाई 32px"
+
+#: options/options.php
+#: options/options.php
+msgid "Upload"
+msgstr "अपलोड"
+
+#: options/options.php
+msgid "Apple Touch Icon"
+msgstr "एप्पल टच चिह्न"
+
+#: options/options.php
+msgid "Custom mobile menu title"
+msgstr "कस्टम मोबाइल मेनू शीर्षक"
+
+#: options/options.php
+msgid "Enter a custom mobile menu title"
+msgstr "एक कस्टम मोबाइल मेनू शीर्षक दर्ज करें"
+
+#: options/options.php
+msgid "Templates"
+msgstr "टेम्पलेट"
+
+#: options/options.php
+msgid "Excerpt Text"
+msgstr "उद्धरण पाठ"
+
+#: options/options.php
+msgid "Read More..."
+msgstr "और अधिक पढ़ें..."
+
+#: options/options.php
+msgid "Excerpt Length"
+msgstr "अंश लंबाई"
+
+#: options/options.php
+msgid "50"
+msgstr "50"
+
+#: options/options.php
+#: options/options.php
+#: options/options.php
+msgid "Post Excerpts"
+msgstr "पोस्ट कुछ अंशः"
+
+#: options/options.php
+#: options/options.php
+#: options/options.php
+msgid "Featured Images"
+msgstr "विशेष रुप से प्रदर्शित चित्र"
+
+#: options/options.php
+#: options/options.php
+#: options/options.php
+msgid "Post Byline Author"
+msgstr "पोस्ट Byline लेखक"
+
+#: options/options.php
+#: options/options.php
+#: options/options.php
+msgid "Post Byline Categories"
+msgstr "पोस्ट Byline श्रेणियाँ"
+
+#: options/options.php
+#: options/options.php
+#: options/options.php
+msgid "Post Byline Date"
+msgstr "पोस्ट Byline दिनांक"
+
+#: options/options.php
+#: options/options.php
+#: options/options.php
+msgid "Post Byline Comments"
+msgstr "Byline टिप्पणी पोस्ट"
+
+#: options/options.php
+#: options/options.php
+#: options/options.php
+msgid "Post Byline Tags"
+msgstr "Byline टैग पोस्ट"
+
+#: options/options.php
+msgid "404 Title"
+msgstr "404 शीर्षक"
+
+#: options/options.php
+msgid "404 Content"
+msgstr "404 सामग्री"
+
+#: options/options.php
+msgid "Scripts"
+msgstr "लिपियों"
+
+#: options/options.php
+msgid "Plugins"
+msgstr "प्लगइन"
+
+#: options/options.php
+msgid "Please activate The Events Calendar plugin"
+msgstr "कृपया घटनाओं कैलेंडर प्लगइन को सक्रिय करें"
+
+#: options/options.php
+msgid "Install Events Calendar Plugin"
+msgstr "घटनाओं कैलेंडर प्लगइन स्थापित करें"
+
+#: options/options.php
+msgid "WooCommerce Settings"
+msgstr "WooCommerce सेटिंग"
+
+#: options/options.php
+msgid "Please activate WooCommerce plugin"
+msgstr "कृपया WooCommerce प्लगइन को सक्रिय करें"
+
+#: options/options.php
+msgid "Install WooCommerce Plugin"
+msgstr "WooCommerce प्लगइन स्थापित करें"
+
+#: options/options.php
+msgid "BBPress Settings"
+msgstr "BBPress सेटिंग्स"
+
+#: options/options.php
+msgid "Please activate BBPress plugin"
+msgstr "कृपया BBPress प्लगइन को सक्रिय करें"
+
+#: options/options.php
+msgid "Install BBPress Plugin"
+msgstr "BBPress प्लगइन स्थापित करें"
+
+#: options/options.php
+msgid "Digital Downloads Settings"
+msgstr "डिजिटल डाउनलोड सेटिंग्स"
+
+#: options/options.php
+msgid "Please activate Easy Digital Downloads plugin"
+msgstr "कृपया आसान डिजिटल डाउनलोड प्लगइन को सक्रिय करें"
+
+#: options/options.php
+msgid "Install Easy Digital Downloads Plugin"
+msgstr "आसान डिजिटल डाउनलोड प्लगइन स्थापित करें"
+
+#: options/options.php
+msgid "404 Error"
+msgstr ""
+
+#: options/options.php
+msgid "404 Page:"
+msgstr ""
+
+#: options/options.php
+msgid "Archive page:"
+msgstr ""
+
+#: options/options.php
+msgid "Blog"
+msgstr ""
+
+#: options/options.php
+msgid "Blog Post Page:"
+msgstr ""
+
+#: options/options.php
+msgid "Blog Title Toggle"
+msgstr ""
+
+#: options/options.php
+#: options/options.php
+msgid "check to disable"
+msgstr ""
+
+#: options/options.php
+msgid "CSS Styles"
+msgstr ""
+
+#: options/options-customizer.php
+#: options/options-customizer.php
+msgid "Custom CSS"
+msgstr ""
+
+#: options/options.php
+msgid "Disable breadcrumb list?"
+msgstr ""
+
+#: options/options-customizer.php
+msgid "Enable Menu Background gradient"
+msgstr ""
+
+#: options/options-customizer.php
+#: options/options-customizer.php
+msgid "Enter the Google Font name"
+msgstr ""
+
+#: options/options.php
+msgid "Events Plugin Settings"
+msgstr ""
+
+#: options/options-customizer.php
+msgid "Featured Area Layouts"
+msgstr ""
+
+#: options/options-customizer.php
+msgid "Full Width"
+msgstr ""
+
+#: options/options-customizer.php
+msgid "Full Width Reverse"
+msgstr ""
+
+#: options/options-customizer.php
+msgid "Menu Background Color"
+msgstr ""
+
+#: options/options-customizer.php
+msgid "Menu Background Color 2"
+msgstr ""
+
+#: options/options-customizer.php
+msgid "Menu Colors"
+msgstr ""
+
+#: options/options-customizer.php
+msgid "Menu Hover Color"
+msgstr ""
+
+#: options/options-customizer.php
+msgid "Menu Hover Text Color"
+msgstr ""
+
+#: options/options-customizer.php
+msgid "Menu Item Color"
+msgstr ""
+
+#: options/options-customizer.php
+msgid "Menu Text Color"
+msgstr ""
+
+#: options/options.php
+msgid "Page:"
+msgstr ""
+
+#: options/options-customizer.php
+msgid "Reverse"
+msgstr ""
+
+#: options/options.php
+msgid "Search Page:"
+msgstr ""
+
+#: options/options.php
+msgid "Single post page:"
+msgstr ""
+
+#: options/options.php
+msgid "Sorry, no content found"
+msgstr ""
+
+#: functions.php
+msgid "<span class=\"%1$s\">Posted on </span>%2$s"
+msgstr ""
+
+#: options/options.php
+msgid "Title Text"
+msgstr ""
+

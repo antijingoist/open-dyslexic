@@ -1,0 +1,823 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Responsive Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-25 13:42:58 UTC\n"
+"PO-Revision-Date: 2013-08-31 12:01:16 UTC\n"
+"Last-Translator: Web Translate It <support@webtranslateit.com>\n"
+"Language-Team: Danish, Denmark\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: WebTranslateIt.com\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: page.php
+#: landing-page.php
+#: index.php
+#: image.php
+#: full-width-page.php
+#: content-sidebar-page.php
+#: content-sidebar-half-page.php
+#: blog.php
+#: blog-excerpt.php
+#: archive.php
+#: home.php
+#: search.php
+#: sidebar-content-half-page.php
+#: sidebar-content-page.php
+#: single.php
+#: sitemap.php
+msgid "Pages:"
+msgstr "Sider:"
+
+#: blog-excerpt.php
+#: blog.php
+#: loop-nav.php
+msgid "&#8249; Older posts"
+msgstr "&#8249; Ældre artikler"
+
+#: blog-excerpt.php
+#: blog.php
+#: loop-nav.php
+msgid "Newer posts &#8250;"
+msgstr "Nyere artikler &#8250;"
+
+#: blog.php
+#: content-sidebar-half-page.php
+#: content-sidebar-page.php
+#: full-width-page.php
+#: home.php
+#: image.php
+#: index.php
+#: landing-page.php
+#: page.php
+#: sidebar-content-half-page.php
+#: sidebar-content-page.php
+#: single.php
+#: core/includes/functions.php
+msgid "Read more &#8250;"
+msgstr "Læs mere &#8250;"
+
+#: comments.php
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Artiklen er beskyttet af kodeord. Indtast kodeordet for at se kommentarerne."
+
+#: comments.php
+#: comments.php
+msgid "&#8249; Older comments"
+msgstr "&#8249; Ældre kommentarer"
+
+#: comments.php
+#: comments.php
+msgid "Newer comments &#8250;"
+msgstr "Nyere kommentarer &#8250;"
+
+#: comments.php
+msgid "Pings&#47;Trackbacks"
+msgstr "Pings&#47;Trackbacks"
+
+#: comments.php
+msgid "%1$d %2$s for \"%3$s\""
+msgstr "%1$d %2$s for \"%3$s\""
+
+#: comments.php
+msgid "Name"
+msgstr "Navn"
+
+#: comments.php
+msgid "E-mail"
+msgstr "Email"
+
+#: comments.php
+msgid "Website"
+msgstr "Hjemmeside"
+
+#: footer.php
+msgid "&copy;"
+msgstr "&copy;"
+
+#: footer.php
+msgid "scroll to top"
+msgstr "Til toppen"
+
+#: footer.php
+msgid "&uarr;"
+msgstr "&uarr;"
+
+#: footer.php
+msgid "http://themeid.com/responsive-theme/"
+msgstr "http://themeid.com/responsive-theme/"
+
+#: footer.php
+msgid "Responsive Theme"
+msgstr "Responsive-tema"
+
+#: footer.php
+msgid "powered by"
+msgstr "på"
+
+#: footer.php
+msgid "http://wordpress.org/"
+msgstr "http://da.wordpress.org/"
+
+#: footer.php
+msgid "WordPress"
+msgstr "WordPress"
+
+#: image.php
+msgid "&#8249; Return to"
+msgstr "&#8249; Tilbage til"
+
+#: image.php
+#: post-meta-page.php
+#: post-meta.php
+#: sidebar-content-half-page.php
+#: sidebar-content-page.php
+msgid "No Comments &darr;"
+msgstr "Ingen kommentarer &darr;"
+
+#: post-meta-page.php
+#: post-meta.php
+#: image.php
+#: sidebar-content-half-page.php
+#: sidebar-content-page.php
+msgid "1 Comment &darr;"
+msgstr "1 kommentar &darr;"
+
+#: post-meta-page.php
+#: post-meta.php
+#: image.php
+#: sidebar-content-half-page.php
+#: sidebar-content-page.php
+msgid "% Comments &darr;"
+msgstr "% kommentarer &darr;"
+
+#: comments.php
+msgid "One comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s comments on &ldquo;%2$s&rdquo;"
+msgstr[0] "Ingen kommentarer til &ldquo;%2$s&rdquo;"
+msgstr[1] "En kommentar til &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s kommentarer til &ldquo;%2$s&rdquo;"
+
+#: image.php
+#: post-data.php
+#: sidebar-content-half-page.php
+#: sidebar-content-page.php
+msgid "Tagged with:"
+msgstr "Mærker:"
+
+#: image.php
+#: post-data.php
+#: sidebar-content-half-page.php
+#: sidebar-content-page.php
+msgid "Posted in %s"
+msgstr "Udgivet i %s"
+
+#: image.php
+#: post-data.php
+#: sidebar-content-half-page.php
+#: sidebar-content-page.php
+#: sitemap.php
+msgid "Edit"
+msgstr "Rediger"
+
+#: loop-no-posts.php
+msgid "404 &#8212; Fancy meeting you here!"
+msgstr "404-fejl!"
+
+#: loop-no-posts.php
+msgid "Don&#39;t panic, we&#39;ll get through this together. Let&#39;s explore our options here."
+msgstr "Desværre blev indholdet ikke fundet. Prøv igen."
+
+#: loop-no-posts.php
+msgid "You can return %s or search for the page you were looking for."
+msgstr "Du kan vende tilbage %s eller søge efter siden, du ledte efter."
+
+#: loop-no-posts.php
+#: core/includes/functions.php
+msgid "Home"
+msgstr "Forside"
+
+#: loop-no-posts.php
+msgid "&larr; Home"
+msgstr "&larr; Hjem"
+
+#: loop-header.php
+msgid "Daily Archives: %s"
+msgstr "Dagligt arkiv: %s"
+
+#: loop-header.php
+msgid "Monthly Archives: %s"
+msgstr "Månedligt arkiv: %s"
+
+#: loop-header.php
+msgid "Yearly Archives: %s"
+msgstr "Årligt arkiv: %s"
+
+#: loop-header.php
+msgid "Blog Archives"
+msgstr "Blog-arkiv"
+
+msgid "Your search for %s did not match any entries."
+msgstr "Din søgning efter %s matchede ikke noget indhold."
+
+#: sitemap.php
+msgid "Permanent Link to %s"
+msgstr "Permanent link til %s"
+
+#: search.php
+#: core/includes/functions.php
+msgid "Search results for: %s"
+msgstr "Søgeresultater for: %s"
+
+#: searchform.php
+msgid "search here &hellip;"
+msgstr "søg her &hellip;"
+
+#: searchform.php
+msgid "Go"
+msgstr "Gå"
+
+#: sidebar-gallery.php
+msgid "Image Information"
+msgstr "Billedinformation"
+
+#: sidebar-gallery.php
+msgid "Full Size:"
+msgstr "Fuld opløsning:"
+
+#: sidebar-gallery.php
+msgid "Aperture: f&#47;"
+msgstr "Blænde: f&#47;"
+
+#: sidebar-gallery.php
+msgid "Focal Length:"
+msgstr "Brændvidde:"
+
+#: sidebar-gallery.php
+msgid "mm"
+msgstr "mm"
+
+#: sidebar-gallery.php
+msgid "ISO:"
+msgstr "ISO:"
+
+#: sidebar-gallery.php
+msgid "Shutter:"
+msgstr "Shutter:"
+
+#: sidebar-gallery.php
+msgid "Camera:"
+msgstr "Kamera:"
+
+#: sidebar.php
+#: sidebar-right.php
+#: sidebar-right-half.php
+#: sidebar-left.php
+#: sidebar-left-half.php
+#: sidebar-half-left.php
+msgid "In Archive"
+msgstr "I arkiv"
+
+#: sidebar-home.php
+#: core/includes/functions.php
+msgid "Home Widget 1"
+msgstr "Hjemmewidget 1"
+
+#: sidebar-home.php
+msgid "This is your first home widget box. To edit please go to Appearance > Widgets and choose 6th widget from the top in area 6 called Home Widget 1. Title is also manageable from widgets as well."
+msgstr "Dette er din første widget boks på forsiden. For at redigere den skal du gå til Udseende> Widgets og vælge den 6. Widget fra toppen i område seks kaldet Hjem Widget 1. Titlen kan også ændres."
+
+#: sidebar-home.php
+#: core/includes/functions.php
+msgid "Home Widget 2"
+msgstr "Hjemmewidget 2"
+
+#: sidebar-home.php
+msgid "This is your second home widget box. To edit please go to Appearance > Widgets and choose 7th widget from the top in area 7 called Home Widget 2. Title is also manageable from widgets as well."
+msgstr "Dette er din anden widget boks på forsiden. For at redigere den skal du gå til Udseende> Widgets og vælge den 7. Widget fra toppen i område seks kaldet Hjem Widget 2. Titlen kan også ændres."
+
+#: sidebar-home.php
+#: core/includes/functions.php
+msgid "Home Widget 3"
+msgstr "Hjemmewidget 3"
+
+#: sidebar-home.php
+msgid "This is your third home widget box. To edit please go to Appearance > Widgets and choose 8th widget from the top in area 8 called Home Widget 3. Title is also manageable from widgets as well."
+msgstr "Dette er din trejde widget boks på forsiden. For at redigere den skal du gå til Udseende> Widgets og vælge den 8. Widget fra toppen i område seks kaldet Hjem Widget 3. Titlen kan også ændres."
+
+#: single.php
+msgid "About"
+msgstr "Om"
+
+#: sitemap.php
+msgid "Categories"
+msgstr "Kategorier"
+
+#: sitemap.php
+msgid "Latest Posts"
+msgstr "Nyeste artikler"
+
+#: sitemap.php
+msgid "Pages"
+msgstr "Sider"
+
+#: core/includes/functions.php
+msgid "Top Menu"
+msgstr "Topmenu"
+
+#: core/includes/functions.php
+msgid "Header Menu"
+msgstr "Header-menu"
+
+#: core/includes/functions.php
+msgid "Sub-Header Menu"
+msgstr "Subheader-menu"
+
+#: core/includes/functions.php
+msgid "Footer Menu"
+msgstr "Footer-menu"
+
+#: core/includes/functions.php
+#: core/includes/functions.php
+msgid "Page %s"
+msgstr "Side %s"
+
+#: core/includes/functions.php
+msgid "<span class=\"%1$s\">Posted on </span>%2$s<span class=\"%3$s\"> by </span>%4$s"
+msgstr "<span class=\"%1$s\">Udgivet den </span>%2$s<span class=\"%3$s\"> af </span>%4$s"
+
+#: core/includes/functions.php
+#: core/includes/functions.php
+msgid "View all posts by %s"
+msgstr "Se alle artikler af %s"
+
+#: core/includes/functions.php
+msgid "Archive for %s"
+msgstr "Arkiv for %s"
+
+msgid "Posts tagged %s"
+msgstr "Artikler med mærket %s"
+
+#: core/includes/functions.php
+msgid "Error 404"
+msgstr "Fejl 404"
+
+#: core/includes/functions.php
+#: core/includes/functions.php
+msgid "More Themes"
+msgstr "Flere temaer"
+
+#: core/includes/functions.php
+#: core/includes/functions.php
+msgid "Showcase"
+msgstr "Fremvisning"
+
+#: core/includes/functions.php
+msgid "Main Sidebar"
+msgstr "Hovedpanel"
+
+#: core/includes/functions.php
+msgid "Area 1 - sidebar.php"
+msgstr "Område 1 - sidebar.php"
+
+#: core/includes/functions.php
+msgid "Right Sidebar"
+msgstr "Højre panel"
+
+#: core/includes/functions.php
+msgid "Area 2 - sidebar-right.php"
+msgstr "Område 2 - sidebar-right.php"
+
+#: core/includes/functions.php
+msgid "Left Sidebar"
+msgstr "Venstre panel"
+
+#: core/includes/functions.php
+msgid "Area 3 - sidebar-left.php"
+msgstr "Område 3 - sidebar-left.php"
+
+#: core/includes/functions.php
+msgid "Left Sidebar Half Page"
+msgstr "Venstre panel - Halv side"
+
+#: core/includes/functions.php
+msgid "Area 4 - sidebar-left-half.php"
+msgstr "Område 4 - sidebar-left-half.php"
+
+#: core/includes/functions.php
+msgid "Right Sidebar Half Page"
+msgstr "Højre panel - Halv side"
+
+#: core/includes/functions.php
+msgid "Area 5 - sidebar-right-half.php"
+msgstr "Område 5 - sidebar-right-half.php"
+
+#: core/includes/functions.php
+msgid "Area 6 - sidebar-home.php"
+msgstr "Område 6 - sidebar-home.php"
+
+#: core/includes/functions.php
+msgid "Area 7 - sidebar-home.php"
+msgstr "Område 7 - sidebar-home.php"
+
+#: core/includes/functions.php
+msgid "Area 8 - sidebar-home.php"
+msgstr "Område 8 - sidebar-home.php"
+
+#: core/includes/functions.php
+msgid "Gallery Sidebar"
+msgstr "Galleri-panel"
+
+#: core/includes/functions.php
+msgid "Area 9 - sidebar-gallery.php"
+msgstr "Område 9 - sidebar-gallery.php"
+
+msgid "Colophon Widget"
+msgstr "Kolofon-widget"
+
+#: core/includes/functions.php
+msgid "Area 10 - sidebar-colophon.php"
+msgstr "Område 10 - sidebar-colophon.php"
+
+msgid "Top Widget"
+msgstr "Topwidget"
+
+#: core/includes/functions.php
+msgid "Area 11 - sidebar-top.php"
+msgstr "Område 11 - sidebar-top.php"
+
+#: blog.php
+msgid "Blog (full posts)"
+msgstr "Blog (hele artikler)"
+
+msgid "Blog Excerpt (summary)"
+msgstr "Bloguddrag (sammendrag)"
+
+msgid "Content/Sidebar"
+msgstr "Indhold/Panel"
+
+msgid "Sidebar/Content"
+msgstr "Panel/Indhold"
+
+msgid "Content/Sidebar Half Page"
+msgstr "Indhold/Panel halv side"
+
+msgid "Sidebar/Content Half Page"
+msgstr "Panel/Indhold halv side"
+
+msgid "Full Width Page (no sidebar)"
+msgstr "Fuld sidebrede (intet panel)"
+
+#: landing-page.php
+msgid "Landing Page (no menu)"
+msgstr "Start side (ingen menu)"
+
+#: sitemap.php
+msgid "Sitemap"
+msgstr "Sitemap"
+
+#: core/includes/post-custom-meta.php
+msgid "Layout"
+msgstr "Layout"
+
+msgid "Default"
+msgstr "Standard"
+
+#: front-page.php
+#: core/includes/theme-options.php
+msgid "Hello, World!"
+msgstr "Hej Verden!"
+
+#: front-page.php
+#: core/includes/theme-options.php
+msgid "Your H2 subheadline here"
+msgstr "Din H2-overskrift her"
+
+msgid "Your title, subtitle and this very content is editable from Theme Option. Call to Action button and its destination link as well. Image on your right can be an image or even YouTube video if you like."
+msgstr "Din titel, undertitel og indholdet er redigerbar fra Temafunktioner. Billedet i den højre side kan være et billede eller endda en YouTube-video, hvis du ønsker."
+
+#: front-page.php
+#: core/includes/theme-options.php
+msgid "Call to Action"
+msgstr "Klik her"
+
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+msgid "Theme Options"
+msgstr "Temafunktioner"
+
+#: core/includes/theme-options.php
+msgid "Options Saved"
+msgstr "Indstillinger er gemt"
+
+#: core/includes/theme-options.php
+msgid "Theme Elements"
+msgstr "Layout-elementer"
+
+#: core/includes/theme-options.php
+msgid "Disable Breadcrumb Lists?"
+msgstr "Deaktiver vist sti? (breadcrumbs)"
+
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+msgid "Check to disable"
+msgstr "Klik for at deaktivere"
+
+#: core/includes/theme-options.php
+msgid "Disable Call to Action Button?"
+msgstr "Deaktiver 'Klik her'-knap"
+
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+msgid "Save Options"
+msgstr "Gem indstillinger"
+
+msgid "Restore Defaults"
+msgstr "Gendan standarder"
+
+#: core/includes/theme-options.php
+msgid "Logo Upload"
+msgstr "Logo-upload"
+
+#: core/includes/theme-options.php
+msgid "Custom Header"
+msgstr "Brugerdefineret header"
+
+msgid "Need to replace or remove default logo?"
+msgstr "Vil du ændre eller fjerne standard-logoet?"
+
+#: core/includes/theme-options.php
+msgid "<a href=\"%s\">Click here</a>."
+msgstr "<a href=\"%s\">Klik her</a>."
+
+#: core/includes/theme-options.php
+msgid "Home Page"
+msgstr "Forside"
+
+#: core/includes/theme-options.php
+msgid "Headline"
+msgstr "Titel"
+
+#: core/includes/theme-options.php
+msgid "Enter your headline"
+msgstr "Indtast din titel"
+
+#: core/includes/theme-options.php
+msgid "Subheadline"
+msgstr "Undertitel"
+
+#: core/includes/theme-options.php
+msgid "Enter your subheadline"
+msgstr "Indtast undertitel"
+
+#: core/includes/theme-options.php
+msgid "Content Area"
+msgstr "Indhold"
+
+#: core/includes/theme-options.php
+msgid "Enter your content"
+msgstr "Indtast dit indhold"
+
+#: core/includes/theme-options.php
+msgid "Call to Action (URL)"
+msgstr "Klik her (URL)"
+
+#: core/includes/theme-options.php
+msgid "Enter your call to action URL"
+msgstr "Indtast 'Klik her'-URL"
+
+#: core/includes/theme-options.php
+msgid "Call to Action (Text)"
+msgstr "'Klik her' (Tekst)"
+
+#: core/includes/theme-options.php
+msgid "Enter your call to action text"
+msgstr "Indtast teksten til 'Klik her'"
+
+#: core/includes/theme-options.php
+msgid "Featured Content"
+msgstr "Fremhævet indhold"
+
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+msgid "See Docs"
+msgstr "Se dokumentationen"
+
+msgid "Paste your shortcode, video or image source"
+msgstr "Indsæt din shortcode-, video- eller billedekilde"
+
+msgid "Default Layouts"
+msgstr "Standard-layouts"
+
+msgid "Default Static Page Layout"
+msgstr "Standard statisk side-layout"
+
+msgid "Default Single Blog Post Layout"
+msgstr "Standard enkelt-blogindlæg-layout"
+
+msgid "Default Blog Posts Index Layout"
+msgstr "Standard blogindlæg-indeks-layout"
+
+#: core/includes/theme-options.php
+msgid "Webmaster Tools"
+msgstr "Webmaster-værktøjer"
+
+#: core/includes/theme-options.php
+msgid "Google Site Verification"
+msgstr "Google Webstedsbekræftelse"
+
+#: core/includes/theme-options.php
+msgid "Enter your Google ID number only"
+msgstr "Indtast dit Google ID-nummer"
+
+#: core/includes/theme-options.php
+msgid "Bing Site Verification"
+msgstr "Bing Webstedsbekræftelse"
+
+#: core/includes/theme-options.php
+msgid "Enter your Bing ID number only"
+msgstr "Indtast dit Bing ID-nummer"
+
+#: core/includes/theme-options.php
+msgid "Yahoo Site Verification"
+msgstr "Yahoo Webstedsbekræftelse"
+
+#: core/includes/theme-options.php
+msgid "Enter your Yahoo ID number only"
+msgstr "Indtast dit Yahoo ID-nummer"
+
+#: core/includes/theme-options.php
+msgid "Site Statistics Tracker"
+msgstr "Opsamling af sidestatistik"
+
+#: core/includes/theme-options.php
+msgid "Leave blank if plugin handles your webmaster tools"
+msgstr "Feltet skal være blankt, hvis 'webmaster tools'-plugin er installeret"
+
+#: core/includes/theme-options.php
+msgid "Google Analytics, StatCounter, any other or all of them."
+msgstr "Google Analytics, StatCounter, en af dem eller alle."
+
+#: core/includes/theme-options.php
+msgid "Social Icons"
+msgstr "Sociale ikoner"
+
+#: core/includes/theme-options.php
+msgid "Twitter"
+msgstr "Twitter"
+
+#: core/includes/theme-options.php
+msgid "Enter your Twitter URL"
+msgstr "Indtast din Twitter-URL"
+
+#: core/includes/theme-options.php
+msgid "Facebook"
+msgstr "Facebook"
+
+#: core/includes/theme-options.php
+msgid "Enter your Facebook URL"
+msgstr "Indtast din Facebook-URL"
+
+#: core/includes/theme-options.php
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: core/includes/theme-options.php
+msgid "Enter your LinkedIn URL"
+msgstr "Indtast din LinkedIn-URL"
+
+#: core/includes/theme-options.php
+msgid "YouTube"
+msgstr "YouTube"
+
+#: core/includes/theme-options.php
+msgid "Enter your YouTube URL"
+msgstr "Indtast din YouTube-URL"
+
+#: core/includes/theme-options.php
+msgid "StumbleUpon"
+msgstr "StumbleUpon"
+
+#: core/includes/theme-options.php
+msgid "Enter your StumbleUpon URL"
+msgstr "Indtast din StumbleUpon-URL"
+
+#: core/includes/theme-options.php
+msgid "RSS Feed"
+msgstr "RSS-feed"
+
+#: core/includes/theme-options.php
+msgid "Enter your RSS Feed URL"
+msgstr "Indtast din RSS-feed-URL"
+
+#: core/includes/theme-options.php
+msgid "Google+"
+msgstr "Google+"
+
+#: core/includes/theme-options.php
+msgid "Enter your Google+ URL"
+msgstr "Indtast din Google+-URL"
+
+#: core/includes/theme-options.php
+msgid "Instagram"
+msgstr "Instagram"
+
+#: core/includes/theme-options.php
+msgid "Enter your Instagram URL"
+msgstr "Indtast din Instagram-URL"
+
+#: core/includes/theme-options.php
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: core/includes/theme-options.php
+msgid "Enter your Pinterest URL"
+msgstr "Indtast din Pinterest-URL"
+
+#: core/includes/theme-options.php
+msgid "Yelp!"
+msgstr "Yelp!"
+
+msgid "Enter your Yelp! URL"
+msgstr "Indtast din Yelp!-URL"
+
+#: core/includes/theme-options.php
+msgid "Vimeo"
+msgstr "Vimeo"
+
+msgid "Enter your Vimeo URL"
+msgstr "Indtast din Vimeo-URL"
+
+msgid "foursquare"
+msgstr "Foursquare"
+
+msgid "Enter your foursquare URL"
+msgstr "Indtast din foursquare-URL"
+
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+msgid "Custom CSS Styles"
+msgstr "Brugerdefinerede CSS-styles"
+
+#: core/includes/theme-options.php
+msgid "https://developer.mozilla.org/en/CSS"
+msgstr "https://developer.mozilla.org/en/CSS"
+
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+msgid "CSS Tutorial"
+msgstr "CCS-vejledning"
+
+#: core/includes/theme-options.php
+msgid "Enter your custom CSS styles."
+msgstr "Indtast brugerdefineret CSS."
+
+msgid "Custom Scripts"
+msgstr "Brugerdefinerede scripts"
+
+msgid "Custom Scripts for Header and Footer"
+msgstr "Brugerdefinerede scripts for header og footer"
+
+msgid "Quick Tutorial"
+msgstr "Kort vejledning"
+
+#: core/includes/theme-options.php
+msgid "Embeds to header.php &darr;"
+msgstr "Indsæt i header.php &darr;"
+
+msgid "Enter your custom header script."
+msgstr "Indtast dit brugerdefinerede header-script."
+
+#: core/includes/theme-options.php
+msgid "Embeds to footer.php &darr;"
+msgstr "Indsæt i footer.php &darr;"
+
+msgid "Enter your custom footer script."
+msgstr "Indtast dit brugerdefinerede footer-script."
+
+msgid "Enable Custom Front Page"
+msgstr "Aktivér brugerdefineret forside"
+
+msgid "Help"
+msgstr "Hjælp"
+
+msgid "Instructions"
+msgstr "Instruktioner"
+
+msgid "Overrides the WordPress %1sfront page option%2s"
+msgstr "Tilsidesætter WordPress %1sforsideindstillinger%2s"
+
+msgid "Translate"
+msgstr "Overæt"
+
+#. Welcome to Responsive! Upgrade to Responsive Pro today.
+# INSTRUCTION: Welcome to Responsive! Upgrade to Responsive Pro today.
+msgid "Welcome to %1$s! Upgrade to %2$s today."
+msgstr "Velkommen til %1$s! Opgrader til %2$s i dag."

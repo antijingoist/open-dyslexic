@@ -1,0 +1,873 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Responsive Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-25 13:42:58 UTC\n"
+"PO-Revision-Date: 2013-07-22 22:03:34 UTC\n"
+"Last-Translator: Web Translate It <support@webtranslateit.com>\n"
+"Language-Team: Catalan\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: WebTranslateIt.com\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: page.php
+#: landing-page.php
+#: index.php
+#: image.php
+#: full-width-page.php
+#: content-sidebar-page.php
+#: content-sidebar-half-page.php
+#: blog.php
+#: blog-excerpt.php
+#: archive.php
+#: home.php
+#: search.php
+#: sidebar-content-half-page.php
+#: sidebar-content-page.php
+#: single.php
+#: sitemap.php
+msgid "Pages:"
+msgstr "Pàgines:"
+
+#: blog-excerpt.php
+#: blog.php
+#: loop-nav.php
+msgid "&#8249; Older posts"
+msgstr "&#8249; Publicacions més antigues"
+
+#: blog-excerpt.php
+#: blog.php
+#: loop-nav.php
+msgid "Newer posts &#8250;"
+msgstr "Publicacions més noves &#8250;"
+
+#: blog.php
+#: content-sidebar-half-page.php
+#: content-sidebar-page.php
+#: full-width-page.php
+#: home.php
+#: image.php
+#: index.php
+#: landing-page.php
+#: page.php
+#: sidebar-content-half-page.php
+#: sidebar-content-page.php
+#: single.php
+#: core/includes/functions.php
+msgid "Read more &#8250;"
+msgstr "Llegir més &#8250;"
+
+#: comments.php
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Aquesta publicació està protegida per contrasenya. Introdueix la contrasenya per veure els comentaris."
+
+#: comments.php
+#: comments.php
+msgid "&#8249; Older comments"
+msgstr "&#8249; Comentaris més antics"
+
+#: comments.php
+#: comments.php
+msgid "Newer comments &#8250;"
+msgstr "Comentaris més nous &#8250;"
+
+#: comments.php
+msgid "Pings&#47;Trackbacks"
+msgstr "Pings&#47;Retroenllaços"
+
+#: comments.php
+msgid "%1$d %2$s for \"%3$s\""
+msgstr "%1$d %2$s per a \"%3$s\""
+
+#: comments.php
+msgid "Name"
+msgstr "Nom"
+
+#: comments.php
+msgid "E-mail"
+msgstr "Correu electrònic"
+
+#: comments.php
+msgid "Website"
+msgstr "Lloc web"
+
+#: footer.php
+msgid "&copy;"
+msgstr "&copy;"
+
+#: footer.php
+msgid "scroll to top"
+msgstr "vés cap amunt"
+
+#: footer.php
+msgid "&uarr;"
+msgstr "&uarr;"
+
+#: footer.php
+msgid "http://themeid.com/responsive-theme/"
+msgstr "http://themeid.com/responsive-theme/"
+
+#: footer.php
+msgid "Responsive Theme"
+msgstr "Responsive Theme"
+
+#: footer.php
+msgid "powered by"
+msgstr "funciona amb"
+
+#: footer.php
+msgid "http://wordpress.org/"
+msgstr "http://ca.wordpress.org/"
+
+#: footer.php
+msgid "WordPress"
+msgstr "WordPress"
+
+#: image.php
+msgid "&#8249; Return to"
+msgstr "&#8249; Torna a"
+
+#: image.php
+#: post-meta-page.php
+#: post-meta.php
+#: sidebar-content-half-page.php
+#: sidebar-content-page.php
+msgid "No Comments &darr;"
+msgstr "Sense comentaris &darr;"
+
+#: post-meta-page.php
+#: post-meta.php
+#: image.php
+#: sidebar-content-half-page.php
+#: sidebar-content-page.php
+msgid "1 Comment &darr;"
+msgstr "1 comentari &darr;"
+
+#: post-meta-page.php
+#: post-meta.php
+#: image.php
+#: sidebar-content-half-page.php
+#: sidebar-content-page.php
+msgid "% Comments &darr;"
+msgstr "% comentaris &darr;"
+
+#: comments.php
+msgid "One comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s comments on &ldquo;%2$s&rdquo;"
+msgstr[0] "Un comentari a &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s comentaris a &ldquo;%2$s&rdquo;"
+
+#: image.php
+#: post-data.php
+#: sidebar-content-half-page.php
+#: sidebar-content-page.php
+msgid "Tagged with:"
+msgstr "Etiquetat amb:"
+
+#: image.php
+#: post-data.php
+#: sidebar-content-half-page.php
+#: sidebar-content-page.php
+msgid "Posted in %s"
+msgstr "Publicat a %s"
+
+#: image.php
+#: post-data.php
+#: sidebar-content-half-page.php
+#: sidebar-content-page.php
+#: sitemap.php
+msgid "Edit"
+msgstr "Edita"
+
+#: loop-no-posts.php
+msgid "404 &#8212; Fancy meeting you here!"
+msgstr "404 &#8212; Que estrany que ens trobem aquí!"
+
+#: loop-no-posts.php
+msgid "Don&#39;t panic, we&#39;ll get through this together. Let&#39;s explore our options here."
+msgstr "No t&#39;espantis, ens espavilarem. Vegem les opcions a continuació."
+
+#: loop-no-posts.php
+msgid "You can return %s or search for the page you were looking for."
+msgstr "Pots tornar a l&#39; %s o cercar el que estàs buscant."
+
+#: loop-no-posts.php
+#: core/includes/functions.php
+msgid "Home"
+msgstr "Inici"
+
+#: loop-no-posts.php
+msgid "&larr; Home"
+msgstr "&larr; Inici"
+
+#: loop-header.php
+msgid "Daily Archives: %s"
+msgstr "Arxius diaris: %s"
+
+#: loop-header.php
+msgid "Monthly Archives: %s"
+msgstr "Arxius mensuals: %s"
+
+#: loop-header.php
+msgid "Yearly Archives: %s"
+msgstr "Arxius anuals: %s"
+
+#: loop-header.php
+msgid "Blog Archives"
+msgstr "Arxius del blog"
+
+#: loop-no-posts.php
+msgid "Your search for %s did not match any entries."
+msgstr "La teva cerca per a %s no ha obtingut cap resultat."
+
+#: sitemap.php
+msgid "Permanent Link to %s"
+msgstr "Enllaç permanent a %s"
+
+#: search.php
+#: core/includes/functions.php
+msgid "Search results for: %s"
+msgstr "Resultats de la cerca per a: %s"
+
+#: searchform.php
+msgid "search here &hellip;"
+msgstr "cerca aquí &hellip;"
+
+#: searchform.php
+msgid "Go"
+msgstr "Vés"
+
+#: sidebar-gallery.php
+msgid "Image Information"
+msgstr "Informació de la imatge"
+
+#: sidebar-gallery.php
+msgid "Full Size:"
+msgstr "Mida completa:"
+
+#: sidebar-gallery.php
+msgid "Aperture: f&#47;"
+msgstr "Obertura: f&#47;"
+
+#: sidebar-gallery.php
+msgid "Focal Length:"
+msgstr "Distància focal:"
+
+#: sidebar-gallery.php
+msgid "mm"
+msgstr "mm"
+
+#: sidebar-gallery.php
+msgid "ISO:"
+msgstr "ISO:"
+
+#: sidebar-gallery.php
+msgid "Shutter:"
+msgstr "Obturador:"
+
+#: sidebar-gallery.php
+msgid "Camera:"
+msgstr "Càmera:"
+
+#: sidebar.php
+#: sidebar-right.php
+#: sidebar-right-half.php
+#: sidebar-left.php
+#: sidebar-left-half.php
+#: sidebar-half-left.php
+msgid "In Archive"
+msgstr "A l'arxiu"
+
+#: sidebar-home.php
+#: core/includes/functions.php
+msgid "Home Widget 1"
+msgstr "Ginys de l'inici 1"
+
+#: sidebar-home.php
+msgid "This is your first home widget box. To edit please go to Appearance > Widgets and choose 6th widget from the top in area 6 called Home Widget 1. Title is also manageable from widgets as well."
+msgstr "Aquesta és la capsa del teu primer giny de l'inici. Per editar-lo, vés a Aparença > Ginys i escull el sisè giny des de dalt, a la sisena àrea, anomenat Giny de l'inici 1. El títol també es pot administrar des dels ginys."
+
+#: sidebar-home.php
+#: core/includes/functions.php
+msgid "Home Widget 2"
+msgstr "Ginys de l'inici 2"
+
+#: sidebar-home.php
+msgid "This is your second home widget box. To edit please go to Appearance > Widgets and choose 7th widget from the top in area 7 called Home Widget 2. Title is also manageable from widgets as well."
+msgstr "Aquesta és la capsa del teu segon giny de l'inici. Per editar-lo, vés a Aparença > Ginys i escull el setè giny des de dalt, a la setena àrea, anomenat Giny de l'inici 2. El títol també es pot administrar des dels ginys."
+
+#: sidebar-home.php
+#: core/includes/functions.php
+msgid "Home Widget 3"
+msgstr "Ginys de l'inici 3"
+
+#: sidebar-home.php
+msgid "This is your third home widget box. To edit please go to Appearance > Widgets and choose 8th widget from the top in area 8 called Home Widget 3. Title is also manageable from widgets as well."
+msgstr "Aquesta és la capsa del teu tercer giny de l'inici. Per editar-lo, vés a Aparença > Ginys i escull el vuitè giny des de dalt, a la vuitena àrea, anomenat Giny de l'inici 3. El títol també es pot administrar des dels ginys."
+
+#: single.php
+msgid "About"
+msgstr "Quant a"
+
+#: sitemap.php
+msgid "Categories"
+msgstr "Categories"
+
+#: sitemap.php
+msgid "Latest Posts"
+msgstr "Últimes publicacions"
+
+#: sitemap.php
+msgid "Pages"
+msgstr "Pàgines"
+
+#: core/includes/functions.php
+msgid "Top Menu"
+msgstr "Menú superior"
+
+#: core/includes/functions.php
+msgid "Header Menu"
+msgstr "Menú de la capçalera"
+
+#: core/includes/functions.php
+msgid "Sub-Header Menu"
+msgstr "Menú de la subcapçalera"
+
+#: core/includes/functions.php
+msgid "Footer Menu"
+msgstr "Menú del peu"
+
+#: core/includes/functions.php
+#: core/includes/functions.php
+msgid "Page %s"
+msgstr "Pàgina %s"
+
+#: core/includes/functions.php
+msgid "<span class=\"%1$s\">Posted on </span>%2$s<span class=\"%3$s\"> by </span>%4$s"
+msgstr "<span class=\"%1$s\">Publicat el </span>%2$s<span class=\"%3$s\"> per </span>%4$s"
+
+#: core/includes/functions.php
+#: core/includes/functions.php
+msgid "View all posts by %s"
+msgstr "Mostra totes les publicacions de %s"
+
+#: core/includes/functions.php
+msgid "Archive for %s"
+msgstr "Arxiu de %s"
+
+#: core/includes/functions.php
+msgid "Posts tagged %s"
+msgstr "Publicacions etiquetades amb %s"
+
+#: core/includes/functions.php
+msgid "Error 404"
+msgstr "Error 404 "
+
+#: core/includes/functions.php
+#: core/includes/functions.php
+msgid "More Themes"
+msgstr "Més temes"
+
+#: core/includes/functions.php
+#: core/includes/functions.php
+msgid "Showcase"
+msgstr "Mostra de dissenys"
+
+#: core/includes/functions.php
+msgid "Main Sidebar"
+msgstr "Barra lateral principal"
+
+#: core/includes/functions.php
+msgid "Area 1 - sidebar.php"
+msgstr "Àrea 1 - sidebar.php"
+
+#: core/includes/functions.php
+msgid "Right Sidebar"
+msgstr "Barra lateral de la dreta"
+
+#: core/includes/functions.php
+msgid "Area 2 - sidebar-right.php"
+msgstr "Àrea 2 - sidebar-right.php"
+
+#: core/includes/functions.php
+msgid "Left Sidebar"
+msgstr "Barra lateral de l'esquerra"
+
+#: core/includes/functions.php
+msgid "Area 3 - sidebar-left.php"
+msgstr "Àrea 3 - sidebar-left.php"
+
+#: core/includes/functions.php
+msgid "Left Sidebar Half Page"
+msgstr "Barra lateral de l'esquerra a mitja pàgina"
+
+#: core/includes/functions.php
+msgid "Area 4 - sidebar-left-half.php"
+msgstr "Àrea 4 - sidebar-left-half.php"
+
+#: core/includes/functions.php
+msgid "Right Sidebar Half Page"
+msgstr "Barra lateral de la dreta a mitja pàgina"
+
+#: core/includes/functions.php
+msgid "Area 5 - sidebar-right-half.php"
+msgstr "Àrea 5 - sidebar-right-half.php"
+
+#: core/includes/functions.php
+msgid "Area 6 - sidebar-home.php"
+msgstr "Àrea 6 - sidebar-home.php"
+
+#: core/includes/functions.php
+msgid "Area 7 - sidebar-home.php"
+msgstr "Àrea 7 - sidebar-home.php"
+
+#: core/includes/functions.php
+msgid "Area 8 - sidebar-home.php"
+msgstr "Àrea 8 - sidebar-home.php"
+
+#: core/includes/functions.php
+msgid "Gallery Sidebar"
+msgstr "Barra lateral de la galeria"
+
+#: core/includes/functions.php
+msgid "Area 9 - sidebar-gallery.php"
+msgstr "Àrea 9 - sidebar-gallery.php"
+
+#: core/includes/functions.php
+msgid "Colophon Widget"
+msgstr "Ginys de colofó"
+
+#: core/includes/functions.php
+msgid "Area 10 - sidebar-colophon.php"
+msgstr "Àrea 10 - sidebar-colophon.php"
+
+#: core/includes/functions.php
+msgid "Top Widget"
+msgstr "Ginys superiors"
+
+#: core/includes/functions.php
+msgid "Area 11 - sidebar-top.php"
+msgstr "Àrea 11 - sidebar-top.php"
+
+#: blog.php
+msgid "Blog (full posts)"
+msgstr "Blog (publicacions completes)"
+
+#: blog-excerpt.php
+msgid "Blog Excerpt (summary)"
+msgstr "Blog resumit (sols els resums)"
+
+#: content-sidebar-page.php
+#: core/includes/post-custom-meta.php
+msgid "Content/Sidebar"
+msgstr "Contingut/Lateral"
+
+#: sidebar-content-page.php
+#: core/includes/post-custom-meta.php
+msgid "Sidebar/Content"
+msgstr "Lateral/Contingut"
+
+#: content-sidebar-half-page.php
+#: core/includes/post-custom-meta.php
+msgid "Content/Sidebar Half Page"
+msgstr "Contingut/Lateral mitja pàgina"
+
+#: sidebar-content-half-page.php
+#: core/includes/post-custom-meta.php
+msgid "Sidebar/Content Half Page"
+msgstr "Lateral/Contingut mitja pàgina"
+
+#: full-width-page.php
+#: core/includes/post-custom-meta.php
+msgid "Full Width Page (no sidebar)"
+msgstr "Pàgina completa (sense lateral)"
+
+#: landing-page.php
+msgid "Landing Page (no menu)"
+msgstr "Pàgina d'aterratge (sense menú)"
+
+#: sitemap.php
+msgid "Sitemap"
+msgstr "Mapa del lloc"
+
+#: core/includes/post-custom-meta.php
+msgid "Layout"
+msgstr "Distribució"
+
+#: core/includes/post-custom-meta.php
+msgid "Default"
+msgstr "Per defecte"
+
+#: front-page.php
+#: core/includes/theme-options.php
+msgid "Hello, World!"
+msgstr "Hola, món!"
+
+#: front-page.php
+#: core/includes/theme-options.php
+msgid "Your H2 subheadline here"
+msgstr "La teva capçalera H2 aquí"
+
+#: front-page.php
+#: core/includes/theme-options.php
+msgid "Your title, subtitle and this very content is editable from Theme Option. Call to Action button and its destination link as well. Image on your right can be an image or even YouTube video if you like."
+msgstr "El títol, subtítol i aquest mateix contingut són editables des de les Opcions del tema. El botó de crida a l'acció i el seu enllaç també. La imatge de la dreta pot ser una imatge o fins i tot un vídeo de YouTube si vols."
+
+#: front-page.php
+#: core/includes/theme-options.php
+msgid "Call to Action"
+msgstr "Crida a l'acció"
+
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+msgid "Theme Options"
+msgstr "Opcions del tema"
+
+#: core/includes/theme-options.php
+msgid "Options Saved"
+msgstr "S'han desat les opcions"
+
+#: core/includes/theme-options.php
+msgid "Theme Elements"
+msgstr "Elements del tema"
+
+#: core/includes/theme-options.php
+msgid "Disable Breadcrumb Lists?"
+msgstr "Desactiva els fils d'Ariadna"
+
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+msgid "Check to disable"
+msgstr "Marca per deshabilitar"
+
+#: core/includes/theme-options.php
+msgid "Disable Call to Action Button?"
+msgstr "Desactiva el botó de crida a l'acció"
+
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+msgid "Save Options"
+msgstr "Desa les opcions"
+
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+msgid "Restore Defaults"
+msgstr "Recuperar la configuració per defecte"
+
+#: core/includes/theme-options.php
+msgid "Logo Upload"
+msgstr "Carrega un logo"
+
+#: core/includes/theme-options.php
+msgid "Custom Header"
+msgstr "Capçalera personalitzada"
+
+#: core/includes/theme-options.php
+msgid "Need to replace or remove default logo?"
+msgstr "Necessites reemplaçar o eliminar el logo per defecte?"
+
+#: core/includes/theme-options.php
+msgid "<a href=\"%s\">Click here</a>."
+msgstr "<a href=\"%s\">Fes clic aquí</a>."
+
+#: core/includes/theme-options.php
+msgid "Home Page"
+msgstr "Pàgina d'inici"
+
+#: core/includes/theme-options.php
+msgid "Headline"
+msgstr "Títol"
+
+#: core/includes/theme-options.php
+msgid "Enter your headline"
+msgstr "Introdueix el títol"
+
+#: core/includes/theme-options.php
+msgid "Subheadline"
+msgstr "Subtítol"
+
+#: core/includes/theme-options.php
+msgid "Enter your subheadline"
+msgstr "Introdueix el subtítol"
+
+#: core/includes/theme-options.php
+msgid "Content Area"
+msgstr "Àrea de contingut"
+
+#: core/includes/theme-options.php
+msgid "Enter your content"
+msgstr "Introdueix el contingut"
+
+#: core/includes/theme-options.php
+msgid "Call to Action (URL)"
+msgstr "Crida a l'acció (URL)"
+
+#: core/includes/theme-options.php
+msgid "Enter your call to action URL"
+msgstr "Introdueix l'URL de crida a l'acció"
+
+#: core/includes/theme-options.php
+msgid "Call to Action (Text)"
+msgstr "Crida a l'acció (text)"
+
+#: core/includes/theme-options.php
+msgid "Enter your call to action text"
+msgstr "Introdueix el text de crida a l'acció"
+
+#: core/includes/theme-options.php
+msgid "Featured Content"
+msgstr "Contingut destacat"
+
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+msgid "See Docs"
+msgstr "Vegeu la documentació"
+
+#: core/includes/theme-options.php
+msgid "Paste your shortcode, video or image source"
+msgstr "Enganxa el teu codi curt, vídeo o recurs d'imatge"
+
+#: core/includes/theme-options.php
+msgid "Default Layouts"
+msgstr "Distribució per defecte"
+
+#: core/includes/theme-options.php
+msgid "Default Static Page Layout"
+msgstr "Distribució per defecte de la pàgina estàtica"
+
+#: core/includes/theme-options.php
+msgid "Default Single Blog Post Layout"
+msgstr "Distribució per defecte d'una entrada del blog"
+
+#: core/includes/theme-options.php
+msgid "Default Blog Posts Index Layout"
+msgstr "Distribució per defecte de l'índex del blog"
+
+#: core/includes/theme-options.php
+msgid "Webmaster Tools"
+msgstr "Eines per a desenvolupadors web"
+
+#: core/includes/theme-options.php
+msgid "Google Site Verification"
+msgstr "Verificació de lloc del Google"
+
+#: core/includes/theme-options.php
+msgid "Enter your Google ID number only"
+msgstr "Només l'identificador de Google"
+
+#: core/includes/theme-options.php
+msgid "Bing Site Verification"
+msgstr "Verificació de lloc del Bing"
+
+#: core/includes/theme-options.php
+msgid "Enter your Bing ID number only"
+msgstr "Només l'identificador de Bing"
+
+#: core/includes/theme-options.php
+msgid "Yahoo Site Verification"
+msgstr "Verificació de lloc del Yahoo"
+
+#: core/includes/theme-options.php
+msgid "Enter your Yahoo ID number only"
+msgstr "Només l'identificador de Yahoo"
+
+#: core/includes/theme-options.php
+msgid "Site Statistics Tracker"
+msgstr "Rastrejador d'estadístiques del lloc"
+
+#: core/includes/theme-options.php
+msgid "Leave blank if plugin handles your webmaster tools"
+msgstr "Deixa-ho en blanc si hi ha una extensió que s'encarrega de les eines de desenvolupador"
+
+#: core/includes/theme-options.php
+msgid "Google Analytics, StatCounter, any other or all of them."
+msgstr "Google Analytics, StatCounter, qualsevol altre o tots ells."
+
+#: core/includes/theme-options.php
+msgid "Social Icons"
+msgstr "Icones socials"
+
+#: core/includes/theme-options.php
+msgid "Twitter"
+msgstr "Twitter"
+
+#: core/includes/theme-options.php
+msgid "Enter your Twitter URL"
+msgstr "Introdueix la teva URL del Twitter"
+
+#: core/includes/theme-options.php
+msgid "Facebook"
+msgstr "Facebook"
+
+#: core/includes/theme-options.php
+msgid "Enter your Facebook URL"
+msgstr "Introdueix la teva URL del Facebook"
+
+#: core/includes/theme-options.php
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: core/includes/theme-options.php
+msgid "Enter your LinkedIn URL"
+msgstr "Introdueix la teva URL del LinkedIn"
+
+#: core/includes/theme-options.php
+msgid "YouTube"
+msgstr "YouTube"
+
+#: core/includes/theme-options.php
+msgid "Enter your YouTube URL"
+msgstr "Introdueix la teva URL del YouTube"
+
+#: core/includes/theme-options.php
+msgid "StumbleUpon"
+msgstr "StumbleUpon"
+
+#: core/includes/theme-options.php
+msgid "Enter your StumbleUpon URL"
+msgstr "Introdueix la teva URL del StumbleUpon"
+
+#: core/includes/theme-options.php
+msgid "RSS Feed"
+msgstr "Font RSS"
+
+#: core/includes/theme-options.php
+msgid "Enter your RSS Feed URL"
+msgstr "Introdueix l'URL de la teva font RSS"
+
+#: core/includes/theme-options.php
+msgid "Google+"
+msgstr "Google+"
+
+#: core/includes/theme-options.php
+msgid "Enter your Google+ URL"
+msgstr "Introdueix la teva URL del Google+"
+
+#: core/includes/theme-options.php
+msgid "Instagram"
+msgstr "Instagram"
+
+#: core/includes/theme-options.php
+msgid "Enter your Instagram URL"
+msgstr "Introdueix la teva URL de l'Instagram"
+
+#: core/includes/theme-options.php
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: core/includes/theme-options.php
+msgid "Enter your Pinterest URL"
+msgstr "Introdueix la teva URL del Pinterest"
+
+#: core/includes/theme-options.php
+msgid "Yelp!"
+msgstr "Yelp!"
+
+#: core/includes/theme-options.php
+msgid "Enter your Yelp! URL"
+msgstr "Introdueix la teva URL del Yelp!"
+
+#: core/includes/theme-options.php
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: core/includes/theme-options.php
+msgid "Enter your Vimeo URL"
+msgstr "Introdueix la teva URL del Vimeo"
+
+#: core/includes/theme-options.php
+msgid "foursquare"
+msgstr "foursquare"
+
+#: core/includes/theme-options.php
+msgid "Enter your foursquare URL"
+msgstr "Introdueix la teva URL del foursquare"
+
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+msgid "Custom CSS Styles"
+msgstr "Estils CSS personalitzats"
+
+#: core/includes/theme-options.php
+msgid "https://developer.mozilla.org/en/CSS"
+msgstr "https://developer.mozilla.org/ca/CSS"
+
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+msgid "CSS Tutorial"
+msgstr "Tutorial de CSS"
+
+#: core/includes/theme-options.php
+msgid "Enter your custom CSS styles."
+msgstr "Introdueix els teus estils CSS personalitzats."
+
+#: core/includes/theme-options.php
+msgid "Custom Scripts"
+msgstr "Scripts personalitzats"
+
+#: core/includes/theme-options.php
+msgid "Custom Scripts for Header and Footer"
+msgstr "Scripts personalitzats per a la capçalera i el peu"
+
+#: core/includes/theme-options.php
+#: core/includes/theme-options.php
+msgid "Quick Tutorial"
+msgstr "Tutorial ràpid"
+
+#: core/includes/theme-options.php
+msgid "Embeds to header.php &darr;"
+msgstr "S'incrusta a header.php &darr;"
+
+#: core/includes/theme-options.php
+msgid "Enter your custom header script."
+msgstr "Introdueix el teu script personalitzat per a la capçalera"
+
+#: core/includes/theme-options.php
+msgid "Embeds to footer.php &darr;"
+msgstr "S'incrusta a footer.php &darr;"
+
+#: core/includes/theme-options.php
+msgid "Enter your custom footer script."
+msgstr "Introdueix el teu script personalitzat per al peu"
+
+#: core/includes/theme-options.php
+msgid "Enable Custom Front Page"
+msgstr ""
+
+#: core/includes/functions.php
+#: core/includes/functions.php
+msgid "Help"
+msgstr ""
+
+#: core/includes/functions.php
+#: core/includes/functions.php
+msgid "Instructions"
+msgstr ""
+
+#: core/includes/theme-options.php
+msgid "Overrides the WordPress %1sfront page option%2s"
+msgstr ""
+
+#: core/includes/functions.php
+#: core/includes/functions.php
+msgid "Translate"
+msgstr ""
+
+#: core/includes/functions.php
+#. Welcome to Responsive! Upgrade to Responsive Pro today.
+# INSTRUCTION: Welcome to Responsive! Upgrade to Responsive Pro today.
+msgid "Welcome to %1$s! Upgrade to %2$s today."
+msgstr ""
+
