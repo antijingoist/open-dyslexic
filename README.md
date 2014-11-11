@@ -46,11 +46,8 @@ License
 The license for this font is: 
 
 ♡ Copying is an act of love. Please copy.
-OpenDyslexic(open-dyslexic) by Abelardo Gonzalez is licensed under a Creative Commons Attribution 3.0 Unported License.
-Based on a work at dyslexicfonts.com.
-Permissions beyond the scope of this license may be available at [http://opendyslexic.org/legal/](http://opendyslexic.org/legal/).
 
-Original Bitstream License: 
+Bitstream License: 
 
 Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved. Bitstream Vera is a trademark of Bitstream, Inc. 
 
