@@ -294,7 +294,7 @@ name = license;
 value = "Fonts are © Bitstream. OpenDyslexic changes and additional glyphs by Abelardo Gonzalez are licensed under a Creative Commons Attribution 3.0 Unported License.\012Based on a work at http://dyslexicfonts.com. ♡2012 by Abelardo Gonzalez. Copying is an act of love. Please copy.\012Bitstream license available here: http://opendyslexic.org/legal/";
 }
 );
-date = "2012-05-24 21:25:27 +0000";
+date = "2016-08-14 16:52:18 +0000";
 designer = "Abelardo Gonzalez";
 designerURL = "http://abbiecod.es";
 familyName = OpenDyslexic;
@@ -20908,5 +20908,5 @@ GSDimensionPlugin.Dimensions = {
 };
 };
 versionMajor = 2;
-versionMinor = 1;
+versionMinor = 20;
 }

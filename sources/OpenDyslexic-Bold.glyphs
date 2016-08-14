@@ -294,7 +294,7 @@ name = license;
 value = "Fonts are © Bitstream. OpenDyslexic changes and additional glyphs by Abelardo Gonzalez are licensed under a Creative Commons Attribution 3.0 Unported License.\012Based on a work at http://dyslexicfonts.com. ♡2012 by Abelardo Gonzalez. Copying is an act of love. Please copy.\012Bitstream license available here: http://opendyslexic.org/legal/";
 }
 );
-date = "2012-06-02 17:01:17 +0000";
+date = "2016-08-14 16:52:31 +0000";
 designer = "Abelardo Gonzalez";
 designerURL = "http://abbiecod.es";
 familyName = OpenDyslexic;
@@ -2163,7 +2163,7 @@ unicode = 0041;
 },
 {
 glyphname = B;
-lastChange = "2014-11-05 03:31:33 +0000";
+lastChange = "2016-08-14 16:54:07 +0000";
 layers = (
 {
 layerId = "D5D14868-B3D8-4E08-9530-062F6179E82D";
@@ -2177,7 +2177,6 @@ nodes = (
 "383 174 OFFCURVE",
 "417 181 OFFCURVE",
 "438 193 CURVE",
-"438 193 LINE",
 "456 205 OFFCURVE",
 "465 228 OFFCURVE",
 "465 264 CURVE SMOOTH",
@@ -14950,7 +14949,7 @@ unicode = 0104;
 },
 {
 glyphname = Bdotbelow;
-lastChange = "2014-11-05 03:31:49 +0000";
+lastChange = "2016-08-14 16:53:13 +0000";
 layers = (
 {
 components = (
@@ -14960,6 +14959,10 @@ name = B;
 {
 name = dotbelowcomb;
 transform = "{1, 0, 0, 1, 175, -9205}";
+},
+{
+name = dotbelowcomb;
+transform = "{1, 0, 0, 1, 145, -64}";
 }
 );
 layerId = "D5D14868-B3D8-4E08-9530-062F6179E82D";
@@ -17713,7 +17716,7 @@ unicode = 0105;
 },
 {
 glyphname = bdotbelow;
-lastChange = "2014-11-05 03:31:50 +0000";
+lastChange = "2016-08-14 16:53:23 +0000";
 layers = (
 {
 components = (
@@ -17723,6 +17726,10 @@ name = b;
 {
 name = dotbelowcomb;
 transform = "{1, 0, 0, 1, 184, -6137}";
+},
+{
+name = dotbelowcomb;
+transform = "{1, 0, 0, 1, 179, -51}";
 }
 );
 layerId = "D5D14868-B3D8-4E08-9530-062F6179E82D";
@@ -24156,5 +24163,5 @@ weightClass = Bold;
 );
 unitsPerEm = 1000;
 versionMajor = 2;
-versionMinor = 1;
+versionMinor = 20;
 }
