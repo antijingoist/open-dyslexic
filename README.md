@@ -11,6 +11,22 @@ Places I've officially uploaded the latest stable versions to are [dafont.com](h
 
 The latest version may not always be the best version. If you want a stable version, check [github](https://github.com/antijingoist/open-dyslexic/tags) for the latest stable or working beta including otf's and ttf's, or [DaFont](http://dafont.com/open-dyslexic.font) for a stable otf.
 
+For ease of use there is a CDN provided by [ClarkHacks](https://clarkhacks.com/)
+
+__V1__
+
+`https://cdn.clarkhacks.com/OpenDyslexic/v1/OpenDyslexic.css`
+
+__V2__
+
+`https://cdn.clarkhacks.com/OpenDyslexic/v2/OpenDyslexic.css`
+
+__V3__
+
+`https://cdn.clarkhacks.com/OpenDyslexic/v3/OpenDyslexic.css`
+
+The CDN is powered by CloudFlare for ultra-fast and reliable connections.
+
 If you are upgrading your copy of this font, you may want to remove previous version first. 
 
 Typeface/font to help readability, and help readability for some of the symptoms of dyslexia.
