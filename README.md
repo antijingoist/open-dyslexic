@@ -1,6 +1,6 @@
 README
 ======
-_Note: the repository for the latest version has moved to antijingoist/opendyslexic. It uses the SIL-OFL license, which is much less confusing than the few licenses in here. As of 2019-09-07, its not completely complete, but it is does contain more characters, as well as completing several frequent requests._
+_Note: the repository for the latest version has moved to [antijingoist/opendyslexic](https://github.com/antijingoist/opendyslexic). It uses the SIL-OFL license, which is much less confusing than the few licenses in here. As of 2019-09-07, its not completely complete, but it is does contain more characters, as well as completing several frequent requests._
 
 ![Facebook example](https://github.com/antijingoist/open-dyslexic/raw/master/screenshots/facebook-dyslexic.png)
 
